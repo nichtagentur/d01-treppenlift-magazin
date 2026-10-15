@@ -1,0 +1,948 @@
+{
+    "version": "0.1.20260917",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.1027 sec.",
+    "cost": 0.09,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "10151345-1403-0093-0000-4cf205740012",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "5.0068 sec.",
+            "cost": 0.09,
+            "result_count": 20,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google",
+                "location_code": 2276,
+                "language_code": "de",
+                "keywords": [
+                    "treppenlift außenbereich",
+                    "treppenlift im außenbereich",
+                    "treppenlift außen",
+                    "treppenlift außentreppe",
+                    "treppenlift für außen",
+                    "treppenlift draußen",
+                    "treppenlift außen kosten",
+                    "treppenlift außenbereich kosten",
+                    "treppenlift außentreppe kosten",
+                    "treppenlift außen gebraucht",
+                    "treppenlift außen rollstuhl",
+                    "treppenlift innen oder außen",
+                    "plattformlift außen",
+                    "plattformlift außentreppe",
+                    "plattformlift außen kosten",
+                    "hublift außen",
+                    "hublift außen kosten",
+                    "hublift außentreppe",
+                    "hublift außen rollstuhl",
+                    "treppenlift außen krankenkasse"
+                ]
+            },
+            "result": [
+                {
+                    "keyword": "treppenlift außenbereich",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 11.79,
+                    "search_volume": 390,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 260
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift im außenbereich",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 12.97,
+                    "search_volume": 1000,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1000
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift außentreppe",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 11.93,
+                    "search_volume": 260,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 320
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift für außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 12.97,
+                    "search_volume": 1000,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1000
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift draußen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.99,
+                    "cpc": 10.29,
+                    "search_volume": 210,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 140
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift außen kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 11.73,
+                    "search_volume": 140,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 140
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift außenbereich kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.91,
+                    "cpc": 13.54,
+                    "search_volume": 20,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 40
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift außentreppe kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift außen gebraucht",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift außen rollstuhl",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift innen oder außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "plattformlift außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.91,
+                    "cpc": 7.23,
+                    "search_volume": 590,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 590
+                        }
+                    ]
+                },
+                {
+                    "keyword": "plattformlift außentreppe",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "plattformlift außen kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.78,
+                    "cpc": 3.47,
+                    "search_volume": 210,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 170
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hublift außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.85,
+                    "cpc": 7.51,
+                    "search_volume": 590,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 590
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hublift außen kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.68,
+                    "cpc": 3.72,
+                    "search_volume": 260,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 320
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hublift außentreppe",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "hublift außen rollstuhl",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift außen krankenkasse",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+OK	200	https://lxgesetze.de/lbo/AN-1
+OK	200	https://www.bundesgesundheitsministerium.de/pflege-zu-hause/zuschuesse-zur-wohnungsanpassung
+OK	200	https://www.gesetze-bayern.de/Content/Document/BayBO-57
+OK	200	https://www.gesetze-im-internet.de/betrsichv_2015/__1.html
+OK	200	https://www.gesetze-im-internet.de/betrsichv_2015/__2.html
+OK	200	https://www.gesetze-im-internet.de/bgb/__554.html
+OK	200	https://www.gesetze-im-internet.de/bgb/__634a.html
+OK	200	https://www.gesetze-im-internet.de/nav/__13.html
+OK	200	https://www.gesetze-im-internet.de/sgb_11/__40.html
+OK	200	https://www.gesetze-im-internet.de/woeigg/__20.html
+OK	200	https://www.hamburg.de/resource/blob/190328/a9497c81955ec93667bcb0b2c5a545b3/faq-60-hbauo-verfahrensfreie-vorhaben-data.pdf
+OK	200	https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/
+OK	200	https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/
+OK	200	https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/
+OK	200	https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/
+OK	200	https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/
+OK	200	https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711

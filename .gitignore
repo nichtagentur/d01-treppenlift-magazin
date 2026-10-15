@@ -1,0 +1,8 @@
+dist/
+site/
+.claude/
+research/*.png
+research/screenshots/
+__pycache__/
+*.pyc
+.env

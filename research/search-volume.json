@@ -1,0 +1,2105 @@
+{
+    "version": "0.1.20260917",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.6534 sec.",
+    "cost": 0.09,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "10151252-1403-0093-0000-308dbe3a4190",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.6351 sec.",
+            "cost": 0.09,
+            "result_count": 30,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google",
+                "location_code": 2276,
+                "language_code": "de",
+                "keywords": [
+                    "treppenlift",
+                    "treppenlift kosten",
+                    "treppenlift zuschuss",
+                    "treppenlift pflegekasse",
+                    "treppenlift gebraucht",
+                    "treppenlift mieten",
+                    "treppenlift außen",
+                    "treppenlift kurvig",
+                    "treppenlift gerade treppe",
+                    "sitzlift",
+                    "plattformlift",
+                    "hublift",
+                    "treppenlift einbauen",
+                    "treppenlift montage",
+                    "treppenlift selbst einbauen",
+                    "treppenlift händler",
+                    "treppenlift hersteller",
+                    "treppenlift test",
+                    "treppenlift preis",
+                    "treppenlift steuerlich absetzen",
+                    "treppenlift kfw",
+                    "treppenlift voraussetzungen",
+                    "treppenlift vorschriften",
+                    "treppenlift wartung",
+                    "treppenlift stuhl",
+                    "rollstuhl treppenlift",
+                    "treppenlift elektrisch",
+                    "treppenlift erfahrungen",
+                    "treppenlift angebot",
+                    "treppenlift ohne schiene"
+                ]
+            },
+            "result": [
+                {
+                    "keyword": "treppenlift",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 23.51,
+                    "search_volume": 22200,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 27100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 27100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 27100
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift kosten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.67,
+                    "cpc": 16.81,
+                    "search_volume": 9900,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 9900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift zuschuss",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.77,
+                    "cpc": 7.41,
+                    "search_volume": 390,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 480
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift pflegekasse",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.83,
+                    "cpc": 10.65,
+                    "search_volume": 140,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 170
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift gebraucht",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 19.15,
+                    "search_volume": 3600,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift mieten",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.98,
+                    "cpc": 21.91,
+                    "search_volume": 1000,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1300
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift außen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 12.97,
+                    "search_volume": 1000,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1000
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift kurvig",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.98,
+                    "cpc": 24.26,
+                    "search_volume": 40,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 70
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift gerade treppe",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.84,
+                    "cpc": 12.95,
+                    "search_volume": 90,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 110
+                        }
+                    ]
+                },
+                {
+                    "keyword": "sitzlift",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.76,
+                    "cpc": 15.82,
+                    "search_volume": 210,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 260
+                        }
+                    ]
+                },
+                {
+                    "keyword": "plattformlift",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.92,
+                    "cpc": 6.14,
+                    "search_volume": 1600,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hublift",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.94,
+                    "cpc": 5.14,
+                    "search_volume": 1300,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift einbauen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift montage",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 7.59,
+                    "search_volume": 70,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 90
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift selbst einbauen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.99,
+                    "cpc": 13.01,
+                    "search_volume": 50,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 70
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift händler",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.33,
+                    "cpc": null,
+                    "search_volume": 30,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 20
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift hersteller",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.98,
+                    "cpc": 21.78,
+                    "search_volume": 210,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 320
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift test",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.9,
+                    "cpc": 19.08,
+                    "search_volume": 140,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 210
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift preis",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.99,
+                    "cpc": 12.74,
+                    "search_volume": 210,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 320
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift steuerlich absetzen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.53,
+                    "cpc": 4.28,
+                    "search_volume": 140,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 110
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift kfw",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.7,
+                    "cpc": 16.74,
+                    "search_volume": 40,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 70
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift voraussetzungen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.94,
+                    "cpc": 10.28,
+                    "search_volume": 40,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 50
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift vorschriften",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 3.07,
+                    "search_volume": 10,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 0
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 0
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 10
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift wartung",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.63,
+                    "cpc": 6.05,
+                    "search_volume": 110,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 170
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift stuhl",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 5.14,
+                    "search_volume": 50,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 50
+                        }
+                    ]
+                },
+                {
+                    "keyword": "rollstuhl treppenlift",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": null,
+                    "cpc": null,
+                    "search_volume": null,
+                    "categories": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "treppenlift elektrisch",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 1,
+                    "cpc": 3.56,
+                    "search_volume": 40,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 40
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift erfahrungen",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.91,
+                    "cpc": 9.8,
+                    "search_volume": 50,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 70
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift angebot",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.97,
+                    "cpc": 55.15,
+                    "search_volume": 140,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 170
+                        }
+                    ]
+                },
+                {
+                    "keyword": "treppenlift ohne schiene",
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": 0.97,
+                    "cpc": 4,
+                    "search_volume": 40,
+                    "categories": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 40
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 140
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
