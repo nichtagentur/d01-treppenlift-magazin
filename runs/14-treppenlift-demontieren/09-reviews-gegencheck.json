@@ -1,0 +1,132 @@
+{
+ "qa": {
+  "score": 84,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisiert auf Form und Quellenlage geprüft.",
+    "korrektur": "Für YMYL-nahe Aussagen zu Recht, Sicherheit und Normen eine fachliche Prüfung durch eine reale, qualifizierte Person benennen oder den Artikel ausdrücklich auf Quellenzusammenfassung ohne eigene Rechts-/Sicherheitsbewertung beschränken."
+   },
+   {
+    "zitat": "Ein Hinweis zur eigenen Produktfamilie: Der Betreiber dieses Magazins, Lehner Lifttechnik, führt unter anderem den Plattform-Treppenlift Stratos NG/A.",
+    "korrektur": "Den Interessenkonflikt bereits vor der Marken-/Quellenübersicht offenlegen: Lehner Lifttechnik ist selbst Treppenlift-Hersteller und Wettbewerber der genannten Marken; der Eigenverweis zum Stratos NG/A ist als Betreiberprodukt zu kennzeichnen."
+   },
+   {
+    "zitat": "treppenlift-magazin.de: Treppenlift Abbau (sekundäres Ratgeberportal)",
+    "korrektur": "Die eigene Domain nicht als externe Sekundärquelle führen. Für Acorn-Aussagen entweder eine Hersteller-Primärquelle nutzen oder die Angabe ausdrücklich als nicht herstellerbestätigte Sekundärinformation kennzeichnen."
+   },
+   {
+    "zitat": "Hersteller will Montage und Demontage ausschließlich durch den Liftstar-Kundendienst.",
+    "korrektur": "Formulierung an die Quelle angleichen: Lifta schreibt, Montage und Demontage sollten ausschließlich durch den Liftstar-Kundendienst durchgeführt werden."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Ein Rückbau erfolgt, soweit Herstellerunterlagen nichts anderes vorgeben, in der Regel in umgekehrter Montagereihenfolge.",
+    "korrektur": "entschärfen oder streichen"
+   },
+   {
+    "zitat": "Hersteller will Montage und Demontage ausschließlich durch den Liftstar-Kundendienst.",
+    "korrektur": "entschärfen oder streichen"
+   },
+   {
+    "zitat": "Der Hersteller will Montage und Demontage ausschließlich durch den Liftstar-Kundendienst ausgeführt sehen.",
+    "korrektur": "entschärfen oder streichen"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Dazu gibt es in der öffentlich zugänglichen Quellenlage keine belastbare Rechtsquelle.",
+    "ersatz": "Die Haftung bei Weiterverkauf oder Wiederaufbau richtet sich nach Vertrag, Rolle und Einzelfall; eine pauschale Aussage ist nicht möglich. Lassen Sie die konkrete Konstellation rechtlich prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Ohne diese Klärung sollten Sie keine Gewährleistung für die wiederaufgebaute Anlage übernehmen.",
+    "ersatz": "Klären Sie vorab, welche Gewährleistungs- und Haftungsrisiken aus Wiedereinbau und Weiterverkauf entstehen; lassen Sie die Vertragsgestaltung rechtlich prüfen. Eine pauschale Freizeichnung von Gewährleistung ist rechtlich nicht ohne Weiteres möglich."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Hersteller will Montage und Demontage ausschließlich durch den Liftstar-Kundendienst.",
+    "ersatz": "Lifta empfiehlt in seiner Gebrauchsanweisung, Montage und Demontage ausschließlich durch den Liftstar-Kundendienst ausführen zu lassen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Eine gesetzliche Rücknahmepflicht oder eine ElektroG-Zuordnung ist in der Quellenlage nicht belegt.",
+    "ersatz": "Ob eine gesetzliche Rücknahmepflicht oder eine ElektroG-Zuordnung greift, ist im Einzelfall zu prüfen; klären Sie die Entsorgung mit dem örtlichen Entsorgungsträger oder dem Hersteller."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Sie kennen die Treppe, Sie kennen den Untergrund, und Sie sehen sofort, welche Spuren der Lift hinterlassen hat.",
+    "ersatz": "Bei der Besichtigung prüfen Sie Treppe, Untergrund und sichtbare Spuren des Lifts."
+   },
+   {
+    "zitat": "Die Besichtigung entscheidet, ob der Auftrag ein Halbtagesjob oder ein Mehrtagesprojekt wird.",
+    "ersatz": "Die Besichtigung entscheidet, ob der Auftrag an einem halben Tag oder an mehreren Tagen ausgeführt werden muss."
+   },
+   {
+    "zitat": "Ein zweiter Punkt ist die Frage der Haftung und Gewährleistung bei Weiterverkauf oder Wiederaufbau: Wer haftet, wenn der Lift später weiterverkauft oder neu aufgebaut wird?",
+    "ersatz": "Ein zweiter Punkt ist die Haftung und Gewährleistung bei Weiterverkauf oder Wiederaufbau. Wer haftet, wenn der Lift später weiterverkauft oder neu aufgebaut wird, ist im Einzelfall zu klären."
+   },
+   {
+    "zitat": "Ein Hinweis zur eigenen Produktfamilie: Der Betreiber dieses Magazins, Lehner Lifttechnik, führt unter anderem den Plattform-Treppenlift Stratos NG/A.",
+    "ersatz": "Ein Hinweis zum Produktprogramm des Betreibers: Der Betreiber dieses Magazins, Lehner Lifttechnik, führt unter anderem den Plattform-Treppenlift Stratos NG/A."
+   },
+   {
+    "zitat": "Ausbauweg: Treppenhausbreite, Kurven, Türbreiten – passt ein Schienensegment später heraus?",
+    "ersatz": "Ausbauweg: Treppenhausbreite, Kurven, Türbreiten – prüfen Sie, ob ein Schienensegment später herauspasst."
+   }
+  ],
+  "an_lehner_melden": []
+ },
+ "links": [
+  {
+   "url": "https://bedienungsanleitungki.de/hiro/stairlift/160-q/user-manual/1vct9",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://magazine.lifta.at/document/download/68707439/387c8-12f72-374c0-aedda-0d893-01875-ea21a-a9587",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.manualslib.de/guide/1503385/handicare-1100-handbuch.html",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-magazin.de/treppenlift-abbau",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

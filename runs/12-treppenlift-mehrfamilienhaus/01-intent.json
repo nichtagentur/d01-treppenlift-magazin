@@ -1,0 +1,35 @@
+{
+ "query": "treppenlift mehrfamilienhaus",
+ "autocomplete": [
+  "einbau treppenlift mehrfamilienhaus",
+  "treppenlift im mehrfamilienhaus erlaubt",
+  "treppenlift mehrfamilienhaus",
+  "treppenlift mehrfamilienhaus brandschutz",
+  "treppenlift mehrfamilienhaus kosten",
+  "treppenlift mehrfamilienhaus rechtslage",
+  "treppenlift mehrfamilienhaus rechtslage nrw",
+  "treppenlift mehrfamilienhaus rechtslage österreich",
+  "treppenlift treppenhaus mehrfamilienhaus"
+ ],
+ "intent": "Informationsintention, teils transaktionsnah: Nutzer klären, ob, wie und zu welchen Kosten ein Treppenlift im Mehrfamilienhaus bzw. Treppenhaus möglich ist. Für Tischler sind das qualifizierte Anfragen aus WEG, Hausverwaltung, Eigentümer- und Mieterumfeld.",
+ "winkel": "MFH-/WEG-Beratung für Tischler: Treppenhaus als Gemeinschaftsfläche, Zustimmung von WEG/Vermieter, Brandschutz und Fluchtweg, Landesbauordnung und WEG-Recht als Prüfpunkte, Kostenverteilung, Alternativen sowie saubere Dokumentation. Keine allgemeine Montage-, Aufmaß- oder Kostenwiederholung. Rechtslage NRW/Österreich nur einordnen, nicht als Rechtsberatung; Einzelfall mit Bauaufsicht, Hausverwaltung und Hersteller klären. Stand: Oktober 2026.",
+ "kannibalisierung": "Nächstliegend ist 10-treppenlift-montage-vorschriften-wartung.html, außerdem 09-treppenlift-treppenart-aufmass.html und 02-treppenlift-kosten.html. Abgrenzung: Der neue Artikel fokussiert nur Mehrfamilienhaus/Treppenhaus: WEG, Hausverwaltung, gemeinschaftliche Flächen, Brandschutz/Fluchtweg, Zustimmung, Rechtslage, Kostenverteilung und Einbau im Treppenhaus. Allgemeine Vorschriften, Montage und Wartung bleiben in 10; Treppenart, Mindestbreite, DIN 18065 und Aufmaß in 09; allgemeine Kosten in 02; Alternativen in 04/05; Förderung in 08. Intern verlinken statt duplizieren.",
+ "faq_fragen": [
+  "Wie läuft der Einbau eines Treppenlifts im Mehrfamilienhaus ab?",
+  "Ist ein Treppenlift im Mehrfamilienhaus erlaubt?",
+  "Welche Brandschutzanforderungen gelten für einen Treppenlift im Mehrfamilienhaus?",
+  "Was kostet ein Treppenlift im Mehrfamilienhaus?",
+  "Wie ist die Rechtslage bei einem Treppenlift im Mehrfamilienhaus?",
+  "Was gilt bei der Rechtslage für einen Treppenlift im Mehrfamilienhaus in NRW?",
+  "Wie ist die Rechtslage für einen Treppenlift im Mehrfamilienhaus in Österreich?",
+  "Was ist bei einem Treppenlift im Treppenhaus eines Mehrfamilienhauses zu beachten?"
+ ],
+ "verwandte_artikel": [
+  "09-treppenlift-treppenart-aufmass.html",
+  "10-treppenlift-montage-vorschriften-wartung.html",
+  "02-treppenlift-kosten.html",
+  "04-plattformlift.html",
+  "05-hublift.html",
+  "08-treppenlift-zuschuss-foerderung.html"
+ ]
+}

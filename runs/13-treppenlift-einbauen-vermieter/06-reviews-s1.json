@@ -1,0 +1,157 @@
+{
+ "qa": {
+  "score": 0,
+  "stop": [
+   "Normen ohne verlinkte Primärquelle und Abrufdatum (§ 554 BGB, § 20/21/44/45 WEG)"
+  ],
+  "fehler": [
+   {
+    "zitat": "eine juristische Fachprüfung liegt nicht vor",
+    "korrektur": "Für YMYL-Recht ist eine qualifizierte juristische Prüfung erforderlich und zu benennen; andernfalls Rechtsaussagen auf allgemeine Orientierung beschränken und konsequent auf Rechtsberatung verweisen."
+   },
+   {
+    "zitat": "Als allgemeine Praxisempfehlung gilt: Antrag vor Auftrag. Das ist keine gesetzliche Pflicht.",
+    "korrektur": "Nach Empfehlung der Verbraucherzentrale sollte der Antrag vor Auftrag gestellt werden; das ist keine gesetzliche Pflicht. Quelle und Stand ergänzen."
+   },
+   {
+    "zitat": "Nach § 554 BGB kann der Mieter verlangen, dass der Vermieter bauliche Veränderungen erlaubt, die dem Gebrauch durch Menschen mit Behinderungen dienen.",
+    "korrektur": "Primärquelle § 554 BGB verlinken (gesetze-im-internet.de) und Abrufdatum angeben; ebenso § 20, § 21, § 44, § 45 WEG."
+   },
+   {
+    "zitat": "Der Mieter kann den Einbau verlangen, bestellt ihn aber in der Regel erst nach der Erlaubnis.",
+    "korrektur": "Präziser: Der Mieter kann verlangen, dass der Vermieter die bauliche Veränderung erlaubt; er bestellt den Lift in der Regel erst nach der Erlaubnis."
+   },
+   {
+    "zitat": "Der StepSaver kommt nach Angabe des Betreibers dieses Magazins in vielen Fällen ohne bauliche Anpassungen aus",
+    "korrektur": "Unbestimmte Werbeaussage entfernen oder auf konkrete, belegbare Herstellerangabe mit Einsatzgrenzen beschränken."
+   },
+   {
+    "zitat": "Der Bundesgerichtshof hat in der Pressemitteilung Nr. 26/2024 zu V ZR 244/22 ausgeführt",
+    "korrektur": "Für rechtliche Aussagen die BGH-Entscheidung V ZR 244/22 als Primärquelle zitieren; Pressemitteilung nur ergänzend."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [
+   {
+    "zitat": "Der Mieter kann sich im Zusammenhang mit der Veränderung zur Leistung einer besonderen Sicherheit verpflichten, es sei denn, diese ist unbillig.",
+    "korrektur": "Der Gesetzeswortlaut nennt diese Einschränkung nicht. § 554 Abs. 1 S. 3 BGB verweist lediglich auf § 551 Abs. 3 BGB; der Zusatz \"es sei denn, diese ist unbillig\" ist zu streichen."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Auftraggeber kann der Mieter, der Vermieter oder die Verwaltung sein – entscheidend ist, wem das Gebäude gehört und wer die Maßnahme bestellt.",
+    "korrektur": "entschärfen oder streichen: Für die Rollenverteilung als Branchenpraxis gibt es keine belegbare Quelle. Zutreffend ist nur: Auftraggeber ist, wer den Auftrag erteilt; die Hausverwaltung ist nicht automatisch Vertragspartner."
+   },
+   {
+    "zitat": "Als allgemeine Praxisempfehlung gilt: Antrag vor Auftrag.",
+    "korrektur": "entschärfen oder streichen: Die Reihenfolge \"Antrag vor Auftrag\" ist kein Gesetz, sondern eine Empfehlung der Verbraucherzentrale; als \"allgemeine Praxisempfehlung\" ist sie im Recherchelauf nicht belegt. Als Empfehlung der Verbraucherzentrale kennzeichnen oder streichen."
+   },
+   {
+    "zitat": "Häufig werden eine technische Beschreibung, Angaben zur Befestigung und eine Skizze der geplanten Position erwartet.",
+    "korrektur": "entschärfen oder streichen: Für erwartete Unterlagen/Muster gibt es keine belegbare Quelle. Beim Satz \"Eine gesetzliche Formvorgabe gibt es nicht\" bleiben und auf die Klärung im Einzelfall mit Vermieter und Verwaltung verweisen."
+   },
+   {
+    "zitat": "Zugangs- und Terminfragen sind nicht gesetzlich detailliert geregelt.",
+    "korrektur": "entschärfen: als Erfahrungswert kennzeichnen und auf die Absprache im Einzelfall verweisen (z. B. \"Zugang und Termine stimmen Sie mit Vermieter und Verwaltung ab\"). Eine belastbare gesetzliche Aussage ist nicht belegt."
+   },
+   {
+    "zitat": "§ 40 SGB XI – Pflegeversicherung, Gesetze im Internet, abgerufen Oktober 2026",
+    "korrektur": "entschärfen oder streichen: Zu SGB XI/Pflegekasse wurde im Recherchelauf keine Quelle abgerufen; die Quellenangabe ist zu entfernen oder zu verifizieren. Inhaltlich nur die Kann-Leistung nach § 40 Abs. 4 SGB XI ohne Betrag und ohne Antragsberechtigung nennen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Nach Absatz 2 ist eine Vereinbarung zum Nachteil des Mieters unwirksam.",
+    "ersatz": "Nach § 554 Abs. 3 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Mieter kann den Einbau verlangen, bestellt ihn aber in der Regel erst nach der Erlaubnis.",
+    "ersatz": "Der Mieter kann unter den Voraussetzungen des § 554 BGB verlangen, dass der Vermieter die bauliche Veränderung erlaubt; einen Anspruch auf Durchführung des Einbaus durch den Vermieter begründet das nicht. Ob der Anspruch im Einzelfall besteht, ist eine Rechtsfrage und gehört in die Rechtsberatung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für die Praxis heißt das: Erst der Beschluss, dann der Bau.",
+    "ersatz": "In der Praxis sollte vor der Montage am Gemeinschaftseigentum die erforderliche Beschlussfassung oder Gestattung vorliegen; die Ausnahme des § 20 Abs. 3 WEG (Einverständnis aller betroffenen Wohnungseigentümer) ist im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Als allgemeine Praxisempfehlung gilt: Antrag vor Auftrag. Das ist keine gesetzliche Pflicht.",
+    "ersatz": "Die Verbraucherzentrale empfiehlt, den Antrag vor Auftrag zu stellen; gesetzlich vorgeschrieben ist das nicht."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Ist schriftlich festgehalten, dass die rechtliche Prüfung nicht Aufgabe des Fachbetriebs ist?",
+    "ersatz": "Ist im Angebot klargestellt, dass der Betrieb keine Rechtsberatung schuldet und die Zustimmung Sache des Auftraggebers ist; unabhängig davon bleiben Hinweis- und Prüfpflichten des Betriebs im Einzelfall bestehen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Als allgemeine Praxisempfehlung gilt: Antrag vor Auftrag. Das ist keine gesetzliche Pflicht.",
+    "ersatz": "Die Verbraucherzentrale empfiehlt: Antrag vor Auftrag. Das ist keine gesetzliche Pflicht."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast in der Überschrift bis zu 300 kg vs. technische Spezifikationen 225 kg (optional 300 kg). Bitte konservativen Wert bestätigen.",
+   "Stratos NG/A: Traglast in der Überschrift bis 350 kg vs. technische Spezifikationen 225 kg (optional 350 kg). Bitte konservativen Wert bestätigen.",
+   "Stratos NG/A: Plattformgrößen bis 900 × 1400 mm vs. technische Spezifikationen 700×750, 750×850, 800×900, 800×1000 mm. Bitte bestätigen.",
+   "Neo: Normen EN 81-40 und EN 81-41 werden für dasselbe Fußbrett genannt. Bitte beim Hersteller bestätigen.",
+   "Sigma: Hubhöhe bis 8000 mm vs. FAQ (öffentlich 3 m, privat 4 m, Kabine/Schacht 8 m). Bitte bestätigen.",
+   "Delta: Vergleichstabelle vs. Stratos-Seite bei Traglast (225 kg optional 350 kg). Bitte bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/sgb_11/__40.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/bauliche-veraenderung-und-erhaltung-faqs-HI1519452.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.miv.eu/aktuelles/barrierefreiheit-in-der-mietwohnung-%C2%A7-554-bgb-und-weg-zustimmung/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "qa": {
+  "score": 85,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "KI-gestützt erstellt und geprüft",
+    "korrektur": "Bei YMYL-Themen (Recht, Sicherheit, Haftung, Versicherung) eine qualifizierte Fachprüfung benennen oder klar auf konkrete Fachberatung verweisen; „KI-gestützt geprüft“ ersetzt keine Fachprüfung."
+   },
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin; Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min.",
+    "korrektur": "Nächsten Review-Termin und Korrekturweg (Kontakt oder Änderungslog) sichtbar ergänzen, da YMYL-Inhalte regelmäßig geprüft werden müssen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Ein Rückbau erfolgt, soweit Herstellerunterlagen nichts anderes vorgeben, in der Regel in umgekehrter Montagereihenfolge.",
+    "korrektur": "entschärfen oder streichen: Eine allgemeine Rückbaureihenfolge ist in der Quellenlage nicht belegt und widerspricht der übrigen Artikelaussage. Maßgeblich sind ausschließlich die Herstellerunterlagen des konkreten Modells."
+   },
+   {
+    "zitat": "Die Schiene ist das Bauteil, das die meisten Spuren hinterlässt.",
+    "korrektur": "entschärfen: Die Schiene wird an Wandhaltern, Stützen oder Trittstufen befestigt und hinterlässt beim Rückbau typischerweise Bohrlöcher, die Reparaturen oder Malerarbeiten erfordern können."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Eine gesetzliche Rücknahmepflicht oder eine ElektroG-Zuordnung ist in der Quellenlage nicht belegt.",
+    "ersatz": "Ob eine gesetzliche Rücknahmepflicht oder eine Zuordnung nach ElektroG greift, ist anhand des konkreten Geräts, der Rolle als Inverkehrbringer und im Einzelfall mit dem Entsorgungsträger oder Hersteller zu klären."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Bohrlöcher absaugen, verschießen oder für Malerarbeiten vorbereiten.",
+    "ersatz": "Bohrlöcher absaugen, verschließen oder für Malerarbeiten vorbereiten."
+   },
+   {
+    "zitat": "Die Schiene ist das Bauteil, das die meisten Spuren hinterlässt.",
+    "ersatz": "Die Schiene ist ein Bauteil, das häufig Spuren hinterlässt."
+   },
+   {
+    "zitat": "Treppenlift demontieren Anleitung: Gibt es eine allgemeine Anleitung?",
+    "ersatz": "Treppenlift demontieren: Gibt es eine allgemeine Anleitung?"
+   },
+   {
+    "zitat": "Ob und in welchem Umfang Sie Elektroarbeiten selbst ausführen dürfen, klären Sie für den Einzelfall mit einer Elektrofachkraft; Elektroarbeiten nur durch berechtigte Personen ausführen lassen.",
+    "ersatz": "Klären Sie den Einzelfall mit einer Elektrofachkraft. Elektroarbeiten dürfen nur berechtigte Personen ausführen."
+   },
+   {
+    "zitat": "Sie kennen die Treppe, Sie kennen den Untergrund, und Sie sehen sofort, welche Spuren der Lift hinterlassen hat.",
+    "ersatz": "Sie kennen die Treppe und den Untergrund. So schätzen Sie die Spuren des Lifts ein."
+   },
+   {
+    "zitat": "Für Tischler und Schreiner in Deutschland gilt: Ein Treppenlift wird abgebaut, wenn er nicht mehr gebraucht wird, wenn ein Haus verkauft oder umgebaut wird, oder wenn ein neues Modell an dieselbe Treppe soll.",
+    "ersatz": "Für Tischler und Schreiner in Deutschland gilt: Ein Treppenlift wird abgebaut, wenn er nicht mehr gebraucht wird. Weitere Anlässe sind Hausverkauf, Umbau oder ein neues Modell an derselben Treppe."
+   }
+  ],
+  "an_lehner_melden": [
+   "Stratos NG/A: Widersprüchliche Plattformgrößen (Hero/Vergleich 900 × 1400 mm vs. technische Spezifikation 700×750, 750×850, 800×900, 800×1000 mm). Bitte konservativen Wert für Kommunikation bestätigen.",
+   "Stratos NG/A: Normangabe EN 81-40:2020 vs. EU-Maschinenrichtlinie. Bitte bestätigen, welche Norm/en gelten.",
+   "Stratos NG/A: Traglast bis 350 kg vs. 225 kg (optional 350 kg). Bitte konservativen Wert bestätigen.",
+   "Neo: Norm EN 81-40 vs. EN 81-41 im selben Text. Bitte bestätigen.",
+   "Omega: Traglast bis 300 kg vs. 225 kg (optional 300 kg). Bitte konservativen Wert bestätigen.",
+   "Plattformlifte allgemein: FAQ Delta/Omega nennt bis 300 kg und max. 900x1300 mm; Stratos NG/A nennt bis 350 kg und bis 900x1400 mm. Bitte übergreifende, konservative Angabe bestätigen.",
+   "Sigma: Hubhöhe max. 8000 mm vs. FAQ-Einschränkung (öffentlich 3 m, privat 4 m, geschlossen/Schacht bis 8 m). Bitte Kommunikation präzisieren.",
+   "Für Lehner-Produkte fehlen in den bereitgestellten Produktfakten Angaben zu Demontage/Rückbau. Bitte Demontagehinweise und zulässige Servicepartner für Stratos NG/A und weitere Modelle bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://bedienungsanleitungki.de/hiro/stairlift/160-q/user-manual/1vct9",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://magazine.lifta.at/document/download/68707439/387c8-12f72-374c0-aedda-0d893-01875-ea21a-a9587",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.manualslib.de/guide/1503385/handicare-1100-handbuch.html",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-magazin.de/treppenlift-abbau",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

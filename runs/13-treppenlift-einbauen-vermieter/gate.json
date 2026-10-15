@@ -1,0 +1,24 @@
+{
+ "qa_score": 68,
+ "qa_stop": [
+  "§ 40 Abs. 4 SGB XI wird als Norm genannt, aber nicht mit Primärquelle/Abrufdatum belegt (QA-Stop-Kriterium 4)."
+ ],
+ "fakten_falsch": 1,
+ "legal_mittel_hoch": 5,
+ "links_tot": [
+  "https://www.gesetze-im-internet.de/bgb/__554.html",
+  "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+  "https://www.gesetze-im-internet.de/woeigg/__20.html"
+ ],
+ "gegencheck_score": 96,
+ "ok_vor_gegencheck": false,
+ "bestanden": false,
+ "query": "treppenlift einbauen vermieter",
+ "slug": "13-treppenlift-einbauen-vermieter",
+ "h1": "Treppenlift einbauen, wenn das Gebäude dem Vermieter gehört: Auftraggeber, Zustimmung und Rückbau",
+ "kosten_usd": 0.4356,
+ "llm_calls": 25,
+ "modell": "deepseek/deepseek-v4.1-flash",
+ "gegencheck_modell": "google/gemini-4-argon",
+ "datum": "2026-10-15"
+}

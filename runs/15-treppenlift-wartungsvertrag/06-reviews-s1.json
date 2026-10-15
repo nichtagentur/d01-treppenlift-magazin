@@ -1,0 +1,172 @@
+{
+ "qa": {
+  "score": 82,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Nach üblichen Vertragswerken umfassen Inspektion und Wartung alle regelmäßigen Maßnahmen zur Erhaltung des mangelfreien Zustands und der Funktion des Vertragsgegenstands; der konkrete Umfang ergibt sich aus Herstellervorgaben und den geltenden Richtlinien und Normen.",
+    "korrektur": "Quelle für „übliche Vertragswerke“ nennen oder auf „In den hier zitierten Vertragswerken ist geregelt ...“ umstellen; allgemeine Rechts-/Normaussage nur mit Primärquelle."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft.",
+    "korrektur": "Bei Recht/YMYL eine qualifizierte menschliche Fachprüfung benennen oder ausdrücklich sagen, dass keine juristische Fachprüfung erfolgt ist; dann keine Vertragsklauseln als Muster darstellen."
+   },
+   {
+    "zitat": "Impressum und Kontakt sind über die Website des Betreibers erreichbar: lehner-lifttechnik.com.",
+    "korrektur": "Direkte Links zu Impressum, Kontakt und Datenschutz mit E-Mail/Telefon/Anschrift im Footer/Artikel ergänzen."
+   },
+   {
+    "zitat": "Sicherheitskomponenten werden in festen Abständen geprüft – nicht erst, wenn etwas auffällt.",
+    "korrektur": "Konditional formulieren: „Sofern die Prüfung der Sicherheitselemente vertraglich eingeschlossen ist, werden diese in den vereinbarten Abständen geprüft.“"
+   },
+   {
+    "zitat": "Was ein Wartungsvertrag für Endkunden kostet",
+    "korrektur": "Entweder belastbare Kostenbeispiele mit Quelle ergänzen oder Überschrift ändern in „Kosten einordnen: warum Pauschalangaben wenig taugen“."
+   },
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (Betreiber dieses Magazins; KI-gestützt erstellt und geprüft)",
+    "korrektur": "Nächsten Review-Termin und Änderungslog/Korrekturweg ergänzen; bei YMYL-Rechtsthemen Review-Intervall dokumentieren."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Gesetzliche Mängelhaftung (Gewährleistung): entsteht aus dem Kaufvertrag. Ansprechpartner für Mängelansprüche ist in der Regel Ihr Betrieb als Verkäufer.",
+    "korrektur": "entschärfen oder streichen"
+   },
+   {
+    "zitat": "Werterhalt: Regelmäßige Pflege trägt zur Nutzungsdauer bei.",
+    "korrektur": "entschärfen oder streichen"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Sicherheit: Sicherheitskomponenten werden in festen Abständen geprüft – nicht erst, wenn etwas auffällt.",
+    "ersatz": "Sicherheit: Sofern der Vertrag eine regelmäßige Prüfung der Sicherheitselemente vorsieht, werden diese in den vereinbarten Abständen geprüft. Prüfumfang und Intervall ergeben sich aus dem konkreten Vertrag."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Planbarkeit: Die Vergütung steht fest, statt bei jedem Ausfall neu verhandelt zu werden.",
+    "ersatz": "Planbarkeit: Soweit keine Preisanpassungsklausel greift, steht die Vergütung fest und muss nicht bei jedem Ausfall neu verhandelt werden."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Werterhalt: Regelmäßige Pflege trägt zur Nutzungsdauer bei.",
+    "ersatz": "Werterhalt: Regelmäßige Pflege kann zur Nutzungsdauer beitragen; eine Garantie ist damit nicht verbunden."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Ersatzteile und Folgeaufträge: Verschleißteile laufen separat und bleiben bei Ihnen im Betrieb.",
+    "ersatz": "Ersatzteile und Folgeaufträge: Verschleißteile werden in der Regel separat berechnet; ob der Kunde sie bei Ihnen bezieht, ist nicht garantiert."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Verbindlich sind die Vorgaben des jeweiligen Herstellers und Betreibers; ob und in welchem Abstand gewartet werden muss, hängt von Anlage, Nutzung, Standort und Herstellervorgaben ab. Klären Sie den Einzelfall.",
+    "ersatz": "Verbindlich sind die Vorgaben des jeweiligen Herstellers und Betreibers; ob und in welchem Abstand gewartet werden muss, hängt von Anlage, Nutzung, Standort und Herstellervorgaben ab. Klären Sie den Einzelfall. Klären Sie zusätzlich, ob Sie für die Wartung des jeweiligen Fabrikats autorisiert sind; andernfalls können Garantie- und Haftungsfragen abweichen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Hersteller können die Garantie an eine jährlich wiederkehrende, kostenpflichtige Wartung knüpfen.",
+    "ersatz": "Hersteller können Garantieleistungen an eine wiederkehrende, kostenpflichtige Wartung knüpfen."
+   },
+   {
+    "zitat": "In veröffentlichten Vertragswerken werden Wartezeiten ausdrücklich offengelassen, wenn der diensthabende Techniker ausgelastet ist.",
+    "ersatz": "In Vertragswerken können Reaktionszeiten eingeschränkt oder ausgeschlossen sein; prüfen Sie den Einzelfall."
+   },
+   {
+    "zitat": "Sicherheitskomponenten werden in festen Abständen geprüft – nicht erst, wenn etwas auffällt.",
+    "ersatz": "Im vereinbarten Wartungsintervall werden Sicherheitskomponenten geprüft – nicht erst, wenn etwas auffällt."
+   },
+   {
+    "zitat": "Planbarkeit: Die Vergütung steht fest, statt bei jedem Ausfall neu verhandelt zu werden.",
+    "ersatz": "Planbarkeit: Die Vergütung ist im Vertrag geregelt, statt bei jedem Ausfall neu verhandelt zu werden."
+   },
+   {
+    "zitat": "Ein sauber aufgesetzter Wartungsvertrag bindet Kunden, sichert Ersatzteilgeschäft und macht Ihre Serviceleistung planbar.",
+    "ersatz": "Ein sauber aufgesetzter Wartungsvertrag sichert Kundenbindung, Ersatzteilgeschäft und macht Ihre Serviceleistung planbar."
+   },
+   {
+    "zitat": "Führen Sie den Vertrag nicht über Drohbilder ein, sondern über Nutzen:",
+    "ersatz": "Führen Sie den Vertrag nicht über Angst, sondern über Nutzen ein:"
+   },
+   {
+    "zitat": "Nach üblichen Vertragswerken umfassen Inspektion und Wartung alle regelmäßigen Maßnahmen zur Erhaltung des mangelfreien Zustands und der Funktion des Vertragsgegenstands; der konkrete Umfang ergibt sich aus Herstellervorgaben und den geltenden Richtlinien und Normen.",
+    "ersatz": "Nach üblichen Vertragswerken umfassen Inspektion und Wartung alle regelmäßigen Maßnahmen zur Erhaltung des mangelfreien Zustands und der Funktion. Der konkrete Umfang ergibt sich aus Herstellervorgaben und den geltenden Richtlinien und Normen."
+   },
+   {
+    "zitat": "Die Wartungsintervalle sind kein Selbstläufer.",
+    "ersatz": "Die Wartungsintervalle sind nicht pauschal festgelegt."
+   },
+   {
+    "zitat": "Im Servicevertrag von SERVOLIFT ist eine Laufzeit von 24 Monaten mit stillschweigender Verlängerung um zwölf Monate und einer jährlichen Preissteigerung von 3 % für die Verlängerung vorgesehen",
+    "ersatz": "Im 2019 veröffentlichten Servicevertrag von SERVOLIFT war eine Laufzeit von 24 Monaten mit stillschweigender Verlängerung um zwölf Monate und einer jährlichen Preissteigerung von 3 % für die Verlängerung vorgesehen; ob diese Bedingungen aktuell gelten, ist beim Anbieter zu prüfen."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast oben 'bis zu 300 kg', technische Spezifikationen '225 kg (optional 300 kg)' – Standard- und Optionalwerte bitte klarstellen.",
+   "Stratos NG/A: Traglast oben 'bis 350 kg', Technik '225 kg (optional 350 kg)' – Standard- und Optionalwerte bitte klarstellen.",
+   "Stratos NG/A: Plattformgrößen widersprüchlich – 'bis 900 × 1400 mm' vs. technische Liste 700×750, 750×850, 800×900, 800×1000 mm.",
+   "Stratos NG/A: Normen – EN 81-40:2020 und EU-Maschinenrichtlinie gleichzeitig genannt; Verhältnis klären.",
+   "Neo: Normen – EN 81-40 vs. EN 81-41 beim Fußbrett; Widerspruch klären.",
+   "Neo: Status 'Coming soon' – Verfügbarkeit für Kalkulation und Wartung unklar.",
+   "StepSaver: 'Aufstellung optional auch im Außenbereich möglich' vs. 'Innen und außen' – Formulierung vereinheitlichen.",
+   "Delta und Stratos NG/A: abgeschnittene FAQ-/Preisangaben – vollständige Texte prüfen.",
+   "Wartungsvertrag: In den gelieferten Lehner-Produkttexten keine Angaben zu Wartungsvertrag, Intervallen, Preisen oder Leistungsumfang – bei Bedarf beim Hersteller bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://cibeslift.com/de-de/service-und-wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://lsl-leipzig.de/files/AGB_Wartung_LSL_2023.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://ts-treppenlifte.de/service/treppenlift-garantie/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.sanimed-treppenlift.de/treppenlift-service/treppenlift-wartung/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.servolift.de/fileadmin/user_upload/Service/2019-05-31_SERVOLIFT-Servicevertrag_D.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-fibel.de/serviceleistungen/wartung",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

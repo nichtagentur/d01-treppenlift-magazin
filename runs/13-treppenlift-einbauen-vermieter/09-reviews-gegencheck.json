@@ -1,0 +1,182 @@
+{
+ "qa": {
+  "score": 55,
+  "stop": [
+   "Stop-Kriterium 4: Falsche WEG-Normangaben: § 21 Abs. 1 WEG wird für den verlangenden Wohnungseigentümer genannt, einschlägig ist § 21 Abs. 2 WEG; § 20 Abs. 3 WEG wird mit „unvermeidlichem Maß“ statt „in Absatz 2 geregeltes Maß“ wiedergegeben.",
+   "Stop-Kriterium 2: Impressum und Kontakt sind im gelieferten Artikel nicht sichtbar erreichbar; nur der Betreiberhinweis in „Über diesen Artikel“ vorhanden."
+  ],
+  "fehler": [
+   {
+    "zitat": "nach § 21 Absatz 1 Satz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten der Maßnahme; ihm gebühren die Nutzungen",
+    "korrektur": "Für den Anspruch nach § 20 Abs. 2 WEG ist § 21 Abs. 2 WEG einschlägig. § 21 Abs. 1 WEG betrifft die Kostentragung bei einer durch Beschluss gestatteten baulichen Veränderung. Normzitat korrigieren und am Gesetzestext prüfen."
+   },
+   {
+    "zitat": "Nach § 21 Absatz 1 Satz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten der Maßnahme.",
+    "korrektur": "Auch hier ist § 21 Abs. 2 WEG für den Anspruch nach § 20 Abs. 2 WEG einschlägig, nicht § 21 Abs. 1 WEG. Fundstelle korrigieren."
+   },
+   {
+    "zitat": "Absatz 3 regelt die Gestattung, wenn alle Wohnungseigentümer einverstanden sind, deren Rechte über das unvermeidliche Maß hinaus beeinträchtigt werden.",
+    "korrektur": "§ 20 Abs. 3 WEG spricht nicht von „unvermeidlichem Maß“, sondern von Beeinträchtigungen über das in § 20 Abs. 2 WEG geregelte Maß hinaus; erforderlich ist die Zustimmung der betroffenen Wohnungseigentümer. Gesetzestext zitieren."
+   },
+   {
+    "zitat": "Betreiber dieses Magazins ist die Lehner Lifttechnik GmbH, Peuerbach (Österreich). Der Beitrag wurde mit KI-Unterstützung erstellt und redaktionell geprüft.",
+    "korrektur": "Impressum, Kontakt (E-Mail/Telefon/Anschrift) und Datenschutz müssen sichtbar verlinkt sein; der Betreiberhinweis allein genügt bei YMYL nicht. Footer/Links ergänzen."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "In der Praxis wird der Lift in der Regel erst nach der Erlaubnis bestellt.",
+    "korrektur": "entschärfen oder streichen – für die Mietebene ist keine Quelle für diese Reihenfolge belegt; nur die WEG-Variante (erst Beschluss, dann bauen) ist belegbar."
+   },
+   {
+    "zitat": "Die Hausverwaltung ... handelt für die Gemeinschaft, meist mit Vollmacht ... Sie ist häufig Ansprechpartner für Termine und Zugang, während der Auftrag von Mieter oder Eigentümer kommt.",
+    "korrektur": "entschärfen oder streichen – keine belegbare Quelle zur Vollmachts- und Terminpraxis; als reiner Erfahrungswert kennzeichnen."
+   },
+   {
+    "zitat": "Häufig bestellt der Mieter, während der Vermieter einen Teil der Kosten übernimmt oder umgekehrt.",
+    "korrektur": "entschärfen oder streichen – Branchenpraxis zum Vertragspartner/Kostenträger ist im Dossier nicht belegbar."
+   },
+   {
+    "zitat": "Bei gemieteten Liftsystemen ist der Besteller häufig nicht der Eigentümer des Geräts.",
+    "korrektur": "entschärfen oder streichen – keine belegbare Quelle zur Vertragsgestaltung bei Liftmiete."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin. Betreiber dieses Magazins ist die Lehner Lifttechnik GmbH, Peuerbach (Österreich). Der Beitrag wurde KI-gestützt erstellt und redaktionell geprüft."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Betreiber dieses Magazins nennt für den Sitzlift Alpha (Betreiber dieses Magazins) mehrere Varianten: Stützen auf der Treppe verschraubt, Stützen mit Klemmen befestigt, Stützen an der Treppenwange, Montage direkt an der Wand oder verschraubt an der Wand.",
+    "ersatz": "Der Betreiber dieses Magazins, die Lehner Lifttechnik, nennt für den Sitzlift Alpha mehrere Varianten: Stützen auf der Treppe verschraubt, Stützen mit Klemmen befestigt, Stützen an der Treppenwange, Montage direkt an der Wand oder verschraubt an der Wand."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach § 554 Abs. 1 S. 3 BGB kann sich der Mieter im Zusammenhang mit der Veränderung zur Leistung einer besonderen Sicherheit verpflichten; § 551 Abs. 3 BGB gilt entsprechend.",
+    "ersatz": "Nach § 554 Abs. 1 S. 3 BGB kann der Mieter verlangen, dass der Vermieter einer Vereinbarung über eine Sicherheitsleistung zustimmt, wenn der Vermieter ein berechtigtes Interesse daran hat; § 551 Abs. 3 BGB gilt entsprechend."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach Absatz 1 können solche Maßnahmen beschlossen oder einem Wohnungseigentümer durch Beschluss gestattet werden.",
+    "ersatz": "Nach Absatz 1 können solche Maßnahmen beschlossen werden; die Gestattung an einen Wohnungseigentümer regelt Absatz 3."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die Kosten sind für den Anspruch grundsätzlich ohne Bedeutung – nach § 21 Absatz 1 Satz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten der Maßnahme; ihm gebühren die Nutzungen.",
+    "ersatz": "Die Kosten sind für den Anspruch grundsätzlich ohne Bedeutung – nach § 21 Absatz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten der Maßnahme; die Nutzungen stehen ihm zu."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Sitzlift Alpha (Betreiber dieses Magazins)",
+    "ersatz": "Sitzlift Alpha (Produkt des Betreibers dieses Magazins)"
+   },
+   {
+    "zitat": "Der vertikale Plattformlift Elevex (Betreiber dieses Magazins)",
+    "ersatz": "Der vertikale Plattformlift Elevex (Produkt des Betreibers dieses Magazins)"
+   },
+   {
+    "zitat": "Der Liftboy 4 (Betreiber dieses Magazins)",
+    "ersatz": "Der Liftboy 4 (Produkt des Betreibers dieses Magazins)"
+   },
+   {
+    "zitat": "StepSaver (Betreiber dieses Magazins)",
+    "ersatz": "StepSaver (Produkt des Betreibers dieses Magazins)"
+   },
+   {
+    "zitat": "Stützen mit Klemmen befestigt, Stützen an der Treppenwange, Montage direkt an der Wand oder verschraubt an der Wand",
+    "ersatz": "Stützen mit Klemmen an der Treppe befestigt, Stützen an der Treppenwange befestigt, Montage direkt an der Wand oder Stützen verschraubt an der Wand"
+   },
+   {
+    "zitat": "In der Mietwohnung ist für bauliche Veränderungen die Erlaubnis des Vermieters erforderlich.",
+    "ersatz": "In der Mietwohnung ist für bauliche Veränderungen in der Regel die Erlaubnis des Vermieters erforderlich; im Einzelfall ist Rechtsberatung zu klären."
+   },
+   {
+    "zitat": "Betrifft die Montage das gemeinschaftliche Eigentum – etwa das Treppenhaus, das Geländer oder Befestigungspunkte an der Wand –, braucht der Wohnungseigentümer zusätzlich einen Beschluss der Eigentümergemeinschaft.",
+    "ersatz": "Betrifft die Montage das gemeinschaftliche Eigentum – etwa das Treppenhaus, das Geländer oder Befestigungspunkte an der Wand –, kann zusätzlich ein Beschluss der Eigentümergemeinschaft erforderlich sein."
+   },
+   {
+    "zitat": "Nach § 554 Abs. 2 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam.",
+    "ersatz": "Nach § 554 Abs. 1 Satz 3 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam."
+   },
+   {
+    "zitat": "Der Gesetzeswortlaut nennt außerdem: Nach § 554 Abs. 1 S. 3 BGB kann sich der Mieter im Zusammenhang mit der Veränderung zur Leistung einer besonderen Sicherheit verpflichten; § 551 Abs. 3 BGB gilt entsprechend.",
+    "ersatz": "Ob und in welcher Form Sicherheiten verlangt werden können, ist im Einzelfall mit Rechtsberatung zu klären."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Überschrift 'Traglast bis zu 300 kg' und technische Spezifikation '225 kg (optional 300 kg)' widersprechen sich. Bitte konservativen Wert '225 kg (optional 300 kg)' bestätigen und Seite angleichen.",
+   "Stratos NG/A: Überschrift 'Traglast bis 350 kg' und technische Spezifikation '225 kg (optional 350 kg)' widersprechen sich. Bitte konservativen Wert '225 kg (optional 350 kg)' bestätigen und Seite angleichen.",
+   "Stratos NG/A: Plattformgrößen 'bis 900 × 1400 mm' und technische Spezifikationen '700×750, 750×850, 800×900, 800×1000 mm' widersprechen sich. Bitte klarstellen, ob 900 × 1400 mm eine Option ist.",
+   "Neo: Für das Fußbrett werden EN 81-40 und EN 81-41 genannt. Bitte eindeutige Norm bestätigen.",
+   "Sigma: Hubhöhe 'bis 8000 mm' gilt laut FAQ nur für geschlossenen Fahrkorb/Schachtlift; im öffentlichen Bereich 3 m, privat 4 m. Bitte Einschränkung in der Übersicht ergänzen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/bauliche-veraenderung-und-erhaltung-faqs-HI1519452.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.miv.eu/aktuelles/barrierefreiheit-in-der-mietwohnung-%C2%A7-554-bgb-und-weg-zustimmung/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

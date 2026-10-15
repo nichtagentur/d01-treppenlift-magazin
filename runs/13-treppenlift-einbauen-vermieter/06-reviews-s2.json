@@ -1,0 +1,183 @@
+{
+ "qa": {
+  "score": 68,
+  "stop": [
+   "§ 40 Abs. 4 SGB XI wird als Norm genannt, aber nicht mit Primärquelle/Abrufdatum belegt (QA-Stop-Kriterium 4)."
+  ],
+  "fehler": [
+   {
+    "zitat": "Eine belastbare Fundstelle zu einer allgemeinen Empfehlung der Verbraucherzentrale lag für diesen Stand nicht vor",
+    "korrektur": "Die Reihenfolge „Antrag vor Auftrag“ ist eine Empfehlung der Verbraucherzentrale, kein Gesetz. Die Passage sollte dies so benennen, statt eine fehlende Fundstelle zu behaupten."
+   },
+   {
+    "zitat": "§ 40 Absatz 4 SGB XI ist eine Kann-Leistung – es besteht kein Rechtsanspruch auf eine bestimmte Summe.",
+    "korrektur": "Primärquelle § 40 Abs. 4 SGB XI verlinken (z. B. gesetze-im-internet.de/sgb_11/__40.html) und Abrufdatum ergänzen."
+   },
+   {
+    "zitat": "Wer antragsberechtigt ist, ob Mieter, Vermieter oder nur Eigentümer, klären Sie bitte direkt bei der zuständigen Pflegekasse",
+    "korrektur": "Antragsberechtigt ist grundsätzlich die pflegebedürftige Person; ob im Einzelfall Mieter oder Eigentümer den Antrag stellt, ist bei der Pflegekasse zu klären. Die Formulierung sollte nicht als reine Eigentümerfrage erscheinen."
+   },
+   {
+    "zitat": "Eine qualifizierte juristische Prüfung liegt nicht vor",
+    "korrektur": "Für Rechtsthemen fachliche Prüfung durch eine qualifizierte Person einholen und ausweisen oder rechtliche Bewertungen weiter reduzieren und auf Rechtsberatung verweisen."
+   },
+   {
+    "zitat": "In der Mietwohnung ist für bauliche Veränderungen die Erlaubnis des Vermieters erforderlich",
+    "korrektur": "Länderbezug Deutschland im ersten Absatz explizit nennen, z. B. „In Deutschland ist in der Mietwohnung …“."
+   },
+   {
+    "zitat": "Der Bundesgerichtshof hat nach der Pressemitteilung Nr. 26/2024 zu V ZR 244/22 ausgeführt",
+    "korrektur": "Für die tragende Rechtsaussage die Entscheidung selbst als Primärquelle verlinken; die Pressemitteilung nur ergänzend nennen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [
+   {
+    "zitat": "Nach § 554 Abs. 3 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam.",
+    "korrektur": "Die Unwirksamkeit einer zum Nachteil des Mieters abweichenden Vereinbarung steht in § 554 Abs. 2 BGB (nicht Abs. 3). Absatz 1 Satz 3 BGB regelt die besondere Sicherheit; die Absatzangabe ist zu korrigieren."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "In der Praxis wird der Lift in der Regel erst nach der Erlaubnis bestellt.",
+    "korrektur": "entschärfen oder streichen (keine belastbare Quelle zur Branchenpraxis im Dossier)"
+   },
+   {
+    "zitat": "handelt für die Gemeinschaft, meist mit Vollmacht; nicht automatisch Vertragspartner",
+    "korrektur": "entschärfen oder streichen (Angaben zur Rolle und Vollmachtsausstattung der Hausverwaltung sind im Dossier nicht belegt; als reiner Erfahrungswert kennzeichnen oder auf „kann im Einzelfall“ abschwächen)"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Nach § 554 Abs. 3 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam.",
+    "ersatz": "Nach § 554 Abs. 4 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam."
+   },
+   {
+    "schwere": "hoch",
+    "zitat": "Absatz 3 regelt die Gestattung, wenn alle Wohnungseigentümer einverstanden sind, deren Rechte über das unvermeidliche Maß hinaus beeinträchtigt werden.",
+    "ersatz": "Absatz 1 regelt, dass ein Beschluss nur gefasst werden kann, wenn jeder Wohnungseigentümer zustimmt, dessen Rechte über das unvermeidliche Maß hinaus beeinträchtigt werden. Absatz 3 regelt, dass eine bauliche Veränderung ohne Beschluss zulässig ist, wenn sie keinem Wohnungseigentümer über das unvermeidliche Maß hinaus Nachteile bringt."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "braucht der Wohnungseigentümer zusätzlich einen Beschluss der Eigentümergemeinschaft.",
+    "ersatz": "kann der Wohnungseigentümer zusätzlich eine Beschlussfassung oder Gestattung der Eigentümergemeinschaft benötigen; ob eine Ausnahme nach § 20 Abs. 3 WEG greift, ist im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Betrifft die Maßnahme Gemeinschaftseigentum wie Treppenhaus, Geländer oder Befestigungspunkte, ist nach § 20 WEG ein Beschluss oder eine Gestattung erforderlich.",
+    "ersatz": "Betrifft die Maßnahme Gemeinschaftseigentum wie Treppenhaus, Geländer oder Befestigungspunkte, ist in der Regel eine Beschlussfassung oder Gestattung erforderlich; ob eine Ausnahme nach § 20 Abs. 3 WEG greift, ist im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Was Sie schriftlich brauchen",
+    "ersatz": "Was Sie sich zur Dokumentation schriftlich geben lassen sollten"
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Eine belastbare Fundstelle zu einer allgemeinen Empfehlung der Verbraucherzentrale lag für diesen Stand nicht vor; klären Sie die Reihenfolge mit der zuständigen Pflegekasse.",
+    "ersatz": "Die Verbraucherzentrale empfiehlt, den Antrag vor Auftrag zu stellen; gesetzlich vorgeschrieben ist das nicht. Klären Sie die Reihenfolge zusätzlich mit der zuständigen Pflegekasse."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Der Betreiber dieses Magazins nennt für den <a href=\"https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/\">Sitzlift Alpha</a> (Betreiber dieses Magazins) mehrere Varianten:",
+    "ersatz": "Lehner Lifttechnik (Betreiber dieses Magazins) nennt für den <a href=\"https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/\">Sitzlift Alpha</a> mehrere Varianten:"
+   },
+   {
+    "zitat": "Der vertikale Plattformlift <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/\">Elevex</a> (Betreiber dieses Magazins) wird nach Angabe des Betreibers dieses Magazins nur am Fundament befestigt.",
+    "ersatz": "Der vertikale Plattformlift <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/\">Elevex</a> von Lehner Lifttechnik (Betreiber dieses Magazins) wird nach Angabe des Betreibers dieses Magazins nur am Fundament befestigt."
+   },
+   {
+    "zitat": "Der <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/\">Liftboy 4</a> (Betreiber dieses Magazins) ist nach Angabe des Betreibers dieses Magazins mobil und batteriebetrieben.",
+    "ersatz": "Der <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/\">Liftboy 4</a> von Lehner Lifttechnik (Betreiber dieses Magazins) ist nach Angabe des Betreibers dieses Magazins mobil und batteriebetrieben."
+   },
+   {
+    "zitat": "Angaben zu Einsatzgrenzen und baulichen Anpassungen – etwa beim <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/\">StepSaver</a> (Betreiber dieses Magazins) – entnehmen Sie den aktuellen Herstellerunterlagen und prüfen sie vor Ort.",
+    "ersatz": "Angaben zu Einsatzgrenzen und baulichen Anpassungen – etwa beim <a href=\"https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/\">StepSaver</a> von Lehner Lifttechnik (Betreiber dieses Magazins) – entnehmen Sie den aktuellen Herstellerunterlagen und prüfen sie vor Ort."
+   },
+   {
+    "zitat": "Eine belastbare Fundstelle zu einer allgemeinen Empfehlung der Verbraucherzentrale lag für diesen Stand nicht vor; klären Sie die Reihenfolge mit der zuständigen Pflegekasse.",
+    "ersatz": "Die Verbraucherzentrale empfiehlt, den Antrag vor Auftrag zu stellen; gesetzlich vorgeschrieben ist das nicht. Klären Sie die Reihenfolge dennoch mit der zuständigen Pflegekasse."
+   },
+   {
+    "zitat": "die dem Gebrauch durch Menschen mit Behinderungen dienen",
+    "ersatz": "die dem Gebrauch durch Menschen mit Mobilitätseinschränkungen dienen (im Gesetzeswortlaut: Menschen mit Behinderungen)"
+   },
+   {
+    "zitat": "Wer antragsberechtigt ist, ob Mieter, Vermieter oder nur Eigentümer, klären Sie bitte direkt bei der zuständigen Pflegekasse und nicht im Angebot.",
+    "ersatz": "Wer antragsberechtigt ist und wer den Antrag stellt, klären Sie bitte direkt bei der zuständigen Pflegekasse und nicht im Angebot."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast widersprüchlich (Überschrift bis 300 kg vs. technische Spezifikationen 225 kg, optional 300 kg). Bitte konservativen Wert bestätigen.",
+   "Stratos NG/A: Traglast widersprüchlich (Überschrift bis 350 kg vs. technische Spezifikationen 225 kg, optional 350 kg). Plattformgrößen widersprüchlich (bis 900 × 1400 mm vs. technische Spezifikationen 700×750, 750×850, 800×900, 800×1000 mm). Bitte konservative Werte und zulässige Plattformgrößen bestätigen.",
+   "Neo: Für dasselbe Fußbrett werden EN 81-40 und EN 81-41 genannt. Bitte eindeutige Norm angeben.",
+   "Sigma: Hubhöhe bis 8000 mm wird pauschal genannt, FAQ unterscheidet 3 m öffentlich, 4 m privat, 8 m geschlossen/Schacht. Bitte Einschränkungen klarstellen.",
+   "Delta-Seite: Vergleichstabelle mit Stratos NG/A nennt Traglast 225 kg (optional 350 kg), während Stratos-Seite in der Überschrift bis 350 kg angibt. Bitte konsistent darstellen.",
+   "Produktseiten verwenden 'Außenbereich' für Treppen im Freien. Laut Redaktionsregel ist 'Außenbereich' ein Baurechts-Fachbegriff; für Treppen draußen sollte 'im Freien' stehen. Bitte Wortwahl prüfen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/bauliche-veraenderung-und-erhaltung-faqs-HI1519452.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.miv.eu/aktuelles/barrierefreiheit-in-der-mietwohnung-%C2%A7-554-bgb-und-weg-zustimmung/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

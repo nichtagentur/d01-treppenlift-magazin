@@ -1,0 +1,155 @@
+{
+ "qa": {
+  "score": 65,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "<h2 id=\"faq\">Häufige Fragen</h2>",
+    "korrektur": "Doppelten FAQ-Block entfernen; jede Frage nur einmal führen und eindeutige IDs vergeben."
+   },
+   {
+    "zitat": "Vor dem Wiederverkauf ist ein generalüberholtes Gerät mit gesetzlicher Gewährleistung die sauberere Lösung als ein Privatverkauf.",
+    "korrektur": "Rechtsaussage entschärfen: 'Ein gewerblicher Verkauf kann für Käufer je nach Einzelfall andere Gewährleistungsregeln bedeuten; klären Sie die Rechtslage mit Fachperson/Hersteller.'"
+   },
+   {
+    "zitat": "Ein Ratgeberportal beschreibt einen Ablauf mit Steckschienen-System",
+    "korrektur": "Eigene Quelle nicht als unabhängiges Ratgeberportal darstellen; als früheren Beitrag des Magazins kennzeichnen oder durch Herstellerunterlage ersetzen."
+   },
+   {
+    "zitat": "Handicare 1100 – Technisches Handbuch",
+    "korrektur": "Primärquelle des Herstellers verlinken oder die nicht-herstelleroffizielle Fundstelle (manualslib) klar kennzeichnen."
+   },
+   {
+    "zitat": "HiRO 160 Q – Bedienungsanleitung",
+    "korrektur": "Primärquelle des Herstellers verlinken oder die nicht-herstelleroffizielle Fundstelle (bedienungsanleitungki.de) klar kennzeichnen."
+   },
+   {
+    "zitat": "Treppenlifte werden ortsfest angeschlossen.",
+    "korrektur": "Je nach Modell fest oder über Steckdose anschließen; Formulierung entschärfen."
+   },
+   {
+    "zitat": "ABS-Kunststoffe werden als Sondermüll geführt",
+    "korrektur": "Nicht pauschal als Sondermüll bezeichnen; als Lifta-spezifische Zuordnung kennzeichnen oder neutral 'gesonderte Entsorgung' schreiben."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft.",
+    "korrektur": "Bei Rechts-/Haftungsaussagen qualifizierte fachliche Prüfung benennen oder Aussagen auf allgemeine Hinweise beschränken."
+   },
+   {
+    "zitat": "Ein Treppenlift wird abgebaut, wenn er nicht mehr gebraucht wird",
+    "korrektur": "Im ersten Absatz den Bezug auf Deutschland (Zielgruppe Tischler/Schreiner in Deutschland) klarstellen."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [
+   {
+    "zitat": "Ein zweiter Punkt ist die Frage der Rechtsnachfolge: Wer haftet, wenn der Lift später weiterverkauft oder neu aufgebaut wird?",
+    "korrektur": "„Rechtsnachfolge“ (Erb-/Firmenfolge) ist hier der falsche Begriff. Gemeint ist die Haftungs- bzw. Gewährleistungsfrage bei Weiterverkauf oder Wiederaufbau; entsprechend umformulieren, z. B. „die Frage der Haftung und Gewährleistung“."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Treppenlifte werden ortsfest angeschlossen.",
+    "korrektur": "entschärfen oder streichen: In der Quellenlage wird der Lift über einen Stecker vom Strom genommen („Stecker ziehen“). Besser: „Treppenlifte werden über eine Zuleitung angeschlossen; ob Steckdose oder feste Verdrahtung, ergibt sich aus der Herstellerunterlage.“"
+   },
+   {
+    "zitat": "Die Demontage ist keine genormte Tätigkeit mit einer allgemeinen Anleitung.",
+    "korrektur": "entschärfen: „Für die Demontage ist in der Quellenlage weder eine herstellerübergreifende Anleitung noch eine Demontage-Norm belegt.“"
+   },
+   {
+    "zitat": "am häufigsten zu Schäden führen, wenn ohne Anleitung gearbeitet wird",
+    "korrektur": "entschärfen oder streichen – eine Häufigkeit von Schäden beim Ausbau von Sitz/Stuhl ist in der Quellenlage nicht belegt."
+   },
+   {
+    "zitat": "Es gibt keine allgemeine Demontageanleitung, die auf alle Fabrikate passt.",
+    "korrektur": "entschärfen: „Eine allgemeine, auf alle Fabrikate passende Demontageanleitung ist in der Quellenlage nicht belegt.“"
+   },
+   {
+    "zitat": "Nein, eine allgemeine Demontageanleitung gibt es nicht.",
+    "korrektur": "entschärfen: „Eine allgemeine Demontageanleitung ist in der Quellenlage nicht belegt; maßgeblich sind die Herstellerunterlagen des jeweiligen Modells und die örtlichen Gegebenheiten.“"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Treppenlifte werden ortsfest angeschlossen.",
+    "ersatz": "Treppenlifte werden je nach Modell und Hersteller ortsfest oder über eine Steckverbindung angeschlossen; maßgeblich sind Herstellerunterlagen und Installationsvorgaben. Klären Sie den Einzelfall mit einer Elektrofachkraft."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Vor dem Wiederverkauf ist ein generalüberholtes Gerät mit gesetzlicher Gewährleistung die sauberere Lösung als ein Privatverkauf.",
+    "ersatz": "Vor dem Wiederverkauf kann ein generalüberholtes Gerät mit klarer Gewährleistungsregelung die rechtlich sauberere Lösung sein; ob und in welchem Umfang gesetzliche Gewährleistung besteht, hängt von Verkäuferrolle und Vertragsgestaltung ab und ist im Einzelfall zu prüfen (B2C/B2B)."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "ABS-Kunststoffe werden als Sondermüll geführt;",
+    "ersatz": "Lifta ordnet ABS-Kunststoffe in seiner Entsorgungszuordnung dem Sondermüll zu; das ist keine allgemeine gesetzliche Einstufung. Klären Sie die örtliche Entsorgung im Einzelfall mit dem Entsorgungsträger."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für die Gewährleistung nach einem Wiedereinbau gibt es keine belastbare Rechtsquelle.",
+    "ersatz": "Die Gewährleistung nach einem Wiedereinbau richtet sich nach dem konkreten Vertrag, der Verkäuferrolle und den Umständen; eine pauschale Aussage ist nicht möglich. Klären Sie Herstellerfreigabe, Ersatzteillage und Gewährleistung schriftlich."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Prüfprotokolle, Wartungsbücher oder Konformitätserklärungen sind in der Quellenlage nicht als Pflicht zur Übergabe belegt.",
+    "ersatz": "Ob Prüfprotokolle, Wartungsbücher oder Konformitätserklärungen bei Demontage, Wiederverkauf oder Wiederinbetriebnahme übergeben werden müssen, hängt von der Rolle als Betreiber, Verkäufer oder Inverkehrbringer und vom Einzelfall ab; klären Sie das mit Hersteller und ggf. Marktüberwachung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Planen Sie Hebezeug und zweite Person nach eigener Einschätzung vor Ort ein.",
+    "ersatz": "Planen Sie Hebezeug und zweite Person auf Grundlage einer Gefährdungsbeurteilung ein; bei schweren Bauteilen sind körperliche Belastung, Transportweg und Absturzgefahr zu bewerten."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [],
+  "an_lehner_melden": []
+ },
+ "links": [
+  {
+   "url": "https://bedienungsanleitungki.de/hiro/stairlift/160-q/user-manual/1vct9",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://magazine.lifta.at/document/download/68707439/387c8-12f72-374c0-aedda-0d893-01875-ea21a-a9587",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.manualslib.de/guide/1503385/handicare-1100-handbuch.html",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-magazin.de/treppenlift-abbau",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

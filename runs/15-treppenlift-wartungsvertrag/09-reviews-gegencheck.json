@@ -1,0 +1,189 @@
+{
+ "qa": {
+  "score": 55,
+  "stop": [
+   "Stop-Kriterium 4: Kostenangabe „80 bis 300 Euro“ ohne Primärquelle und Abrufdatum.",
+   "Stop-Kriterium 4: Norm DIN 31051 ohne Primärquelle und Abrufdatum."
+  ],
+  "fehler": [
+   {
+    "zitat": "In Ratgeberquellen wird für Wartungsverträge teils eine jährliche Gebühr von meist 80 bis 300 Euro genannt.",
+    "korrektur": "Konkrete Primärquelle mit Abrufdatum nennen oder die Angabe entschärfen bzw. weglassen. Für YMYL-Kosten darf keine unbelegte Spanne stehen bleiben."
+   },
+   {
+    "zitat": "Verbesserungen nach DIN 31051 (laut zitiertem Vertragsmuster)",
+    "korrektur": "DIN 31051 mit Primärquelle und Abrufdatum belegen oder die Normnummer streichen und nur die im Vertragsmuster genannten Verbesserungen nennen."
+   },
+   {
+    "zitat": "Für Österreich und die Schweiz können Recht und Verbraucherregeln abweichen; klären Sie den Einzelfall.",
+    "korrektur": "Bereits im ersten Absatz klarstellen, dass sich der Artikel auf Deutschland bezieht; AT/CH nur als klar gekennzeichnete Abweichung aufführen."
+   },
+   {
+    "zitat": "Nächste planmäßige redaktionelle Überprüfung: Oktober 2027.",
+    "korrektur": "Bei Preis-/Kostenangaben den Review-Zyklus auf höchstens 6 Monate verkürzen oder die Preisangabe entfernen; Stand und nächste Prüfung an die YMYL-Frist koppeln."
+   },
+   {
+    "zitat": "eine juristische Fachprüfung erfolgt nicht.",
+    "korrektur": "Für Rechts-/Vertragsthemen eine qualifizierte Fachprüfung einholen und benennen oder rechtliche Aussagen auf allgemeine Hinweise beschränken und konsequent auf Rechtsberatung verweisen."
+   },
+   {
+    "zitat": "Bei einigen Herstellern (laut Sekundärquelle z. B. TK Elevator oder SANIMED) ist eine wiederkehrende, kostenpflichtige Wartung bzw. ein Wartungsvertrag Voraussetzung für den Erhalt bestimmter Garantieleistungen.",
+    "korrektur": "Primärquelle, also die konkreten Garantiebedingungen des jeweiligen Herstellers, verlinken und Abrufdatum nennen. Ohne Primärquelle als Einzelfall kennzeichnen und beim Hersteller klären lassen."
+   },
+   {
+    "zitat": "Fetten von Fahrbahn und Zahnrädern – je nach Antriebsart und Herstellervorgabe (entfällt z. B. bei Traktionsantrieb laut Ratgeberangabe)",
+    "korrektur": "Primärquelle oder Herstellervorgabe für diese Wartungsaussage nennen; sonst nur als Einzelfall/Herstellerangabe ohne Verallgemeinerung formulieren."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "In den hier zitierten Wartungs- und Serviceverträgen ist geregelt, dass Inspektion und Wartung regelmäßige Maßnahmen zur Erhaltung des mangelfreien Zustands und der Funktion umfassen; der konkrete Umfang ergibt sich aus Herstellervorgaben und den im jeweiligen Vertrag genannten Richtlinien und Normen.",
+    "korrektur": "entschärfen oder streichen: Nur im AGB-Werk von LSL Leipzig belegt – auf dieses eine Vertragswerk einschränken (\"Im AGB-Werk von LSL Leipzig ist geregelt, dass ...\"), nicht als Aussage über mehrere Vertragswerke."
+   },
+   {
+    "zitat": "Verbindlich sind die Vorgaben des jeweiligen Herstellers; klären Sie den Einzelfall.",
+    "korrektur": "entschärfen oder streichen: keine Quelle für eine Verbindlichkeit; besser \"Orientieren Sie sich an den Angaben des jeweiligen Herstellers und klären Sie verbindliche Vorgaben im Einzelfall.\""
+   },
+   {
+    "zitat": "Für Österreich und die Schweiz können Recht und Verbraucherregeln abweichen; klären Sie den Einzelfall.",
+    "korrektur": "entschärfen oder streichen: im Dossier keine Quelle zu AT/CH-Recht; ohne Belegstelle nur als allgemeiner Hinweis belassen oder weglassen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "In Ratgeberquellen wird für Wartungsverträge teils eine jährliche Gebühr von meist 80 bis 300 Euro genannt.",
+    "ersatz": "In Ratgeberquellen werden teils jährliche Gebühren genannt; eine belastbare Pauschalangabe lässt sich daraus nicht ableiten. Kalkulieren Sie den Preis aus Ihren eigenen betrieblichen Kostenpositionen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Bei einigen Herstellern (laut Sekundärquelle z. B. TK Elevator oder SANIMED) ist eine wiederkehrende, kostenpflichtige Wartung bzw. ein Wartungsvertrag Voraussetzung für den Erhalt bestimmter Garantieleistungen.",
+    "ersatz": "Bei einigen Herstellern (laut den genannten Quellen z. B. TS Treppenlifte oder SANIMED) kann eine wiederkehrende, kostenpflichtige Wartung bzw. ein Wartungsvertrag Voraussetzung für den Erhalt bestimmter Garantieleistungen sein; im Einzelfall das jeweilige Garantiedokument prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Verbindlich sind die Vorgaben des jeweiligen Herstellers; klären Sie den Einzelfall.",
+    "ersatz": "Für Garantie und fachgerechte Wartung sind die Vorgaben des jeweiligen Herstellers maßgeblich; zusätzliche Betreiber- und Arbeitsschutzpflichten sind im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Im AGB-Werk von LSL Leipzig (2023) ist eine Laufzeit von zwölf Monaten mit automatischer Verlängerung um weitere zwölf Monate vorgesehen, sofern nicht sechs Wochen vor Ablauf des Vertragsjahres schriftlich gekündigt wird",
+    "ersatz": "Nach der 2023 veröffentlichten Fassung des AGB-Werks von LSL Leipzig ist eine Laufzeit von zwölf Monaten mit automatischer Verlängerung um weitere zwölf Monate vorgesehen, sofern nicht sechs Wochen vor Ablauf des Vertragsjahres schriftlich gekündigt wird; ob diese Bedingungen aktuell gelten, ist beim Anbieter zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Cibes nennt für selten genutzte Innenlifte eine jährliche Wartung als absolutes Minimum",
+    "ersatz": "Cibes nennt für selten genutzte Innenlifte eine jährliche Wartung als Herstellerempfehlung"
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "In Ratgeberquellen wird für Wartungsverträge teils eine jährliche Gebühr von meist 80 bis 300 Euro genannt.",
+    "ersatz": "In Ratgeberquellen werden teils jährliche Gebühren genannt. Solche Pauschalangaben taugen für Ihre eigene Betriebskalkulation jedoch wenig; kalkulieren Sie den Preis aus Ihren eigenen betrieblichen Kostenpositionen."
+   },
+   {
+    "zitat": "Bei einigen Herstellern (laut Sekundärquelle z. B. TK Elevator oder SANIMED) ist eine wiederkehrende, kostenpflichtige Wartung bzw. ein Wartungsvertrag Voraussetzung für den Erhalt bestimmter Garantieleistungen.",
+    "ersatz": "Bei einigen Herstellern kann eine wiederkehrende Wartung Voraussetzung für bestimmte Garantieleistungen sein; prüfen Sie das jeweilige Garantiedokument."
+   },
+   {
+    "zitat": "Führen Sie den Vertrag nicht über Angst, sondern über nachvollziehbare Vertragsmerkmale ein:",
+    "ersatz": "Stellen Sie den Vertrag sachlich über nachvollziehbare Vertragsmerkmale vor:"
+   },
+   {
+    "zitat": "Unterm Strich: Ein klar abgegrenzter Wartungsvertrag kann die Kundenbindung unterstützen, bietet strukturierte Anknüpfungspunkte für das Ersatzteil- und Reparaturgeschäft und macht Ihre Serviceeinsätze planbar. Er ist jedoch kein Standardformular von der Stange:",
+    "ersatz": "Zusammengefasst: Ein klar abgegrenzter Wartungsvertrag kann die Kundenbindung unterstützen, bietet strukturierte Anknüpfungspunkte für das Ersatzteil- und Reparaturgeschäft und macht Ihre Serviceeinsätze planbar. Er ist jedoch kein Standardvertrag:"
+   },
+   {
+    "zitat": "Verbesserungen nach DIN 31051 (laut zitiertem Vertragsmuster)",
+    "ersatz": "Verbesserungen (laut zitiertem Vertragsmuster)"
+   },
+   {
+    "zitat": "Cibes nennt für selten genutzte Innenlifte eine jährliche Wartung als absolutes Minimum",
+    "ersatz": "Cibes nennt für selten genutzte Innenlifte eine jährliche Wartung als Mindestintervall"
+   },
+   {
+    "zitat": "Produktinformationen zu Plattform-Treppenliften finden Sie auf den Seiten des Betreibers, etwa zum Delta",
+    "ersatz": "Produktinformationen zu Plattform-Treppenliften finden Sie auf den Seiten des Betreibers dieses Magazins, etwa zum Delta"
+   },
+   {
+    "zitat": "Laut den ausgewerteten Herstellerdokumenten gehört dazu insbesondere, dass der Kunde alle für die Wartung erforderlichen Informationen und sämtliches Zubehör – insbesondere Betriebs- und Wartungsanleitungen sowie Mittel zur Störungsbeseitigung – zur Verfügung stellt.",
+    "ersatz": "Laut den zitierten Vertragswerken gehört dazu insbesondere, dass der Kunde alle für die Wartung erforderlichen Informationen und sämtliches Zubehör – insbesondere Betriebs- und Wartungsanleitungen sowie Mittel zur Störungsbeseitigung – zur Verfügung stellt."
+   },
+   {
+    "zitat": "Im AGB-Werk von LSL Leipzig (2023) ist eine Laufzeit von zwölf Monaten",
+    "ersatz": "In den AGB von LSL Leipzig (2023) ist eine Laufzeit von zwölf Monaten"
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast im Seitentext 'bis zu 300 kg' vs. technische Spezifikation '225 kg (optional 300 kg)'. Bitte konservativ 225 kg kommunizieren und beim Hersteller bestätigen.",
+   "Stratos NG/A: Traglast im Seitentext 'bis 350 kg' vs. technische Spezifikation '225 kg (optional 350 kg)'. Bitte konservativ 225 kg kommunizieren und beim Hersteller bestätigen.",
+   "Stratos NG/A: Plattformgrößen 'bis 900 × 1400 mm' vs. technische Liste 700×750, 750×850, 800×900, 800×1000 mm. Widerspruch/Unvollständigkeit, beim Hersteller bestätigen.",
+   "Stratos NG/A: Normen EN 81-40:2020 und EU-Maschinenrichtlinie auf derselben Seite. Ob beides zugleich gilt, beim Hersteller bestätigen.",
+   "Neo: Fußbrett nach EN 81-40 vs. EN 81-41. Widerspruch in der Normangabe, beim Hersteller bestätigen.",
+   "Neo: Status 'Coming soon'; Verfügbarkeit und Daten unklar, beim Hersteller bestätigen.",
+   "StepSaver: Aufstellungsort 'optional auch im Außenbereich' vs. technische Spezifikation 'Innen und außen'. Formulierung beim Hersteller bestätigen.",
+   "Omega: 'schmalste Plattform am Markt' ist ein unbelegter Superlativ; für das Magazin nicht verwenden oder beim Hersteller belegen lassen.",
+   "Stratos NG/A: 'stärkster Motor seiner Klasse' ist ein unbelegter Superlativ; für das Magazin nicht verwenden oder beim Hersteller belegen lassen.",
+   "Für Lehner-Produkte liegen in den gelieferten Unterlagen keine Angaben zu Wartungsverträgen, Wartungsintervallen, Laufzeiten oder Preisen vor. Bitte prüfen, ob dazu herstellerseitige Vorgaben oder Muster existieren."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://cibeslift.com/de-de/service-und-wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://lsl-leipzig.de/files/AGB_Wartung_LSL_2023.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://ts-treppenlifte.de/service/treppenlift-garantie/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.sanimed-treppenlift.de/treppenlift-service/treppenlift-wartung/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.servolift.de/fileadmin/user_upload/Service/2019-05-31_SERVOLIFT-Servicevertrag_D.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-fibel.de/serviceleistungen/wartung",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

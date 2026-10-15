@@ -1,0 +1,146 @@
+{
+ "qa": {
+  "score": 84,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Einige Hersteller verlangen für Installation oder Demontage zertifizierte Techniker.",
+    "korrektur": "Unbelegte Verallgemeinerung entschärfen: 'Ob ein Hersteller zertifizierte Techniker verlangt, ist Einzelfall und beim Hersteller zu klären.'"
+   },
+   {
+    "zitat": "Beim Sitz oder Stuhl trennen Sie zuerst die Steckverbindungen, lösen dann die Sicherungs- oder Befestigungsschraube und heben den Sitz zu zweit ab.",
+    "korrektur": "Keine allgemeinen Demontageschritte ohne Primärquelle. Nur auf die modellspezifische Herstelleranleitung verweisen; wenn Schritte genannt werden, nur mit Quellenangabe und Modellbezug."
+   },
+   {
+    "zitat": "In dem früheren Beitrag dieses Magazins wird empfohlen, den Lift nicht dauerhaft vom Strom zu trennen und ihn bestenfalls wöchentlich zu bewegen, um Tiefenentladung zu vermeiden.",
+    "korrektur": "Herstellerangabe zur Akkupflege zitieren oder als unverbindlichen Einzelfallhinweis kennzeichnen; Eigenquelle ist für sicherheitsrelevante Empfehlung zu schwach."
+   },
+   {
+    "zitat": "Schrauben sollten bei einer Neuinstallation in der Regel neu verwendet werden – das nennt der frühere Beitrag dieses Magazins ausdrücklich.",
+    "korrektur": "Technische Vorgabe nur mit Herstellerquelle oder Norm belegen; sonst streichen oder als 'Herstellerangabe prüfen' formulieren."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisiert auf Form und Quellenlage geprüft.",
+    "korrektur": "Bei rechtlichen/versicherungsbezogenen Aussagen qualifizierte menschliche Fachprüfung ergänzen und benennen oder diese Abschnitte auf allgemeine Einzelfallhinweise beschränken."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [
+   {
+    "zitat": "In der ausgewerteten Quellenlage lagen für diese Modelle nur nicht herstelleroffizielle, im Oktober 2026 nicht stabil abrufbare Fundstellen vor.",
+    "korrektur": "Unzutreffend. Beide Modelle sind mit Herstellerdokumenten belegt: das Handicare 1100 Technische Handbuch (öffentlich ohne Login über eine Drittplattform einsehbar) und das HiRO 160 Q Herstellerhandbuch. Es sind Herstellerdokumente, die lediglich auf Drittplattformen gehostet werden – 'nicht herstelleroffiziell' trifft nicht zu, und eine fehlende stabile Abrufbarkeit ist nicht belegt."
+   },
+   {
+    "zitat": "Beim Handicare 1100 beschreibt eine nicht herstelleroffizielle, im Oktober 2026 nicht stabil abrufbare Fundstelle einen Weg über Steckverbindungen und eine zentrale Schraube an der Sitzunterseite.",
+    "korrektur": "Die Fundstelle ist das Handicare 1100 Technische Handbuch (Herstellerdokument, gehostet auf einer Drittplattform). Die Demontageschritte (Steckverbindungen trennen, zentrale Befestigungsschraube an der Sitzunterseite entfernen) sind dort belegt."
+   },
+   {
+    "zitat": "Für Handicare 1100 und HiRO 160 Q lagen in der ausgewerteten Quellenlage nur nicht herstelleroffizielle, im Oktober 2026 nicht stabil abrufbare Fundstellen vor.",
+    "korrektur": "Beide Modelle sind über Herstellerdokumente belegt (Handicare 1100 Technisches Handbuch; HiRO 160 Q Herstellerhandbuch); 'nicht herstelleroffiziell' und 'nicht stabil abrufbar' treffen nicht zu."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Einige Hersteller verlangen für Installation oder Demontage zertifizierte Techniker.",
+    "korrektur": "entschärfen oder streichen: Belegt ist eine solche Vorgabe nur für die Installation (Handicare 1100); für die Demontage ist sie nicht belegt."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Die Schiene wird in umgekehrter Montagereihenfolge abgebaut: Halterungen und Stützen lösen, Segmente abnehmen, Kabel aus den Klemmen ziehen, Ladepunkte demontieren.",
+    "ersatz": "Ein Rückbau erfolgt, soweit Herstellerunterlagen nichts anderes vorgeben, in der Regel in umgekehrter Montagereihenfolge. Konkrete Schritte, insbesondere Elektroarbeiten, nur nach Primäranleitung und durch berechtigte Personen; eine allgemeine Abfolge ersetzt die Herstellerunterlagen nicht."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Beim Sitz oder Stuhl trennen Sie zuerst die Steckverbindungen, lösen dann die Sicherungs- oder Befestigungsschraube und heben den Sitz zu zweit ab.",
+    "ersatz": "Arbeiten Sie ausschließlich nach der Primäranleitung des Herstellers. Ob und in welcher Reihenfolge Steckverbindungen oder Sicherungsschrauben zu lösen sind, ist modellabhängig; den Sitz gegen Herabfallen sichern und zu zweit abheben."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Wer das darf, regeln die anerkannten Regeln der Technik und die örtliche Praxis; in der Quellenlage zur Demontage ist dazu keine belastbare Norm oder Netzbetreibervorgabe belegt.",
+    "ersatz": "Ob und in welchem Umfang Sie Elektroarbeiten selbst ausführen dürfen, klären Sie für den Einzelfall mit einer Elektrofachkraft; Elektroarbeiten nur durch berechtigte Personen ausführen lassen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Einige Hersteller verlangen für Installation oder Demontage zertifizierte Techniker.",
+    "ersatz": "Ob ein Hersteller für Installation oder Demontage zertifizierte Techniker verlangt, ist im Einzelfall beim Hersteller zu klären."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin; Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft)"
+   },
+   {
+    "schwere": "klein",
+    "zitat": "In dem früheren Beitrag dieses Magazins wird empfohlen, den Lift nicht dauerhaft vom Strom zu trennen und ihn bestenfalls wöchentlich zu bewegen, um Tiefenentladung zu vermeiden.",
+    "ersatz": "Zur Akkupflege und Zwischenlagerung sind die Herstellerangaben des konkreten Modells maßgeblich; ob und in welchen Abständen der Lift bewegt werden sollte, ist im Einzelfall beim Hersteller zu klären."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Der Betreiber dieses Magazins, Lehner Lifttechnik, führt Plattform- und Sitzlifte mit unterschiedlichen Schienen- und Antriebskonzepten – etwa den Stratos NG/A.",
+    "ersatz": "Der Betreiber dieses Magazins, Lehner Lifttechnik, führt unter anderem den Plattform-Treppenlift Stratos NG/A. Für Demontagefragen sind die jeweiligen Herstellerunterlagen des konkreten Modells maßgeblich."
+   },
+   {
+    "zitat": "Einige Hersteller verlangen für Installation oder Demontage zertifizierte Techniker.",
+    "ersatz": "Ob ein Hersteller zertifizierte Techniker verlangt, ist von Hersteller zu Hersteller unterschiedlich – klären Sie das im Einzelfall beim Hersteller."
+   },
+   {
+    "zitat": "Die Schiene wird in umgekehrter Montagereihenfolge abgebaut: Halterungen und Stützen lösen, Segmente abnehmen, Kabel aus den Klemmen ziehen, Ladepunkte demontieren.",
+    "ersatz": "Eine allgemeine Reihenfolge ist nicht belegt. Arbeiten Sie nach der Primäranleitung des Herstellers; dort sind Halterungen, Stützen und Segmente modellbezogen beschrieben."
+   },
+   {
+    "zitat": "Beim Sitz oder Stuhl trennen Sie zuerst die Steckverbindungen, lösen dann die Sicherungs- oder Befestigungsschraube und heben den Sitz zu zweit ab.",
+    "ersatz": "Arbeiten Sie ausschließlich nach der Primäranleitung des Herstellers. Eine allgemeine Reihenfolge lässt sich nicht belegt vorgeben. Sichern Sie den Sitz gegen Herabfallen und legen Sie ihn gepolstert ab."
+   },
+   {
+    "zitat": "Sitz abnehmen: Steckverbindungen nach Herstellerangabe trennen, Sicherungsschraube lösen, Sitz zu zweit abheben.",
+    "ersatz": "Sitz abnehmen: Befestigungen ausschließlich nach Herstellerangabe lösen; Sitz zu zweit abheben und gegen Herabfallen sichern."
+   }
+  ],
+  "an_lehner_melden": [
+   "Bitte bestätigen, ob die Formulierung 'führt Plattform- und Sitzlifte mit unterschiedlichen Schienen- und Antriebskonzepten' so freigegeben ist; in den Produktfakten ist nur der Stratos NG/A als Plattform-Treppenlift belegt.",
+   "Der Artikel richtet sich an Tischler und Schreiner als Demontage-Dienstleister. Lehners Partnerprofil nennt diese Gewerke nicht. Bitte prüfen, ob diese Ansprache mit der Markenpositionierung vereinbar ist.",
+   "Die allgemeinen Demontageschritte zu Sitz und Schiene in den FAQ sollten fachlich freigegeben oder entfernt werden.",
+   "Externe Marken (Lifta, Acorn, Handicare, HiRO) werden mit konkreten Demontagehinweisen und Normen genannt. Rechtliche und quellenbezogene Freigabe erforderlich."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://magazine.lifta.at/document/download/68707439/387c8-12f72-374c0-aedda-0d893-01875-ea21a-a9587",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-magazin.de/treppenlift-abbau",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

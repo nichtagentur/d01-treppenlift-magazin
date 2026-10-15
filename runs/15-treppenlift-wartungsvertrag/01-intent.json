@@ -1,0 +1,25 @@
+{
+ "query": "treppenlift wartungsvertrag",
+ "autocomplete": [
+  "treppenlift wartungsvertrag",
+  "treppenlift wartungsvertrag kosten",
+  "wartungsvertrag treppenlift sinnvoll"
+ ],
+ "intent": "Informations- und Entscheidungsabsicht mit Kosten- und Nutzenabwägung: Tischler und Schreiner in Deutschland wollen wissen, ob und wie sie Treppenlift-Wartungsverträge anbieten, kalkulieren und gegenüber Kunden argumentieren können; Endkunden suchen zugleich nach Kosten und Sinnhaftigkeit.",
+ "winkel": "B2B-Winkel für Tischler/Schreiner: Wartungsvertrag als wiederkehrende Serviceleistung und Kundenbindungsinstrument. Inhalt: Definition, Abgrenzung zu Gewährleistung/Garantie und einmaliger Wartung, typische Leistungsbausteine, Laufzeit und Kündigung nur mit rechtlicher Einzelfallprüfung, Kalkulationslogik ohne erfundene Preise, Argumente für Kunden, Haftung/Versicherung, Checkliste für das eigene Angebot. Sie-Form, sachlich, kurze Sätze. YMYL: keine konkreten Fristen, Preise oder Normen erfinden; auf Herstellerangaben, Einzelfall und fachliche/rechtliche Prüfung verweisen. Stand: Oktober 2026.",
+ "kannibalisierung": "Nächster bestehender Artikel: 10-treppenlift-montage-vorschriften-wartung.html. Abgrenzung: Dort geht es allgemein um Montagevorschriften, Wartung und Selbsteinbau; der neue Artikel fokussiert ausschließlich den Wartungsvertrag als Vertrags- und Geschäftsmodell (Leistungsumfang, Laufzeit, Kalkulation, Kundenargumente, Abgrenzung zur Gewährleistung). 02-treppenlift-kosten.html deckt allgemeine Anschaffungs- und Folgekosten ab; der neue Artikel behandelt nur wiederkehrende Kosten eines Wartungsvertrags und verlinkt für Preise dorthin. 07-treppenlift-mieten.html behandelt Miete/Leasing; der neue Artikel grenzt Wartungsvertrag davon ab.",
+ "faq_fragen": [
+  "Was ist ein Treppenlift-Wartungsvertrag?",
+  "Was kostet ein Treppenlift-Wartungsvertrag?",
+  "Welche Kosten fallen bei einem Treppenlift-Wartungsvertrag an?",
+  "Treppenlift-Wartungsvertrag Kosten: Was ist bei der Kalkulation zu beachten?",
+  "Ist ein Wartungsvertrag für Treppenlift sinnvoll?",
+  "Wann ist ein Wartungsvertrag für Treppenlift sinnvoll?",
+  "Für wen ist ein Wartungsvertrag für Treppenlift sinnvoll?"
+ ],
+ "verwandte_artikel": [
+  "10-treppenlift-montage-vorschriften-wartung.html",
+  "02-treppenlift-kosten.html",
+  "07-treppenlift-mieten.html"
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "qa": {
+  "score": 42,
+  "stop": [
+   "Fehlende Primärquelle/Abrufdatum für § 40 Abs. 4 SGB XI"
+  ],
+  "fehler": [
+   {
+    "zitat": "§ 40 Absatz 4 SGB XI ist eine Kann-Leistung",
+    "korrektur": "Primärquelle verlinken (z. B. § 40 SGB XI auf gesetze-im-internet.de) und Abrufdatum ergänzen."
+   },
+   {
+    "zitat": "Das ist eine Empfehlung der Verbraucherzentrale und keine gesetzliche Pflicht.",
+    "korrektur": "Quelle der Verbraucherzentrale verlinken oder die Zuschreibung als unbelegt weglassen bzw. als allgemeine Praxisempfehlung formulieren."
+   },
+   {
+    "zitat": "Der Gesetzeswortlaut nennt außerdem einen weiteren Punkt: Der Mieter kann sich im Zusammenhang mit der Veränderung zur Leistung einer besonderen Sicherheit verpflichten. Das ist der Anknüpfungspunkt für Sicherheits- oder Rückbauabreden.",
+    "korrektur": "Vollständig: Der Mieter kann sich zur Leistung einer besonderen Sicherheit verpflichten, es sei denn, diese ist unbillig. Die Vorschrift betrifft eine Sicherheitsleistung; Rückbauabreden sind davon zu trennen und ergeben sich aus Mietvertrag/Erlaubnis."
+   },
+   {
+    "zitat": "<h2>Häufige Fragen</h2> ... <h2 id=\"faq\">Häufige Fragen</h2>",
+    "korrektur": "Nur eine FAQ-Sektion behalten; die erste redundante Auflistung entfernen und die ausführliche FAQ mit id=\"faq\" in die Navigation aufnehmen."
+   },
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft",
+    "korrektur": "Bei Recht/Förderung eine Fachprüfung durch eine qualifizierte Person benennen oder deutlicher als redaktionelle Zusammenfassung ohne Rechtsberatung kennzeichnen; 'automatisch geprüft' ist keine juristische Fachprüfung."
+   },
+   {
+    "zitat": "Kurz gesagt: Auftraggeber kann der Mieter, der Vermieter oder die Verwaltung sein – entscheidend ist, wem das Gebäude gehört und wer die Maßnahme bestellt.",
+    "korrektur": "Im ersten Absatz den Länderbezug klarstellen: 'Für Deutschland gilt:' oder 'Rechtslage in Deutschland'."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Der Bundesgerichtshof hat in einer Pressemitteilung vom Februar 2024 klargestellt, dass die Angemessenheit nur ausnahmsweise zu verneinen ist.",
+    "korrektur": "Das Datum 'Februar 2024' ist im Dossier nicht belegt; belegt ist allein die BGH-Pressemitteilung Nr. 26/2024 zu V ZR 244/22. Entweder auf 'in einer Pressemitteilung aus dem Jahr 2024' kürzen oder die Monatsangabe streichen."
+   },
+   {
+    "zitat": "Im Treppenhaus ist der Durchgang während der Montage freizuhalten.",
+    "korrektur": "entschärfen oder streichen: 'In der Praxis sollte der Durchgang abgestimmt und freigehalten werden.' Eine belegbare Grundlage zur Zugangs- und Terminpraxis (Schlüssel, Sperrungen, Information der Bewohner) liegt nicht vor."
+   },
+   {
+    "zitat": "Bei KfW-Programmen und bei der steuerlichen Berücksichtigung ist die Antrags- beziehungsweise Berechtigtenstellung im Einzelfall unterschiedlich und vom Eigentum abhängig.",
+    "korrektur": "streichen oder auf 'Die Antrags- bzw. Berechtigtenstellung ist im Einzelfall bei KfW bzw. Finanzamt zu klären' entschärfen; zu KfW-Programmen und zur steuerlichen Behandlung (§ 35a EStG) fehlt eine belastbare Quelle."
+   },
+   {
+    "zitat": "Üblich sind eine technische Beschreibung, Angaben zur Befestigung und eine Skizze der geplanten Position.",
+    "korrektur": "entschärfen: 'Häufig werden eine technische Beschreibung, Angaben zur Befestigung und eine Skizze der geplanten Position erwartet.' Belegte Muster- oder Formvorgaben liegen nicht vor; belegt ist nur, dass der Gesetzeswortlaut keine Formvorgabe enthält."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Vertragspartner ist, wer das Angebot unterschreibt und die Rechnung bezahlt.",
+    "ersatz": "Vertragspartner ist, wer den Auftrag erteilt. Wer die Rechnung bezahlt, kann davon abweichen; Besteller und Rechnungsempfänger sollten im Angebot getrennt benannt werden."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Bundesgerichtshof hat in einer Pressemitteilung vom Februar 2024 klargestellt, dass die Angemessenheit nur ausnahmsweise zu verneinen ist.",
+    "ersatz": "Der Bundesgerichtshof hat in einer Pressemitteilung vom Februar 2024 ausgeführt, dass die Angemessenheit nicht schon deshalb zu verneinen ist, weil in die Bausubstanz eingegriffen, das Gemeinschaftseigentum üblich genutzt eingeschränkt oder optisch verändert wird. Ob die Maßnahme im Einzelfall angemessen ist, bleibt zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Der StepSaver kommt nach Herstellerangabe ohne bauliche Anpassungen aus",
+    "ersatz": "Der StepSaver kommt nach Herstellerangabe in vielen Fällen ohne bauliche Anpassungen aus; ob und welche Eingriffe im Einzelfall erforderlich sind, ist vor Ort zu prüfen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min.",
+    "ersatz": "Stand: Oktober 2026 · Treppenlift-Magazin, Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min."
+   },
+   {
+    "zitat": "Der StepSaver kommt nach Herstellerangabe ohne bauliche Anpassungen aus, der Liftboy 4 ist mobil und batteriebetrieben.",
+    "ersatz": "Der StepSaver kommt nach Angabe des Betreibers dieses Magazins ohne bauliche Anpassungen aus, der Liftboy 4 ist nach Angabe des Betreibers dieses Magazins mobil und batteriebetrieben."
+   },
+   {
+    "zitat": "nach § 21 Absatz 1 Satz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten einer gestatteten Maßnahme.",
+    "ersatz": "nach § 21 Absatz 1 Satz 1 WEG trägt der verlangende Wohnungseigentümer die Kosten der Maßnahme, soweit nichts anderes beschlossen ist."
+   },
+   {
+    "zitat": "Bei einer Mietwohnung liegt die Entscheidung über bauliche Veränderungen dagegen beim Vermieter.",
+    "ersatz": "Bei einer Mietwohnung ist für bauliche Veränderungen die Erlaubnis des Vermieters erforderlich."
+   },
+   {
+    "zitat": "<h2>Häufige Fragen</h2>",
+    "ersatz": "Diesen ersten FAQ-Block entfernen; nur die zweite Sektion mit <h2 id=\"faq\">Häufige Fragen</h2> behalten."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Überschrift 'Traglast bis zu 300 kg' widerspricht den technischen Spezifikationen '225 kg (optional 300 kg)'. Konservativer Wert: 225 kg (optional 300 kg); beim Hersteller bestätigen.",
+   "Stratos NG/A: Überschrift 'Traglast bis 350 kg' widerspricht den technischen Spezifikationen '225 kg (optional 350 kg)'. Konservativer Wert: 225 kg (optional 350 kg); beim Hersteller bestätigen.",
+   "Stratos NG/A: Plattformgrößen 'bis 900 × 1400 mm' widersprechen den Spezifikationen 700 × 750, 750 × 850, 800 × 900, 800 × 1000 mm; spezielle Plattformgrößen sind Option. Konservativ: Standardgrößen nennen, Sondergrößen als Option; beim Hersteller bestätigen.",
+   "Neo: Normenwiderspruch EN 81-40 vs. EN 81-41 für das voll belastbare Fußbrett. Konservativ: keine der beiden Normen ohne Bestätigung nennen; beim Hersteller bestätigen.",
+   "Sigma: Hubhöhe 'bis 8000 mm' gilt laut FAQ nur für geschlossenen Fahrkorb/Schachtlift; offen im öffentlichen Bereich 3 m, privat 4 m. Konservativ: Einschränkung angeben; beim Hersteller bestätigen.",
+   "Delta-Vergleichstabelle: Stratos-Traglast 225 kg (optional 350 kg) vs. Stratos-Seite 'bis 350 kg'. Konservativer Wert: 225 kg (optional 350 kg); beim Hersteller bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.anwaltonline.com/mietrecht/urteile/35664/bauliche-veraenderungen-des-gemeinschaftseigentums-zur-barrierereduzierung",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/bauliche-veraenderung-und-erhaltung-faqs-HI1519452.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.miv.eu/aktuelles/barrierefreiheit-in-der-mietwohnung-%C2%A7-554-bgb-und-weg-zustimmung/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

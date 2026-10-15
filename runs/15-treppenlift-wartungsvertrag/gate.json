@@ -1,0 +1,18 @@
+{
+ "qa_score": 72,
+ "qa_stop": [],
+ "fakten_falsch": 0,
+ "legal_mittel_hoch": 1,
+ "links_tot": [],
+ "gegencheck_score": 94,
+ "ok_vor_gegencheck": false,
+ "bestanden": false,
+ "query": "treppenlift wartungsvertrag",
+ "slug": "15-treppenlift-wartungsvertrag",
+ "h1": "Treppenlift-Wartungsvertrag: Leistungsumfang, Kalkulation und Kundenargumente für Tischler und Schreiner",
+ "kosten_usd": 0.3703,
+ "llm_calls": 25,
+ "modell": "deepseek/deepseek-v4.1-flash",
+ "gegencheck_modell": "google/gemini-4-argon",
+ "datum": "2026-10-15"
+}

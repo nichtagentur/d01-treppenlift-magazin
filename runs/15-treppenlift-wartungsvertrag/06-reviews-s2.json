@@ -1,0 +1,129 @@
+{
+ "qa": {
+  "score": 72,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft; eine juristische Fachprüfung erfolgt nicht.",
+    "korrektur": "Für rechtliche YMYL-Aussagen zu Wartungsvertrag, Laufzeit, Kündigung, Garantie und Haftung eine qualifizierte juristische Fachprüfung einholen und als 'Fachlich geprüft von …' benennen. Bis dahin rechtliche Aussagen weiter auf allgemeine Hinweise beschränken und auf Rechtsberatung verweisen."
+   },
+   {
+    "zitat": "Für Österreich und die Schweiz können Recht und Verbraucherregeln abweichen; klären Sie den Einzelfall.",
+    "korrektur": "Den Länderbezug bereits im ersten Absatz klarstellen: 'Dieser Beitrag betrifft Wartungsverträge in Deutschland; für Österreich und die Schweiz gelten abweichende Regeln.'"
+   },
+   {
+    "zitat": "Unterm Strich: Ein sauber aufgesetzter Wartungsvertrag sichert Kundenbindung, Ersatzteilgeschäft und macht Ihre Serviceleistung planbar.",
+    "korrektur": "Abschwächen zu: 'Ein sauber aufgesetzter Wartungsvertrag kann Kundenbindung und Ersatzteilgeschäft unterstützen und die Serviceleistung planbarer machen.' Keine garantierte Folgeauftrags- oder Ersatzteilwirkung behaupten."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "In den hier zitierten Wartungs- und Serviceverträgen ist geregelt, dass Inspektion und Wartung regelmäßige Maßnahmen zur Erhaltung des mangelfreien Zustands und der Funktion umfassen; der konkrete Umfang ergibt sich aus Herstellervorgaben und den im jeweiligen Vertrag genannten Richtlinien und Normen.",
+    "korrektur": "Diese Formulierung ist nur für das AGB-Werk von LSL Leipzig belegt, nicht für alle zitierten Vertragswerke. Entschärfen und auf das konkrete Dokument beziehen, z. B.: 'In den AGB für Wartungs-/Inspektionsverträge von LSL Leipzig ist geregelt, dass Inspektion und Wartung regelmäßige Maßnahmen zur Erhaltung von Zustand und Funktion umfassen; der Umfang ergibt sich je nach Vertrag aus Herstellervorgaben und den im Vertrag genannten Richtlinien und Normen.'"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Verbindlich sind die Vorgaben des jeweiligen Herstellers und Betreibers",
+    "ersatz": "Maßgeblich können die Vorgaben des Herstellers und die Pflichten des Betreibers sein; ob und in welchem Umfang sie verbindlich sind, klären Sie im Einzelfall mit Hersteller und ggf. zuständiger Stelle."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Solche Klauseln dürfen Sie nicht ungeprüft übernehmen.",
+    "ersatz": "Solche Klauseln sollten Sie nicht ungeprüft übernehmen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Ein sauber aufgesetzter Wartungsvertrag sichert Kundenbindung, Ersatzteilgeschäft und macht Ihre Serviceleistung planbar.",
+    "ersatz": "Ein sauber aufgesetzter Wartungsvertrag kann Kundenbindung und Ersatzteilgeschäft unterstützen und Ihre Serviceleistung planbarer machen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Einmalwartung: der Kunde beauftragt eine einzelne Wartung. Abgerechnet wird nach Aufwand; in den zitierten Anbieterinformationen werden dabei üblicherweise Anfahrtskosten genannt.",
+    "ersatz": "Einmalwartung: Der Kunde beauftragt eine einzelne Wartung. Die Abrechnung erfolgt nach Aufwand; Anfahrtskosten können gesondert berechnet werden."
+   },
+   {
+    "zitat": "Im AGB-Werk von LSL Leipzig (2023) ist eine Laufzeit von zwölf Monaten mit automatischer Verlängerung um weitere zwölf Monate vorgesehen, sofern nicht sechs Wochen vor Ablauf des Vertragsjahres schriftlich gekündigt wird",
+    "ersatz": "Veröffentlichte Vertragswerke arbeiten mit unterschiedlichen Laufzeiten und Kündigungsfristen. Konkrete Fristen ergeben sich aus dem jeweiligen Vertrag und sind im Einzelfall zu prüfen."
+   },
+   {
+    "zitat": "Im 2019 veröffentlichten Servicevertrag von SERVOLIFT war eine Laufzeit von 24 Monaten mit stillschweigender Verlängerung um zwölf Monate und einer jährlichen Preissteigerung von 3 % für die Verlängerung vorgesehen; die Kündigungsfrist lag dort bei drei Monaten zum Vertragsende.",
+    "ersatz": "Laufzeit, Verlängerung, Preissteigerung und Kündigungsfristen unterscheiden sich je Anbieter und Vertrag. Prüfen Sie die aktuellen Bedingungen im jeweiligen Vertrag."
+   },
+   {
+    "zitat": "Im AGB-Werk von LSL Leipzig bleibt das Recht zur außerordentlichen Kündigung aus wichtigem Grund ausdrücklich unberührt; im jeweiligen Vertrag prüfen.",
+    "ersatz": "Ein außerordentliches Kündigungsrecht aus wichtigem Grund kann im jeweiligen Vertrag geregelt sein; prüfen Sie den Einzelfall."
+   },
+   {
+    "zitat": "Die Wartungsintervalle sind nicht pauschal festgelegt. Cibes nennt für selten genutzte Innenlifte eine jährliche Wartung als Mindestintervall; SANIMED empfiehlt eine Wartung pro Jahr und differenziert nach Nutzerzahl und Standort.",
+    "ersatz": "Die Wartungsintervalle sind nicht pauschal festgelegt. Sie unterscheiden sich nach Hersteller, Nutzung und Standort. Verbindlich sind die Vorgaben des jeweiligen Herstellers und Betreibers; klären Sie den Einzelfall."
+   },
+   {
+    "zitat": "Ein sauber aufgesetzter Wartungsvertrag sichert Kundenbindung, Ersatzteilgeschäft und macht Ihre Serviceleistung planbar.",
+    "ersatz": "Ein sauber aufgesetzter Wartungsvertrag kann Kundenbindung und Ersatzteilgeschäft unterstützen und macht Ihre Serviceleistung besser planbar."
+   }
+  ],
+  "an_lehner_melden": [
+   "Bitte bestätigen, ob Lehner für Produkte wie Delta, Omega, Stratos NG/A, Alpha, Neo oder Sigma Wartungsverträge, Wartungsintervalle oder Serviceumfänge anbietet; die vorliegenden Produktfakten enthalten dazu keine Angaben.",
+   "Bitte prüfen, ob die Verlinkung von Delta und Omega im Wartungsvertragskontext freigegeben ist; es liegen keine Lehner-Angaben zu Wartung/Service vor.",
+   "Bitte um Freigabe oder Beleg für die externen Quellen zu Wartungsverträgen (LSL Leipzig, SERVOLIFT, Cibes, SANIMED, Treppenlift-Fibel, TS Treppenlifte), da sie nicht Teil der Lehner-Produktfakten sind.",
+   "Bitte bestätigen, ob die Aussage 'Für diesen Artikel liegen keine Angaben des Betreibers zu Wartungsintervallen, Wartungsumfang oder Wartungsverträgen vor' weiterhin korrekt ist."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://cibeslift.com/de-de/service-und-wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://lsl-leipzig.de/files/AGB_Wartung_LSL_2023.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://ts-treppenlifte.de/service/treppenlift-garantie/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.sanimed-treppenlift.de/treppenlift-service/treppenlift-wartung/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.servolift.de/fileadmin/user_upload/Service/2019-05-31_SERVOLIFT-Servicevertrag_D.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-fibel.de/serviceleistungen/wartung",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

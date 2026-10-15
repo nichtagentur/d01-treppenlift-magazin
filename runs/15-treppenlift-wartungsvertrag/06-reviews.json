@@ -1,0 +1,236 @@
+{
+ "qa": {
+  "score": 38,
+  "stop": [
+   "Stop-Kriterium 2: Impressum und Kontakt sind im Artikel nicht über Footer/Link erreichbar; nur Betreiber genannt.",
+   "Stop-Kriterium 4: Nicht alle Zahlen zu Kosten/Fristen/Normen sind mit Primärquelle und Abrufdatum belegt (80–300 Euro nur sekundäre Quelle; 'absolutes Minimum' ohne konkrete Quelle)."
+  ],
+  "fehler": [
+   {
+    "zitat": "Ein Ratgeberportal nennt für Wartungsverträge eine jährliche Gebühr, die meist zwischen 80 und 300 Euro liegt.",
+    "korrektur": "Konkrete Preisspanne entfernen oder nur mit Primärquelle nennen; für YMYL besser keine Marktspanne aus Sekundärquelle, sondern individuelle Kalkulation nach Leistungsumfang."
+   },
+   {
+    "zitat": "Eine jährliche Wartung gilt als absolutes Minimum für selten genutzte Innenanlagen",
+    "korrektur": "Entschärfen und belegen: 'Viele Hersteller empfehlen mindestens eine jährliche Wartung; maßgeblich sind Herstellerangaben, Nutzung und Einbauort.'"
+   },
+   {
+    "zitat": "Ein Treppenlift-Wartungsvertrag ist ein wiederkehrender Servicevertrag zwischen Ihrem Betrieb und dem Endkunden.",
+    "korrektur": "Im ersten Absatz Länderbezug ergänzen: 'In Deutschland ...' und AT/CH abgrenzen, da Recht und Verbraucherregeln länderabhängig sind."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft.",
+    "korrektur": "Bei rechtlichen Aussagen qualifizierte juristische Prüfung durch benannte reale Person ergänzen oder Aussagen auf allgemeine Hinweise mit Verweis auf Rechtsberatung beschränken."
+   },
+   {
+    "zitat": "Ein Fachbetrieb sieht zwölf Monate Laufzeit mit automatischer Verlängerung um weitere zwölf Monate vor, sofern nicht sechs Wochen vor Ablauf des Vertragsjahres schriftlich gekündigt wird.",
+    "korrektur": "Konkreten Anbieter im Text nennen und direkt verlinken oder Fristen ohne Anbieterbezug als anonymisiertes Beispiel mit Quellenverweis kennzeichnen."
+   },
+   {
+    "zitat": "Ein Herstellerservicevertrag läuft 24 Monate, verlängert sich stillschweigend um zwölf Monate und sieht für die Verlängerung eine jährliche Preissteigerung vor",
+    "korrektur": "Konkreten Anbieter nennen und verlinken (z. B. SERVOLIFT) oder Beispiel klar als anonymisiert und quellenbasiert kennzeichnen."
+   },
+   {
+    "zitat": "Ist ein Wartungsvertrag für Treppenlift sinnvoll? ... Wann ist ein Wartungsvertrag für Treppenlift sinnvoll? ... Für wen ist ein Wartungsvertrag für Treppenlift sinnvoll?",
+    "korrektur": "FAQ zusammenführen oder streichen; die Antworten wiederholen den Abschnitt 'Wann ist ein Wartungsvertrag sinnvoll?'."
+   },
+   {
+    "zitat": "Garantie: eine freiwillige Leistung des Herstellers. Bedingungen, Deckung und Dauer legt allein der Hersteller fest.",
+    "korrektur": "Mit Primärquelle (z. B. § 443 BGB) belegen oder als allgemeine Einordnung mit Verweis auf Rechtsberatung kennzeichnen."
+   },
+   {
+    "zitat": "Ansprechpartner für den Kunden ist immer sein Vertragspartner, also in der Regel Ihr Betrieb – nicht der Hersteller.",
+    "korrektur": "Mit Quelle belegen und 'immer' entschärfen; bei Garantie kann der Hersteller zusätzlicher Ansprechpartner sein."
+   },
+   {
+    "zitat": "Solche Angaben stammen aus unseren eigenen Produktunterlagen als Betreiber dieses Magazins",
+    "korrektur": "Interessenkonflikt vor dem Abschnitt klarer benennen: 'Betreiber ist Lehner Lifttechnik; die folgenden Produktangaben sind Herstellerangaben und keine unabhängige Prüfung.'"
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Er regelt Leistungsumfang, Reaktionszeiten, Laufzeit und Vergütung der regelmäßigen Prüfung und Pflege eines Treppenlifts.",
+    "korrektur": "entschärfen: „Er regelt in der Regel Leistungsumfang, Laufzeit und Vergütung.“ Feste Reaktionszeiten sind in den gefundenen Vertragswerken nicht geregelt, sondern ausdrücklich offengelassen."
+   },
+   {
+    "zitat": "Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt in beiden Fällen unberührt.",
+    "korrektur": "entschärfen: belegt ist dies nur für das AGB-Werk eines Fachbetriebs – etwa „Beim AGB-Werk bleibt das Recht zur außerordentlichen Kündigung aus wichtigem Grund ausdrücklich unberührt; im jeweiligen Vertrag prüfen.“"
+   },
+   {
+    "zitat": "Mieten und Leasing bündeln Wartung häufig in einer Rate",
+    "korrektur": "streichen oder entschärfen: in den Quellen nicht belegt (Dossier enthält keine Angaben zu Miet-/Leasingmodellen)."
+   },
+   {
+    "zitat": "Bei Verträgen mit Verbrauchern gelten zusätzliche Regeln, etwa zu automatischen Verlängerungen, Preisklauseln und Widerrufsrechten.",
+    "korrektur": "entschärfen: verbraucherrechtliche Vorgaben sind im Dossier nicht belegt – etwa „Ob und welche zusätzlichen Regeln gelten, ist hier nicht belegt; im Einzelfall mit Rechtsberatung klären.“"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Ein Ratgeberportal nennt für Wartungsverträge eine jährliche Gebühr, die meist zwischen 80 und 300 Euro liegt.",
+    "ersatz": "Öffentlich zugängliche Angaben zu Preisen sind nicht repräsentativ. Kalkulieren Sie den Preis aus Ihren eigenen Positionen und belegen Sie ihn nachvollziehbar."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Eine jährliche Wartung gilt als absolutes Minimum für selten genutzte Innenanlagen",
+    "ersatz": "Hersteller nennen teils eine jährliche Wartung als Mindestintervall für selten genutzte Innenanlagen. Ob und in welchem Abstand gewartet werden muss, hängt von Anlage, Nutzung, Standort und Herstellervorgaben ab."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Anlagen mit direkter Stromversorgung arbeiten ohne Batteriewechsel, und ein außen aufgestellter Spindellift wird als „einfach zu warten“ geführt.",
+    "ersatz": "Nach Herstellerangabe können bestimmte Anlagen wartungsarm sein oder ohne regelmäßigen Batteriewechsel auskommen. Ob dies im Einzelfall gilt, ist anhand der konkreten Anlage zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Garantie: eine freiwillige Leistung des Herstellers. Bedingungen, Deckung und Dauer legt allein der Hersteller fest.",
+    "ersatz": "Garantie ist eine freiwillige Leistung des jeweiligen Garantiegebers – das kann der Hersteller oder Ihr Betrieb sein. Bedingungen, Deckung und Dauer legt der Garantiegeber fest."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "In üblichen Serviceverträgen verpflichtet sich der Auftragnehmer zu einer Haftpflichtversicherung, die Personen- und Sachschäden abdeckt; Schäden an der Anlage, die im Zusammenhang mit der Leistungserbringung entstehen, sind bei Verschulden zu beseitigen.",
+    "ersatz": "Ein Wartungsvertrag kann eigene Haftungs- und Dokumentationspflichten begründen. Prüfen Sie mit Ihrem Versicherer und im Einzelfall, ob und in welchem Umfang Ihre Betriebshaftpflicht Service- und Wartungsarbeiten an Treppenliften einschließlich möglicher Personenschäden abdeckt."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Ansprechpartner für den Kunden ist immer sein Vertragspartner, also in der Regel Ihr Betrieb – nicht der Hersteller.",
+    "ersatz": "Ansprechpartner für Mängelansprüche ist in der Regel Ihr Betrieb als Verkäufer. Abweichende Vertragskonstellationen, etwa ein Direktkauf beim Hersteller, sind möglich und im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Auf der Kundenseite gibt es Mitwirkungspflichten: Betriebs- und Wartungsanleitungen sowie Zubehör müssen für die Wartung verfügbar sein.",
+    "ersatz": "In Wartungsverträgen werden häufig Mitwirkungspflichten vereinbart, etwa dass Anleitungen und Zubehör verfügbar sind. Ob und in welchem Umfang das verpflichtend ist, ergibt sich aus dem Vertrag."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Terminsicherheit: Der Wartungstermin wird automatisch im vereinbarten Monat angemeldet und flexibel abgestimmt.",
+    "ersatz": "Terminsicherheit: Sofern vertraglich vereinbart, wird der Wartungstermin automatisch im vereinbarten Monat angemeldet und flexibel abgestimmt."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Der Betrieb weist den Kunden im Rahmen der Wartung auf notwendige oder empfehlenswerte Umbauten und Reparaturen hin.",
+    "ersatz": "Üblicherweise weist der Betrieb den Kunden im Rahmen der Wartung auf notwendige oder empfehlenswerte Umbauten und Reparaturen hin."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin, betrieben von der Lehner Lifttechnik (Betreiber dieses Magazins); KI-gestützt erstellt und geprüft."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Ein Ratgeberportal nennt für Wartungsverträge eine jährliche Gebühr, die meist zwischen 80 und 300 Euro liegt.",
+    "ersatz": "Öffentlich zugängliche Angaben zu Wartungskosten sind nicht repräsentativ; die Kosten hängen stark von Modell, Leistungsumfang und Aufwand ab. Rechnen Sie den Preis aus Ihren eigenen Positionen und belegen Sie ihn nachvollziehbar."
+   },
+   {
+    "zitat": "Ein Ratgeberportal nennt für Wartungsverträge eine jährliche Gebühr, die meist zwischen 80 und 300 Euro liegt; diese Angabe stammt aus einer sekundären Quelle und ist nicht repräsentativ.",
+    "ersatz": "Öffentlich zugängliche Angaben zu Wartungskosten sind nicht repräsentativ; die Kosten hängen stark von Modell, Leistungsumfang und Aufwand ab. Rechnen Sie den Preis aus Ihren eigenen Positionen."
+   },
+   {
+    "zitat": "Eine jährliche Wartung gilt als absolutes Minimum für selten genutzte Innenanlagen; bei häufiger Nutzung oder Aufstellung im Freien kann der Aufwand steigen.",
+    "ersatz": "Wartungsintervalle sind nicht pauschal festgelegt. In der Praxis richten sich die Abstände nach Nutzung, Standort und Herstellervorgaben; bei häufiger Nutzung oder Aufstellung im Freien kann der Aufwand steigen. Verbindliche Vorgaben klären Sie im Einzelfall mit dem Hersteller."
+   },
+   {
+    "zitat": "eine jährliche Wartung gilt als absolutes Minimum für selten genutzte Innenanlagen, bei häufiger Nutzung oder Aufstellung im Freien kann der Aufwand steigen.",
+    "ersatz": "Wartungsintervalle sind nicht pauschal festgelegt. In der Praxis richten sich die Abstände nach Nutzung, Standort und Herstellervorgaben; verbindliche Vorgaben klären Sie im Einzelfall mit dem Hersteller."
+   },
+   {
+    "zitat": "Ein weiterer Hersteller empfiehlt eine Wartung pro Jahr, differenziert aber ebenfalls nach Nutzerzahl und Standort.",
+    "ersatz": "Einzelne Anbieter nennen Richtwerte; verbindlich sind die Vorgaben des jeweiligen Herstellers und Betreibers. Klären Sie den Einzelfall."
+   },
+   {
+    "zitat": "In üblichen Serviceverträgen verpflichtet sich der Auftragnehmer zu einer Haftpflichtversicherung, die Personen- und Sachschäden abdeckt; Schäden an der Anlage, die im Zusammenhang mit der Leistungserbringung entstehen, sind bei Verschulden zu beseitigen.",
+    "ersatz": "Klären Sie mit Ihrem Versicherer, ob Ihre Betriebshaftpflicht Service- und Wartungsarbeiten an Treppenliften einschließlich möglicher Personenschäden abdeckt und ob die Deckungssummen ausreichen. Regelungen zu Schäden an der Anlage gehören in den Vertrag."
+   },
+   {
+    "zitat": "Auf der Kundenseite gibt es Mitwirkungspflichten: Betriebs- und Wartungsanleitungen sowie Zubehör müssen für die Wartung verfügbar sein.",
+    "ersatz": "Sinnvoll ist es, in den Vertragsunterlagen festzuhalten, dass Betriebs- und Wartungsanleitungen sowie Zubehör für die Wartung verfügbar sind."
+   },
+   {
+    "zitat": "Einige Plattform-Treppenlifte werden vom Hersteller als wartungsarm beschrieben",
+    "ersatz": "Der Plattform-Treppenlift Delta wird in den Produktunterlagen als wartungsarm beschrieben; ob weitere Plattform-Treppenlifte gemeint sind, beim Hersteller bestätigen."
+   },
+   {
+    "zitat": "Anlagen mit direkter Stromversorgung arbeiten ohne Batteriewechsel",
+    "ersatz": "Der Plattform-Treppenlift Omega arbeitet mit direkter Stromversorgung ohne Batterien."
+   }
+  ],
+  "an_lehner_melden": [
+   "Wartungsvertrag, Intervalle, Laufzeiten, Preise und Leistungsumfang werden in den gelieferten Lehner-Texten nicht genannt. Bitte für das Magazin keine Lehner-spezifischen Wartungsvertragsdetails daraus ableiten; verwertbar sind nur Argumente wie wartungsarm, geringer Wartungsaufwand, Antriebsart, Stromversorgung, Notablass/Notstrom.",
+   "Omega: Traglast im Text oben „bis zu 300 kg“, in den technischen Spezifikationen „225 kg (optional 300 kg)“ – serienmäßige und optionale Traglast bestätigen.",
+   "Stratos NG/A: Traglast oben „bis 350 kg“, in Produktvergleich/Technik „225 kg (optional 350 kg)“ – Standard- und optionale Traglast bestätigen.",
+   "Stratos NG/A: Plattformgrößen „bis 900 × 1400 mm“ gegenüber technischer Liste 700×750, 750×850, 800×900, 800×1000 mm – Widerspruch oder unvollständige Liste klären.",
+   "Stratos NG/A: „EN 81-40:2020“ und „EU-Maschinenrichtlinie“ auf derselben Seite – bitte bestätigen, was genau zertifiziert ist.",
+   "Neo: Fußbrett einmal nach EN 81-40, einmal nach EN 81-41 genannt – Widerspruch klären.",
+   "Neo: Status „Coming soon“ – Verfügbarkeit für Kalkulation, Beratung und Magazininhalte bestätigen.",
+   "StepSaver: „Aufstellung optional auch im Außenbereich“ gegenüber technischer Angabe „Innen und außen“ – Formulierung klären; im Magazin für Treppen draußen „im Freien“ verwenden.",
+   "Delta und Stratos NG/A: abgeschnittene FAQ-/Preisangaben in den gelieferten Texten – vollständige Preis- und FAQ-Regelungen nachliefern.",
+   "Bitte bestätigen, welche Plattform-Treppenlifte offiziell als wartungsarm gelten; in den gelieferten Fakten ist das nur für Delta belegt.",
+   "Bitte bestätigen, ob Omega das einzige Modell mit direkter Stromversorgung ohne Batterien ist."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://cibeslift.com/de-de/service-und-wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://de.webportal.tkelevator.com/wps/portal/customer/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOINAjzcDQyDDbwNzP3cDByd3fwsvfw9DZ3NTYEKIkEKcABHA7z6_Yxh-nEocDKiTD9QAQH3h-tHQZTg8QFeM4BOjAS6wRy3G4z0C3JDQyMMskwBnbqZSQ!!/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzBQSEcwMVMwSzA3TkYwQUNGTjlKT0kxU0Mz/",
+   "status": "TOT",
+   "code": "URLError"
+  },
+  {
+   "url": "https://lifta.de/service/wartung",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://lsl-leipzig.de/files/AGB_Wartung_LSL_2023.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://ts-treppenlifte.de/service/treppenlift-garantie/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.sanimed-treppenlift.de/treppenlift-service/treppenlift-wartung/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.servolift.de/fileadmin/user_upload/Service/2019-05-31_SERVOLIFT-Servicevertrag_D.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.treppenlift-fibel.de/serviceleistungen/wartung",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

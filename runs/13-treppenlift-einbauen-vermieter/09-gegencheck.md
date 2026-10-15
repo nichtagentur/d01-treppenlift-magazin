@@ -1,0 +1,8 @@
+# Gegencheck google/gemini-4-argon
+
+Score 96
+
+1. "Nach § 554 Abs. 3 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam." -> Laut Dossier ist dies in § 554 Abs. 2 BGB geregelt, nicht in Abs. 3. -> Korrigiert auf "Nach § 554 Abs. 2 BGB ist eine zum Nachteil des Mieters abweichende Vereinbarung unwirksam."
+2. "Eine Einschränkung wie „es sei denn, diese ist unbillig“ nennt der Wortlaut nicht." -> Meta-Artefakt aus einem früheren Prüflauf ohne Mehrwert für den Leser und nicht im Dossier als darzustellender Fakt enthalten. -> Satz ersatzlos gestrichen.
+3. "..., das Gemeinschaftseigentum üblich genutzt eingeschränkt oder optisch verändert wird." -> Grammatikalisch fehlerhaft; das Dossier spricht von "übliche Nutzungseinschränkungen des Gemeinschaftseigentums". -> Geändert in "..., das Gemeinschaftseigentum in üblichem Maß in der Nutzung eingeschränkt oder optisch verändert wird."
+4. "Eine belastbare Fundstelle zu einer allgemeinen Empfehlung der Verbraucherzentrale lag für diesen Stand nicht vor; klären Sie die Reihenfolge mit der zuständigen Pflegekasse." -> Redaktioneller Meta-Kommentar aus dem Dossier im Artikeltext; laut Regeln ist "Antrag vor Auftrag" als Empfehlung der Verbraucherzentrale (kein Gesetz) darzustellen, ohne interne Recherchelücken im Lesetext zu referenzieren. -> Umformuliert in: "Die Reihenfolge „Antrag vor Auftrag“ ist eine Empfehlung der Verbraucherzentrale und kein Gesetz. Klären Sie das Vorgehen vorab mit der zuständigen Pflegekasse."
