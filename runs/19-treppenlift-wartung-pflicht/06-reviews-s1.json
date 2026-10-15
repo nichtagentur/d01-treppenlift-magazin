@@ -1,0 +1,152 @@
+{
+ "qa": {
+  "score": 20,
+  "stop": [
+   "Falsche Normangaben im YMYL-Rechtsteil: § 12 MPBetreibV wird als sicherheitstechnische Kontrollvorschrift geführt, § 6 MPBetreibV als E-Mail-Pflicht für den Beauftragten für Medizinproduktesicherheit; beides ist nicht korrekt und nicht durch die angegebenen Primärquellen gedeckt.",
+   "Nicht verifizierte bzw. falsche Quellen-URLs zur MPBetreibV (mpbetreibv_2025) sowie nicht belastbare Quelle für die BetrSichV-Aussage zum privaten Bereich."
+  ],
+  "fehler": [
+   {
+    "zitat": "§ 12 MPBetreibV sieht sicherheitstechnische Kontrollen spätestens alle zwei Jahre vor.",
+    "korrektur": "Normangabe prüfen und korrigieren: Die sicherheitstechnischen Kontrollen stehen in der MPBetreibV nicht in § 12; maßgebliche Vorschrift und Intervall aus der geltenden Fassung/Anlage belegen und korrekt verlinken."
+   },
+   {
+    "zitat": "§ 6 MPBetreibV verpflichtet Betreiber von Gesundheitseinrichtungen, eine Funktions-E-Mail-Adresse des Beauftragten für Medizinproduktesicherheit bekannt zu machen.",
+    "korrektur": "Diese Pflicht stammt nicht aus § 6 MPBetreibV; sie ist im MPDG geregelt. Entfernen oder mit korrekter Primärquelle zitieren."
+   },
+   {
+    "zitat": "https://www.gesetze-im-internet.de/mpbetreibv_2025/MPBetreibV.pdf",
+    "korrektur": "Offizielle konsolidierte Fassung der MPBetreibV mit korrektem Fundstellenjahr verwenden; keine nicht verifizierte oder erfundene URL angeben."
+   },
+   {
+    "zitat": "Nach den vorliegenden Informationen der BAuA fällt der private Bereich nicht unter die Betriebssicherheitsverordnung (BetrSichV).",
+    "korrektur": "Aussage über den Anwendungsbereich der BetrSichV (§ 1) belegen oder BAuA-Nennung streichen; der verlinkte BAuA-Text behandelt elektrische Arbeitsmittel am Arbeitsplatz, nicht den privaten Bereich."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft. Eine juristische oder technische Fachprüfung ist damit nicht verbunden.",
+    "korrektur": "Bei YMYL-Recht/Technik fehlt die nach QRG nötige qualifizierte Fachprüfung. Artikel fachlich prüfen lassen und Prüfperson benennen oder rechtliche/technische Aussagen auf allgemeine, nicht verbindliche Hinweise reduzieren."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Eine Übertragung von Wartungskosten auf den Mieter ist nur im Rahmen wirksamer mietvertraglicher Regelungen möglich.",
+    "korrektur": "entschärfen oder streichen: Zur Umlagefähigkeit von Wartungskosten und zu § 535 BGB liegt im Dossier keine Fundstelle vor. Besser: „Ob und in welchem Umfang Wartungskosten auf den Mieter übertragen werden können, ist im Einzelfall zu prüfen; maßgeblich sind Mietvertrag und wirksame Vereinbarungen. Klären Sie das anwaltlich.“"
+   },
+   {
+    "zitat": "Regelmäßig kann den Vermieter die Instandhaltung treffen, wenn der Lift Teil des Mietobjekts ist; rechtlich nicht belegt ist eine pauschale Zuordnung.",
+    "korrektur": "entschärfen oder streichen: „Regelmäßig kann den Vermieter die Instandhaltung treffen“ ist eine Rechtsaussage ohne Fundstelle im Dossier. Besser rein einzelfallbezogen: „Wen Instandhaltungspflichten treffen, ergibt sich aus Mietvertrag, Einbausituation und Nutzung; eine pauschale Zuordnung ist nicht belegt und im Einzelfall rechtlich zu prüfen.“"
+   },
+   {
+    "zitat": "Nach den Bauordnungen der Länder können für bestimmte Anlagen Betreiberpflichten bestehen.",
+    "korrektur": "entschärfen: Im Dossier findet sich dazu nur ein sekundärer Herstellerhinweis zu Aufzügen (MBO § 85 Abs. 5, Schindler), keine belastbare Quelle für Treppenlifte. Besser: „Ob für privat genutzte Treppenlifte landesrechtliche Betreiberpflichten bestehen, ist nicht pauschal geklärt und im Einzelfall bei der zuständigen Bauaufsicht zu klären.“"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Eine Pflicht beginnt zu dem Zeitpunkt, den die Betriebsanleitung des konkreten Modells oder der Wartungsvertrag nennt.",
+    "ersatz": "Ob und ab wann eine Wartungspflicht besteht, ist vom Einzelfall abhängig. Herstellervorgaben können vertraglich einbezogen sein oder Betreiberpflichten konkretisieren; eine eigenständige gesetzliche Pflicht folgt daraus nicht automatisch. Prüfen Sie Unterlagen, Vertrag und Nutzung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach den vorliegenden Informationen der BAuA fällt der private Bereich nicht unter die Betriebssicherheitsverordnung (BetrSichV).",
+    "ersatz": "Soweit der Lift ausschließlich privat und ohne Beschäftigte genutzt wird, spricht viel dafür, dass die BetrSichV nicht greift. Bei Haushaltshilfen, gewerblicher Nutzung oder Mischlagen ist der Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nicht der Gesetzgeber legt sie fest, sondern die Parteien.",
+    "ersatz": "Soweit keine gesetzlichen Betreiberpflichten greifen, legen die Parteien die Vertragsintervalle fest; gesetzliche Mindestanforderungen können daneben bestehen und sind im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für Anwendungsfälle der MPBetreibV nennt § 12 MPBetreibV sicherheitstechnische Kontrollen spätestens alle zwei Jahre.",
+    "ersatz": "§ 12 MPBetreibV verweist für sicherheitstechnische Kontrollen auf die Anlage 1. Ob und mit welcher Frist ein konkretes Produkt erfasst ist, ist einzelfallabhängig; eine pauschale Zwei-Jahres-Frist für Treppenlifte ist nicht belegbar."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Nacherfüllungsanspruch aus einem Werkvertrag kann die Reparatur kostenfrei stellen.",
+    "ersatz": "Ob eine Nacherfüllung kostenfrei erfolgt, ist im Einzelfall zu prüfen. Bei Schäden durch unterlassene Wartung kann der Gewährleistungsanspruch ausgeschlossen oder gemindert sein."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Der Wartungsvertrag als Serviceleistung und Haftungsabsicherung",
+    "ersatz": "Der Wartungsvertrag als Serviceleistung und Nachweis – Chancen und Grenzen für die Haftung"
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "kein pauschales „muss man halt“.",
+    "ersatz": "keine pauschale Aussage."
+   },
+   {
+    "zitat": "Tischler sollten vor Übernahme prüfen, ob sie diese Anforderung erfüllen.",
+    "ersatz": "Prüfen Sie vor Übernahme, ob Ihr Betrieb diese Anforderung erfüllt."
+   },
+   {
+    "zitat": "Nach den vorliegenden Informationen der BAuA fällt der private Bereich nicht unter die Betriebssicherheitsverordnung (BetrSichV).",
+    "ersatz": "Nach den vorliegenden Informationen der BAuA ist der private Bereich in der Regel nicht vom Anwendungsbereich der Betriebssicherheitsverordnung (BetrSichV) erfasst."
+   },
+   {
+    "zitat": "Sonst landen Sie im Streitfall zwischen Vermieter und Mieter – ohne Auftrag und ohne Ansprechpartner.",
+    "ersatz": "So vermeiden Sie unklare Zuständigkeiten im Streitfall."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: Widersprüchliche Normangabe auf der Produktseite – „voll belastbares Fußbrett nach EN 81-40“ vs. „nach EN 81-41“. Bitte eindeutig bestätigen.",
+   "Omega: Traglast-Angabe Highlight „bis zu 300 kg“ vs. technische Spezifikation 225 kg (optional 300 kg). Konservativer Wert 225 kg, optional 300 kg – beim Hersteller bestätigen.",
+   "Stratos NG/A: Traglast Highlight „bis 350 kg“ vs. technische Spezifikation 225 kg (optional 350 kg). Konservativer Wert 225 kg, optional 350 kg – beim Hersteller bestätigen. Zusätzlich Plattformgrößen: „bis 900 × 1400 mm“ vs. technische Liste bis 800 × 1000 mm – beim Hersteller bestätigen.",
+   "Sigma: „Lift bis 8 m“ vs. FAQ: offener Fahrkorb öffentlich bis 3 m, privat bis 4 m, geschlossen/Schachtlift bis 8 m. Konservativ: 3 m öffentlich, 4 m privat, 8 m geschlossen – beim Hersteller bestätigen.",
+   "Zertifizierungen/Normen uneinheitlich: Delta, Omega, Alpha nur „CE & TÜV“; Stratos NG/A EN 81-40:2020; Neo EN 81-40 vs. EN 81-41; Sigma Maschinenrichtlinie 2006/42/EC; Elevex, Liftboy 4, StepSaver ohne Normangabe. Bitte vereinheitlichen.",
+   "Wartung: In keiner Produktbeschreibung werden Wartungspflicht, Intervalle oder Unterschiede für private/gewerbliche/vermietete Nutzung genannt. Bitte ergänzen oder bestätigen, dass keine Angaben gemacht werden."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv_2025/MPBetreibV.pdf",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv_2025/__12.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

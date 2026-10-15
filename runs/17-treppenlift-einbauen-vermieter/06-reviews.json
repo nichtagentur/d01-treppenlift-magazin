@@ -1,0 +1,199 @@
+{
+ "qa": {
+  "score": 45,
+  "stop": [
+   "Impressum/Kontakt/Datenschutz nicht über Footer/Link erreichbar; nur Betreiberanschrift im Text.",
+   "Normverweis § 20 Abs. 4 WEG für Beschlussmehrheit ist unzutreffend/belegt nicht die korrekte Norm; maßgeblich § 20 Abs. 1 und 2 WEG."
+  ],
+  "fehler": [
+   {
+    "zitat": "Der Hersteller dieses Magazins führt dazu unter anderem den Sitzlift Alpha ... und den StepSaver",
+    "korrektur": "Lehner Lifttechnik als 'Betreiber dieses Magazins' kennzeichnen; eigene Produkte nicht als 'Hersteller dieses Magazins', sondern als Betreiberprodukte mit Interessenkonflikt-Hinweis vor der Nennung."
+   },
+   {
+    "zitat": "Dazu gehört etwa der Liftboy 4",
+    "korrektur": "Auch dieser Eigenprodukt-Link muss als Produkt des Betreibers dieses Magazins gekennzeichnet werden."
+   },
+   {
+    "zitat": "<h2 id='faq'>Häufige Fragen</h2>",
+    "korrektur": "FAQ-Block doppelt; einen Block entfernen oder zusammenführen, doppelte id='faq' auflösen."
+   },
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "korrektur": "Für Recht/Förderung fehlt 'Fachlich geprüft von <reale Person, Qualifikation>'; 'automatisch geprüft' reicht für YMYL-Recht nicht."
+   },
+   {
+    "zitat": "Wird ein Treppenlift in einer Mietwohnung eingebaut, ist der Vermieter in der Regel ein eigener Projektbeteiligter",
+    "korrektur": "Länderbezug Deutschland im ersten Absatz klarstellen; die zitierten Normen BGB/WEG gelten für Deutschland, Betreiber sitzt in Österreich."
+   },
+   {
+    "zitat": "unter Beachtung der Grenzen des § 20 Abs. 4 WEG",
+    "korrektur": "Normverweis korrigieren: Für Beschlussmehrheit bei baulichen Veränderungen sind § 20 Abs. 1 und 2 WEG maßgeblich; Abs. 4 betrifft Gestattungsverlangen. Mit Primärquelle belegen."
+   },
+   {
+    "zitat": "Weitere Wege wie KfW-Programme setzen nach Angabe der Verbraucherzentrale unter anderem das Einverständnis des Hausbesitzers voraus.",
+    "korrektur": "Für Förderaussage KfW-Primärquelle mit Programm und Datum nennen oder Satz streichen."
+   },
+   {
+    "zitat": "AG Charlottenburg (220 C 54/22) ... recht.nulegal.eu",
+    "korrektur": "Urteilsreproduktion auf nulegal.eu ist keine Primärquelle; offizielle Fundstelle verlinken oder Einzelfallnennung streichen."
+   },
+   {
+    "zitat": "Betreiber dieses Magazins ist Lehner Lifttechnik, Mitterweg 4, 4722 Peuerbach, Österreich.",
+    "korrektur": "Impressum, Kontakt (E-Mail, Telefon) und Datenschutz im Footer verlinken; Anschrift allein genügt nicht."
+   },
+   {
+    "zitat": "Die Verbraucherzentrale verweist auf eine Förderung, der amtlich belegte Betrag lag für diesen Artikel nicht vor.",
+    "korrektur": "Unklare Meta-Aussage; entweder konkreten Förderbetrag mit Primärquelle nennen oder Satz streichen."
+   },
+   {
+    "zitat": "Der BGH zieht in der Entscheidung VIII ZR 234/23 für die Beschwer den Beseitigungsaufwand bei Mietende heran.",
+    "korrektur": "Unklaren Begriff 'Beschwer' präzisieren und mit Randnummer belegen; sonst streichen."
+   },
+   {
+    "zitat": "Das BGH-Verfahren betraf eine Klage aus dem Jahr 2012 und wurde noch nach der damaligen Fassung des § 554a BGB geführt.",
+    "korrektur": "Historische Einordnung mit Fundstelle/Randnummer belegen oder streichen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [
+   {
+    "zitat": "Der Hersteller dieses Magazins führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver, der nach Herstellerangabe ohne bauliche Anpassungen auskommt.",
+    "korrektur": "Eigene Produkte sind nach den Regeln des Magazins als \"Betreiber dieses Magazins\" zu kennzeichnen, nicht als \"Hersteller dieses Magazins\", z. B.: \"Der Betreiber dieses Magazins führt dazu den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver, der nach Angabe des Betreibers dieses Magazins ohne bauliche Anpassungen auskommt.\""
+   },
+   {
+    "zitat": "Dazu gehört etwa der Liftboy 4, der nach Herstellerangabe batteriebetrieben ohne direkten Stromanschluss arbeitet.",
+    "korrektur": "Produkt des Betreibers als solches kennzeichnen: \"Dazu gehört etwa der Liftboy 4 des Betreibers dieses Magazins, der nach Angabe des Betreibers batteriebetrieben ohne direkten Stromanschluss arbeitet.\""
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Arbeiten an der Elektroinstallation gehören in die Hände eines dafür qualifizierten Fachunternehmens; die Abstimmung mit dem Vermieter sollte vor der Ausführung vorliegen.",
+    "korrektur": "entschärfen oder streichen"
+   },
+   {
+    "zitat": "Ohne Freigabe wird nicht montiert. Das ist keine Frage der Kulanz, sondern der Haftung und des Eigentums.",
+    "korrektur": "entschärfen oder streichen"
+   },
+   {
+    "zitat": "Gesundheitsbezogene Angaben wie Pflegegrad oder Diagnosen gehören nicht ungefragt in Unterlagen, die an Vermieter oder Hausverwaltung gehen.",
+    "korrektur": "entschärfen oder streichen"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Nach § 20 WEG können bauliche Veränderungen beschlossen oder einem Wohnungseigentümer gestattet werden; § 20 Abs. 3 WEG betrifft die Gestattung auf Verlangen.",
+    "ersatz": "Nach § 20 WEG können bauliche Veränderungen beschlossen oder einem Wohnungseigentümer gestattet werden. Für die barrierefreie Gestattung auf Verlangen ist § 20 Abs. 2 WEG einschlägig; § 20 Abs. 3 WEG betrifft Ladeeinrichtungen für Elektrofahrzeuge. Prüfen Sie die einschlägige Norm im Einzelfall mit Verwaltung oder Rechtsbeistand."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Vertragspartner ist, wer Angebot und Auftrag unterschreibt.",
+    "ersatz": "Vertragspartner ist in der Regel, wer den Auftrag im eigenen Namen oder als wirksam vertretende Person unterschreibt. Bei Angehörigen oder Vertretern Vollmacht prüfen und den tatsächlichen Auftraggeber ausdrücklich in der Auftragsbestätigung benennen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "der nach Herstellerangabe ohne bauliche Anpassungen auskommt.",
+    "ersatz": "der nach Herstellerangabe in geeigneten Einbausituationen ohne bauliche Anpassungen montiert werden kann; die Eignung ist objekt- und systemabhängig zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Hersteller dieses Magazins führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver",
+    "ersatz": "Der Betreiber dieses Magazins (Lehner Lifttechnik) führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver"
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Ohne Freigabe wird nicht montiert. Das ist keine Frage der Kulanz, sondern der Haftung und des Eigentums.",
+    "ersatz": "Fehlt eine erforderliche Freigabe, sollte nicht montiert werden. Ob und in welchem Umfang eine Freigabe erforderlich ist, ist vorab im Einzelfall zu klären."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Der abgerufene Normtext nennt in Absatz 1 Satz 1 den Anspruch des Mieters auf Erlaubnis und in Satz 2 die Grenze der Unzumutbarkeit für den Vermieter. Eine zum Nachteil des Mieters abweichende Vereinbarung ist nach Absatz 2 unwirksam. Der abgerufene Text enthält keine Angabe zur zuletzt wirksamen Änderungsfassung; zitieren Sie ihn daher mit Abrufdatum und ohne Fassungsbehauptung.",
+    "ersatz": "§ 554 BGB enthält eine Regelung zu baulichen Veränderungen, die dem barrierefreien Wohnen dienen. Ob und in welchem Umfang eine Zustimmung erforderlich ist, ist Einzelfall und mit Vermieter oder Rechtsbeistand zu klären."
+   },
+   {
+    "zitat": "die dem Gebrauch durch Menschen mit Behinderungen dienen",
+    "ersatz": "die dem Gebrauch durch Menschen mit Mobilitätseinschränkungen dienen"
+   },
+   {
+    "zitat": "Der Hersteller dieses Magazins führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver, der nach Herstellerangabe ohne bauliche Anpassungen auskommt.",
+    "ersatz": "Der Betreiber dieses Magazins, Lehner Lifttechnik, führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver, der nach Herstellerangabe ohne bauliche Anpassungen auskommt."
+   },
+   {
+    "zitat": "Ohne Freigabe wird nicht montiert. Das ist keine Frage der Kulanz, sondern der Haftung und des Eigentums.",
+    "ersatz": "Ohne Freigabe sollte nicht montiert werden. Klären Sie offene Punkte vorab mit dem Auftraggeber und, falls nötig, mit Rechtsbeistand."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Highlights nennen Traglast bis zu 300 kg, technische Spezifikationen 225 kg (optional 300 kg). Konservativ 225 kg, optional 300 kg; beim Hersteller bestätigen.",
+   "Stratos NG/A: Highlights nennen Traglast bis 350 kg, technische Spezifikationen 225 kg (optional 350 kg). Konservativ 225 kg, optional 350 kg; beim Hersteller bestätigen.",
+   "Stratos NG/A: Text nennt Plattformgröße bis 900 x 1400 mm, technische Liste führt nur 700x750, 750x850, 800x900, 800x1000 mm. Beim Hersteller bestätigen.",
+   "Neo: Seite nennt EN 81-40 und an anderer Stelle EN 81-41 für das Fußbrett. Widersprüchliche Normangabe; beim Hersteller bestätigen.",
+   "Sigma: Technische Spezifikationen nennen Hubhöhe max. 8000 mm; FAQ beschränkt offenen Fahrkorb öffentlich auf 3 m, privat auf 4 m, geschlossen/Schachtlift bis 8 m. Konservativ offen 3–4 m, geschlossen bis 8 m; beim Hersteller bestätigen.",
+   "StepSaver: Aufstellungsort wird als innen und außen angegeben, zugleich heißt es, Aufstellung optional auch im Außenbereich. Unklar, ob außen Standard oder Option; beim Hersteller bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://recht.nulegal.eu/rechtsprechung/ag-charlottenburg/2023-05-19/220-c-54-22",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&amp;v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

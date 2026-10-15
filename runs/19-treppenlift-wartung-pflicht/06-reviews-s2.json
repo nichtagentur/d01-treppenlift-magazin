@@ -1,0 +1,118 @@
+{
+ "qa": {
+  "score": 74,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft. Eine juristische oder technische Fachprüfung ist damit nicht verbunden.",
+    "korrektur": "Für YMYL-Recht/Sicherheit ist eine qualifizierte Fachprüfung erforderlich. Entweder reale Fachprüfung mit Name und Qualifikation benennen oder den Artikel auf allgemeine, nicht verbindliche Hinweise beschränken und vor jeder rechtlichen Aussage auf Fachberatung verweisen."
+   },
+   {
+    "zitat": "Soweit die BetrSichV anwendbar ist, kann sie Instandhaltung, Prüfung und die Qualifikation der ausführenden Personen regeln.",
+    "korrektur": "Primärquelle (BetrSichV) verlinken und Abrufdatum ergänzen oder die Normnennung ohne konkreten Beleg entfernen."
+   },
+   {
+    "zitat": "Soweit die MPBetreibV anwendbar ist, kann sie Betreiberpflichten zur Instandhaltung und zu Kontrollen vorsehen.",
+    "korrektur": "Primärquelle (MPBetreibV) verlinken und Abrufdatum ergänzen oder den Satz als bloße Einzelfallprüfung ohne Normnennung formulieren."
+   },
+   {
+    "zitat": "Ob ein Treppenlift rechtlich als Medizinprodukt im Sinne der MDR gilt und welcher Risikoklasse er zugeordnet wird, ist in den vorliegenden Quellen nicht belegt.",
+    "korrektur": "MDR/Medizinprodukterecht nur mit Primärquelle nennen oder den Abschnitt streichen, da er ohne Quelle keine belastbare Einordnung liefert."
+   },
+   {
+    "zitat": "Für elektrische Arbeitsmittel sind die einschlägigen Arbeitsschutzregeln zu beachten. Konkrete Fundstellen klären Sie im Einzelfall mit einer fachkundigen Stelle.",
+    "korrektur": "Konkrete einschlägige Regelwerke mit Quelle nennen oder den Satz entfernen; keine Rechercheaufträge an den Leser ohne Fundstelle."
+   },
+   {
+    "zitat": "Bei Schäden durch unterlassene Wartung kann der Gewährleistungsanspruch ausgeschlossen oder gemindert sein.",
+    "korrektur": "Mit Quelle/Rechtsprechung belegen oder entschärfen: Ob und inwieweit eine unterlassene Wartung Gewährleistungsansprüche berührt, ist im Einzelfall rechtlich zu prüfen."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [
+   {
+    "zitat": "Konkrete Fristen sind aus den vorliegenden Quellen nicht ableitbar.",
+    "korrektur": "Das ist gegen die Quellenlage zu absolut: Nach den vorliegenden Quellen ist eine konkrete Frist belegt – § 12 MPBetreibV sieht sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre vor. Offen und im Einzelfall zu klären ist nur, ob die MPBetreibV Treppenlifte und den konkreten Betreiber erfasst. So formulieren: Regel und offene Anwendbarkeit getrennt nennen."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Bei Schäden durch unterlassene Wartung kann der Gewährleistungsanspruch ausgeschlossen oder gemindert sein.",
+    "korrektur": "entschärfen oder streichen: Für diese Rechtsfolge liegt im Dossier keine Quelle und keine Rechtsprechung vor (nur der allgemeine Garantie-/Werkvertragshinweis der Verbraucherzentrale). Zulässig wäre: 'Ob und welche Gewährleistungs- oder Haftungsfolgen eintreten, ist im Einzelfall rechtlich zu prüfen; die Garantievereinbarung sollte vor dem Kauf geprüft werden.' Gleiches gilt für die Wiederholung in der FAQ."
+   },
+   {
+    "zitat": "Rechtlich gilt für Lifte im Freien derselbe Rahmen wie für Innenanlagen.",
+    "korrektur": "entschärfen oder streichen: Eine Aussage zum rechtlichen Rahmen von im Freien montierten Treppenliften ist im Dossier nicht belegt. Zulässig wäre: 'Eine abweichende Regelung speziell für im Freien montierte Treppenlifte ist in den vorliegenden Quellen nicht belegt; die Einordnung ist im Einzelfall mit Hersteller oder Bauaufsicht zu klären.'"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Eine allgemeine gesetzliche Wartungspflicht für jeden Treppenlift in Deutschland gibt es nicht.",
+    "ersatz": "Nach den vorliegenden Quellen besteht keine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft. Örtliche oder einzelfallbezogene Betreiberpflichten bleiben zu prüfen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "<p class=\"meta\">Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min.</p>",
+    "ersatz": "<p class=\"meta\">Stand: Oktober 2026 · Redaktion Treppenlift-Magazin (Betreiber: Lehner Lifttechnik) · KI-gestützt erstellt und geprüft · Lesezeit ca. 8 Min.</p>"
+   },
+   {
+    "zitat": "Eine allgemeine gesetzliche Wartungspflicht für jeden Treppenlift in Deutschland gibt es nicht.",
+    "ersatz": "Eine allgemeine gesetzliche Wartungspflicht für jeden Treppenlift in Deutschland lässt sich aus den vorliegenden Quellen nicht ableiten."
+   },
+   {
+    "zitat": "<td>Privat, Eigennutzung</td><td>Herstellerunterlagen; BetrSichV greift in der Regel nicht, wenn ausschließlich privat ohne Beschäftigte genutzt; Einzelfall prüfen</td><td>Herstellervorgabe, freiwilliger Wartungsvertrag, Versicherungsbedingungen</td>",
+    "ersatz": "<td>Privat, Eigennutzung</td><td>Herstellerunterlagen; spricht viel dafür, dass die BetrSichV nicht greift, wenn ausschließlich privat ohne Beschäftigte genutzt; Einzelfall prüfen</td><td>Herstellervorgabe, freiwilliger Wartungsvertrag, Versicherungsbedingungen</td>"
+   },
+   {
+    "zitat": "Bei Schäden durch unterlassene Wartung kann der Gewährleistungsanspruch ausgeschlossen oder gemindert sein.",
+    "ersatz": "Bei Schäden durch unterlassene Wartung kann das im Einzelfall Folgen für Gewährleistung oder Garantie haben; das ist rechtlich zu prüfen."
+   },
+   {
+    "zitat": "Es gibt keine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft.",
+    "ersatz": "Eine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft, lässt sich aus den vorliegenden Quellen nicht ableiten."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: Widerspruch auf derselben Produktseite: Fußbrett nach EN 81-40 vs. EN 81-41. Bitte eindeutige Norm angeben.",
+   "Omega: Highlight „Traglast bis zu 300 kg“ vs. technische Spezifikation „225 kg (optional 300 kg)“. Konservativ 225 kg, Option 300 kg bestätigen.",
+   "Stratos NG/A: Highlight „Traglast bis 350 kg“ vs. technische Spezifikation „225 kg (optional 350 kg)“. Konservativ 225 kg, Option 350 kg bestätigen.",
+   "Stratos NG/A: „Plattformgrößen bis 900 × 1400 mm“ vs. technische Liste bis 800 × 1000 mm. Bestätigte Plattformgrößen angeben.",
+   "Sigma: „Lift bis 8 m“ vs. FAQ: offener Fahrkorb öffentlich bis 3 m, privat bis 4 m, geschlossen/Schachtlift bis 8 m. Konservativ offen 3/4 m, geschlossen 8 m bestätigen.",
+   "Wartung: Keine Produktseite nennt Wartungspflicht, Intervalle oder Unterscheidung privat/gewerblich/vermietet. Für belastbare Wartungskommunikation Herstellerangaben ergänzen.",
+   "Normen/Zertifizierungen: Delta, Omega, Alpha nennen „CE & TÜV zertifiziert nach den neusten Europäischen Richtlinien“; Stratos NG/A nennt EN 81-40:2020; Sigma nennt 2006/42/EC; Elevex, Liftboy 4, StepSaver nennen keine Norm. Bitte vereinheitlichen und belegen.",
+   "Omega: „schmalste Plattform am Markt“ ist ein unbelegter Superlativ. Belegen oder streichen.",
+   "Stratos NG/A: „stärkster Motor seiner Klasse“ ist ein unbelegter Superlativ. Belegen oder streichen.",
+   "Produktseiten verwenden mehrfach „Außenbereich“ für Treppen im Freien. Baurechtlich ist „Außenbereich“ ein Fachbegriff; bitte auf „im Freien“ umstellen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

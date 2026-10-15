@@ -1,0 +1,172 @@
+{
+ "qa": {
+  "score": 35,
+  "stop": [
+   "Stop-Kriterium 4: § 20 Abs. 3 WEG wird falsch zugeordnet; die Ladung von Elektrofahrzeugen ist in § 20 Abs. 2 WEG geregelt. Die Aussage stimmt nicht mit der Quelle überein.",
+   "Stop-Kriterium 4: Für § 40 Abs. 4 SGB XI fehlt die Primärquelle mit Abrufdatum in der Quellenliste."
+  ],
+  "fehler": [
+   {
+    "zitat": "Für die barrierefreie Gestattung auf Verlangen ist § 20 Abs. 2 WEG einschlägig; § 20 Abs. 3 WEG betrifft Ladeeinrichtungen für Elektrofahrzeuge.",
+    "korrektur": "§ 20 Abs. 2 WEG umfasst neben barrierefreier Nutzung und Altersanpassung auch die Ladung von Elektrofahrzeugen. Die Zuordnung zu § 20 Abs. 3 WEG ist falsch; Angabe anhand des Gesetzestextes korrigieren oder streichen."
+   },
+   {
+    "zitat": "Nach § 20 WEG können bauliche Veränderungen beschlossen oder einem Wohnungseigentümer gestattet werden. Für die barrierefreie Gestattung auf Verlangen ist § 20 Abs. 2 WEG einschlägig; § 20 Abs. 3 WEG betrifft Ladeeinrichtungen für Elektrofahrzeuge.",
+    "korrektur": "Gleicher Fehler wie oben; § 20 Abs. 3 WEG betrifft nicht die Ladeeinrichtungen. Absatzangabe prüfen und richtigstellen."
+   },
+   {
+    "zitat": "Die Pflegekasse kann im Rahmen des § 40 Abs. 4 SGB XI einen Zuschuss zur wohnumfeldverbessernden Maßnahme zahlen.",
+    "korrektur": "Primärquelle zu § 40 Abs. 4 SGB XI mit Abrufdatum in die Quellenliste aufnehmen. Die Einordnung als Kann-Leistung ist korrekt, aber unbelegt."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und redaktionell geprüft, Stand Oktober 2026.",
+    "korrektur": "Bei Recht/Förderung qualifizierte fachliche Prüfung durch benannte Person ergänzen oder rechtliche Passagen weiter reduzieren. Eine bloß redaktionelle Prüfung genügt für YMYL-Recht nicht."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [
+   {
+    "zitat": "Für die barrierefreie Gestattung auf Verlangen ist § 20 Abs. 2 WEG einschlägig; § 20 Abs. 3 WEG betrifft Ladeeinrichtungen für Elektrofahrzeuge.",
+    "korrektur": "Der zweite Halbsatz ist falsch. Nach dem abgerufenen WEG-Text betrifft § 20 Abs. 3 WEG die Gestattung einer baulichen Veränderung, wenn alle Wohnungseigentümer einverstanden sind, deren Rechte über das bei einem geordneten Zusammenleben unvermeidliche Maß hinaus beeinträchtigt werden. Ladeeinrichtungen für elektrische Fahrzeuge sind im Dossier nicht belegt – Aussage streichen. Für die barrierefreie Gestattung auf Verlangen ist nach der Bundesfachstelle Barrierefreiheit § 20 Abs. 2 Satz 1 Nr. 1 WEG einschlägig. Der Passus steht zweimal im Artikel (Abschnitt „Rollen im Projekt“ und Abschnitt „Hausverwaltung und Wohnungseigentümergemeinschaft“) und ist an beiden Stellen zu ändern."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Mögliche Vorgaben aus der Gebäudeversicherung oder aus Brandschutzanforderungen des Objekts.",
+    "korrektur": "entschärfen oder streichen – im Dossier findet sich weder zur Gebäudeversicherung (Punkt 6 der Liste „nicht belegbar“) noch zum Brandschutz eine Quelle. Passus ersatzlos streichen oder auf „Auflagen des Objekts sind im Einzelfall mit Vermieter oder Verwaltung zu klären“ reduzieren."
+   },
+   {
+    "zitat": "Er kann Auflagen machen, einen separaten Stromzähler verlangen oder den Rückbau bei Auszug regeln.",
+    "korrektur": "entschärfen oder streichen – Nebenpflichten wie gesonderter Stromzähler und Rückbau sind nur über eine sekundäre Urteilsreproduktion (AG Charlottenburg 220 C 54/22, Verifizierung über amtliche Quelle steht aus) belegt; der BGH belegt lediglich, dass ein Beseitigungsaufwand bei Mietende in der Treppenlift-Konstellation vorkommt. Formulierung auf „Auflagen sind im Einzelfall mit dem Vermieter zu klären“ umstellen."
+   },
+   {
+    "zitat": "Muss der Vermieter dem Einbau zustimmen?</strong> Häufig ja;",
+    "korrektur": "entschärfen oder streichen – für die Häufigkeitsaussage fehlt jede belastbare Quelle (betriebliche Quoten ausdrücklich nicht belegbar). Auf „Das ist Einzelfall und gehört zu Vermieter oder Rechtsbeistand“ verkürzen."
+   },
+   {
+    "zitat": "Für Arbeiten an der Elektroinstallation sollte ein dafür qualifiziertes Fachunternehmen beauftragt werden",
+    "korrektur": "entschärfen oder streichen – Qualifikations- bzw. Fachbetriebsanforderungen der Elektroinstallation (VDE/DIN) sind im Dossier nicht belegbar. Als unverbindliche Praxisempfehlung kennzeichnen oder streichen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Für die barrierefreie Gestattung auf Verlangen ist § 20 Abs. 2 WEG einschlägig; § 20 Abs. 3 WEG betrifft Ladeeinrichtungen für Elektrofahrzeuge.",
+    "ersatz": "§ 20 WEG regelt bauliche Veränderungen und Gestattungen; Einzelheiten und die einschlägigen Absätze sind im Einzelfall mit Verwaltung oder Rechtsbeistand zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Vermieter entscheidet nicht über die Technik, aber regelmäßig über den Eingriff.",
+    "ersatz": "Der Vermieter entscheidet in der Regel nicht über die Systemauswahl, kann aber Auflagen zu Befestigung, Anschluss und Rückbau machen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Eine mündliche Zusage trägt nicht bis zur Montage.",
+    "ersatz": "Eine mündliche Zusage ist im Streitfall schwer zu belegen. Verlangen Sie eine schriftliche Freigabe."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Mitterweg 4, 4722 Peuerbach, Österreich",
+    "ersatz": "Lehner Lifttechnik, Peuerbach, Österreich"
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "die genannten Normen BGB und WEG gelten für Deutschland.",
+    "ersatz": "die genannten Gesetze BGB und WEG gelten für Deutschland."
+   },
+   {
+    "zitat": "Eine mündliche Zusage trägt nicht bis zur Montage.",
+    "ersatz": "Eine mündliche Zusage sollte für die Montage nicht ausreichen; holen Sie eine schriftliche Freigabe ein."
+   },
+   {
+    "zitat": "Weicht die Montage ab, ist eine Nachfreigabe nötig.",
+    "ersatz": "Weicht die Montage ab, sollte eine Nachfreigabe eingeholt werden."
+   },
+   {
+    "zitat": "Vertragspartner ist in der Regel, wer den Auftrag im eigenen Namen oder als wirksam vertretende Person unterschreibt.",
+    "ersatz": "Klären Sie vor Auftragsannahme, wer Vertragspartner ist und ob eine Vollmacht vorliegt; lassen Sie sich das schriftlich bestätigen."
+   },
+   {
+    "zitat": "Vertragspartner ist in der Regel, wer den Auftrag im eigenen Namen oder als wirksam vertretende Person unterschreibt; das kann der Mieter, der Vermieter oder ein Angehöriger sein. Schriftlich festhalten.",
+    "ersatz": "Klären Sie, wer den Auftrag unterschreibt und ob eine Vollmacht vorliegt; das kann der Mieter, der Vermieter oder ein Angehöriger sein. Schriftlich festhalten."
+   },
+   {
+    "zitat": "Bei mobilen oder freistehenden Lösungen ist der Eingriff geringer.",
+    "ersatz": "Bei mobilen oder freistehenden Lösungen kann der Eingriff im Einzelfall geringer sein; das ist technisch zu prüfen."
+   },
+   {
+    "zitat": "Bei schwierigen Objekten ist eine mobile oder rückbaufreundliche Lösung eine Option.",
+    "ersatz": "Bei schwierigen Objekten ist eine mobile Lösung eine Option."
+   },
+   {
+    "zitat": "Der Betreiber dieses Magazins, Lehner Lifttechnik, führt dazu unter anderem den Sitzlift Alpha mit mehreren Befestigungsvarianten und den StepSaver, der nach Angabe des Betreibers dieses Magazins in geeigneten Einbausituationen ohne bauliche Anpassungen montiert werden kann; die Eignung ist objekt- und systemabhängig zu prüfen.",
+    "ersatz": "Zu den Produkten des Betreibers dieses Magazins gehören unter anderem der Sitzlift Alpha mit mehreren Befestigungsvarianten und der StepSaver. Nach Angabe des Betreibers kann der StepSaver in geeigneten Einbausituationen ohne bauliche Anpassungen montiert werden; Eignung, Stromanschluss und Befestigung sind objekt- und systemabhängig zu prüfen."
+   },
+   {
+    "zitat": "Der Betreiber dieses Magazins sitzt in Österreich",
+    "ersatz": "Der Betreiber dieses Magazins, Lehner Lifttechnik, hat seinen Sitz in Österreich."
+   },
+   {
+    "zitat": "Der Vermieter entscheidet nicht über die Technik, aber regelmäßig über den Eingriff.",
+    "ersatz": "Der Vermieter entscheidet in der Regel nicht über die Technik, aber regelmäßig über den Eingriff."
+   },
+   {
+    "zitat": "Häufig ja; Umfang und Grenzen sind Einzelfall und gehören zu Vermieter oder Rechtsbeistand, nicht in die Auskunft des Fachbetriebs.",
+    "ersatz": "Das ist Einzelfall; bei Eingriffen in Vermietereigentum ist eine Freigabe in der Regel erforderlich. Umfang und Grenzen gehören zu Vermieter oder Rechtsbeistand, nicht in die Auskunft des Fachbetriebs."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast in Highlights 'bis zu 300 kg', in technischen Spezifikationen '225 kg (optional 300 kg)'. Bitte Serienlast und Option bestätigen.",
+   "Stratos NG/A: Traglast in Highlights 'bis 350 kg', in Spezifikationen '225 kg (optional 350 kg)'. Bitte Serienlast und Option bestätigen.",
+   "Stratos NG/A: Plattformgröße '900 x 1400 mm' im Text, technische Liste nennt 700×750, 750×850, 800×900, 800×1000 mm. Bitte zulässige Plattformgrößen bestätigen.",
+   "Neo: Normangabe auf derselben Seite einmal EN 81-40, einmal EN 81-41. Bitte gültige Norm bestätigen.",
+   "Sigma: Hubhöhe max. 8000 mm in Spezifikationen, FAQ nennt offen 3 m öffentlich / 4 m privat und geschlossen/Schachtlift bis 8 m. Bitte Geltungsbereich bestätigen.",
+   "StepSaver: Aufstellungsort 'Innen und außen' vs. 'Aufstellung optional auch im Außenbereich möglich'. Bitte Standard und Option bestätigen.",
+   "StepSaver: 'Keine baulichen Anpassungen notwendig' bei gleichzeitiger Stromversorgung 110–230 V. Bitte präzisieren, ob ein Elektroanschluss oder sonstige bauliche Anpassung erforderlich sein kann.",
+   "Produktseiten verwenden 'Außenbereich' für Montage im Freien; im Magazin laut Briefing 'im Freien' verwenden. Bitte Sprache auf den Produktseiten prüfen und abstimmen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

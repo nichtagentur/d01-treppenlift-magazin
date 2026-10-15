@@ -1,0 +1,73 @@
+{
+ "h1": "Treppenlift einbauen mit Vermieter: Zustimmung, Auftraggeber, Dokumentation und Rückbau",
+ "slug": "treppenlift-einbauen-vermieter",
+ "kurzantwort_ziel": "Wird ein Treppenlift in einer Mietwohnung eingebaut, ist der Vermieter in der Regel ein eigener Projektbeteiligter: Er kann Genehmigungsgeber, Auftraggeber oder betroffene dritte Partei sein. Für Tischler und Schreiner bedeutet das: Rolle vorab klären, schriftliche Freigabe einholen, Befestigung, Elektroanschluss und Rückbau dokumentieren. Ob und in welchem Umfang der Vermieter zustimmen muss und wer die Kosten trägt, ist Einzelfall und beim Vermieter oder Rechtsbeistand zu klären – der Fachbetrieb berät zum Prozess, nicht zum Recht.",
+ "h2": [
+  "Warum der Vermieter im Treppenlift-Projekt ein eigener Projektbeteiligter ist",
+  "Rollen im Projekt: Vermieter, Mieter, Hausverwaltung, Fachbetrieb",
+  "Wann der Vermieter einbezogen werden muss – typische Konstellationen",
+  "Zustimmung des Vermieters: Was der Fachbetrieb sagen darf und was nicht",
+  "Schriftliche Freigabe: Inhalte, die in die Zustimmung gehören",
+  "Wer ist Auftraggeber? Angebot, Auftrag und Rechnung bei Vermieterbeteiligung",
+  "Kostentragung im Vermieterfall: Mieter, Vermieter, Pflegekasse und Förderung",
+  "Hausverwaltung und Wohnungseigentümergemeinschaft: wenn die Treppe Gemeinschaftseigentum ist",
+  "Montage im Mietobjekt: Befestigung, Elektroanschluss und Gebäudeversicherung",
+  "Dokumentation für die Akte: Freigabe, Fotos, Übergabe",
+  "Ablauf im Betrieb: von der Anfrage bis zur Montage mit Vermieterfreigabe",
+  "Fehlende oder verweigerte Zustimmung: Wie der Fachbetrieb reagiert",
+  "Auszug und Rückbau: was vor der Montage geklärt sein sollte",
+  "Typische Fehler vermeiden: Checkliste für das Erstgespräch",
+  "FAQ: Treppenlift einbauen und Vermieter"
+ ],
+ "faq": [
+  "Treppenlift einbauen Vermieter: Wann muss der Vermieter einbezogen werden? – Kern: in der Regel immer dann, wenn eine bauliche Veränderung, eine Befestigung an Vermietereigentum oder ein Eingriff in die Elektroinstallation im Spiel ist.",
+  "Treppenlift einbauen Vermieter: Muss der Vermieter dem Einbau zustimmen? – Kern: häufig ja; Umfang und Grenzen sind Einzelfall und gehören zum Vermieter oder Rechtsbeistand, nicht in die Auskunft des Fachbetriebs.",
+  "Treppenlift einbauen Vermieter: Wer ist Auftraggeber für den Tischler oder Schreiner? – Kern: Vertragspartner ist, wer Angebot und Auftrag unterschreibt; das kann der Mieter, der Vermieter oder ein Angehöriger sein – schriftlich festhalten.",
+  "Treppenlift einbauen Vermieter: Wie dokumentiert der Fachbetrieb die Freigabe? – Kern: schriftliche Zustimmung mit Datum, Unterschrift, Umfang, Auflagen, Ansprechpartner und Anlagen wie Skizze oder Fotos.",
+  "Treppenlift einbauen Vermieter: Wer trägt die Kosten? – Kern: Einzelfall und Verhandlungssache zwischen Mieter und Vermieter; Förderwege wie Pflegekasse oder Zuschüsse können den Eigenanteil beeinflussen.",
+  "Treppenlift einbauen Vermieter: Was gilt beim Auszug und Rückbau? – Kern: Rückbau, Wiederherstellung und Kostenübernahme möglichst vor der Montage schriftlich klären.",
+  "Treppenlift einbauen Vermieter: Wie geht der Fachbetrieb bei fehlender Zustimmung vor? – Kern: nicht montieren, Auftrag schriftlich zurückstellen, Mieter auf Klärung mit Vermieter oder Rechtsbeistand verweisen, Vorgang dokumentieren.",
+  "Treppenlift einbauen Vermieter: Welche Rolle spielt die Hausverwaltung? – Kern: Sie ist häufig erster Ansprechpartner für Freigaben, Auflagen und Termine; bei Gemeinschaftseigentum können weitere Beschlüsse nötig sein."
+ ],
+ "interne_links": [
+  {
+   "datei": "10-treppenlift-montage-vorschriften-wartung.html",
+   "anker": "Treppenlift montieren: Vorschriften und Wartung"
+  },
+  {
+   "datei": "09-treppenlift-treppenart-aufmass.html",
+   "anker": "Treppenart, Mindestbreite und Aufmaß vor dem Einbau"
+  },
+  {
+   "datei": "07-treppenlift-mieten.html",
+   "anker": "Treppenlift mieten statt kaufen"
+  },
+  {
+   "datei": "08-treppenlift-zuschuss-foerderung.html",
+   "anker": "Treppenlift-Zuschuss und Förderwege im Überblick"
+  },
+  {
+   "datei": "02-treppenlift-kosten.html",
+   "anker": "Treppenlift Kosten und Angebotskalkulation"
+  },
+  {
+   "datei": "01-treppenlift-leitfaden-tischler.html",
+   "anker": "Leitfaden für Tischler und Schreiner"
+  }
+ ],
+ "recherchefragen": [
+  "Wortlaut und Voraussetzungen von § 554 BGB (Duldung bzw. Zustimmung zu barrierereduzierenden baulichen Veränderungen) in der ab Oktober 2026 geltenden Fassung prüfen – nicht aus dem Gedächtnis zitieren.",
+  "Verhältnis von § 535 BGB (Gebrauchsgewährung, Instandhaltung) und § 554 BGB für den Treppenliftfall abgrenzen; zuständige Quelle: Gesetzestext, Verbraucherzentrale oder Mieterbund.",
+  "WEG-Recht: §§ 20 und 21 WEG nach der Reform 2020 – wann bauliche Veränderungen eines Beschlusses bedürfen und wie barrierereduzierende Maßnahmen behandelt werden; konkreten Normtext und Stand verifizieren.",
+  "Rückgabe- und Wegnahmerechte bei Mietende: §§ 546 und 552 BGB im Wortlaut prüfen und auf den Treppenliftfall übertragen, ohne eigene Rechtsauslegung.",
+  "§ 40 Abs. 4 SGB XI als Kann-Leistung zitieren – aktuellen Wortlaut und den derzeit geltenden Betrag zur wohnumfeldverbessernden Maßnahme über offizielle Quelle (GKV-Spitzenverband, Pflegekasse) belegen; keine Zahl ohne Beleg.",
+  "Prüfen, ob es öffentlich zugängliche Rechtsprechung zu Treppenliften in Mietwohnungen gibt – nur mit verifiziertem Aktenzeichen und Datum, sonst als Einzelfall entschärfen.",
+  "Ob ein Treppenlift im Mietrecht als bauliche Veränderung oder als Einrichtung gilt: herrschende Einordnung über Sekundärliteratur oder Verbraucherberatung belegen.",
+  "Musterklauseln in Mietverträgen zu baulichen Veränderungen, Rückbau und Schönheitsreparaturen recherchieren (Mieterbund, Verbraucherzentrale) und nur allgemein beschreiben.",
+  "Pflichten und Grenzen beim Eingriff in die Elektroinstallation im Mietobjekt klären: Arbeiten durch eingetragenes Fachunternehmen, Abstimmung mit Vermieter, relevante Normen und VDE-Regelwerk verifizieren.",
+  "Datenschutz bei Vermieterbeteiligung: Darf der Fachbetrieb Gesundheitsdaten wie Pflegegrad oder Diagnosen an Vermieter oder Hausverwaltung weitergeben? DSGVO-Einordnung über offizielle Quelle prüfen.",
+  "Versicherungsseite klären: Zuständigkeit von Gebäude- und Haftpflichtversicherung des Vermieters bei Montage und späterem Schaden an Treppe oder Wand – über Versichererverband oder Fachliteratur belegen.",
+  "Existierende Vorlagen oder Formulierungshilfen für eine Vermieterzustimmung zum Treppenlift recherchieren (Verbraucherzentrale, Mieterbund, Seniorenberatung) und als Hilfestellung, nicht als Rechtsberatung einordnen.",
+  "Betriebliche Praxis absichern: übliche Vorgehensweise von Treppenlift-Fachbetrieben bei Vermieterfreigabe über Herstellerunterlagen oder Fachverbände recherchieren; keine erfundenen Quoten oder Bearbeitungszeiten nennen."
+ ]
+}

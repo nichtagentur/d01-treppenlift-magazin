@@ -1,0 +1,33 @@
+{
+ "query": "treppenlift demontieren",
+ "autocomplete": [
+  "acorn treppenlift demontieren",
+  "handicare treppenlift demontieren",
+  "hiro treppenlift demontieren",
+  "lifta treppenlift demontieren",
+  "treppenlift demontieren",
+  "treppenlift demontieren anleitung",
+  "treppenlift schiene demontieren",
+  "treppenlift sitz demontieren",
+  "treppenlift stuhl demontieren"
+ ],
+ "intent": "Informations- und Ausführungsintention: Nutzer suchen praktische Hinweise zur Demontage eines Treppenlifts, teils markenspezifisch, teils zu Bauteilen wie Schiene, Sitz oder Stuhl. Für Tischler/Schreiner steht die sichere Deinstallation im Kundenauftrag, Vorbereitung für Wiederverwendung/Entsorgung und Abgrenzung zur Montage im Vordergrund.",
+ "winkel": "Demontage und Rückbau als eigene Leistung für Tischler- und Schreinerbetriebe: Bestandsaufnahme, Herstellerfreigabe und Herstelleranleitung beachten, elektrische Trennung durch qualifizierte Person, Befestigungspunkte und Treppenschutz, Bauteiltransport, Wiederverwendung oder Entsorgung, Dokumentation für den Kunden. Markenspezifische Angaben zu Acorn, Handicare, Hiro und Lifta nicht pauschalieren, sondern auf Herstellerunterlagen und Herstellerservice verweisen.",
+ "kannibalisierung": "Nächster bestehender Artikel ist 10-treppenlift-montage-vorschriften-wartung.html, weil dort Montage, Wartung und Selbsteinbau behandelt werden. Der neue Artikel muss sich strikt auf Demontage, Deinstallation und Rückbau beschränken, nicht Montage- oder Wartungsabläufe wiederholen. 03-treppenlift-gebraucht.html behandelt Wiederverwendung und wirtschaftliche Fragen; hier nur als Verweis auf zweiten Lebenszyklus, nicht als Gebrauchtkauf-Ratgeber. 11-treppenlift-aussentreppe-montage.html ist nur bei Liften im Freien als Querverweis relevant. 02-treppenlift-kosten.html nur für Kalkulationshinweise verlinken, keine eigenen Preis- oder Fördertabellen im Demontage-Artikel.",
+ "faq_fragen": [
+  "Was ist bei Acorn Treppenlift demontieren zu beachten?",
+  "Was ist bei Handicare Treppenlift demontieren zu beachten?",
+  "Was ist bei Hiro Treppenlift demontieren zu beachten?",
+  "Was ist bei Lifta Treppenlift demontieren zu beachten?",
+  "Treppenlift demontieren: Was ist für Tischler und Schreiner wichtig?",
+  "Gibt es eine Anleitung zum Treppenlift demontieren?",
+  "Wie wird eine Treppenlift-Schiene demontiert?",
+  "Wie werden Treppenlift-Sitz und Treppenlift-Stuhl demontiert?"
+ ],
+ "verwandte_artikel": [
+  "03-treppenlift-gebraucht.html",
+  "10-treppenlift-montage-vorschriften-wartung.html",
+  "11-treppenlift-aussentreppe-montage.html",
+  "02-treppenlift-kosten.html"
+ ]
+}

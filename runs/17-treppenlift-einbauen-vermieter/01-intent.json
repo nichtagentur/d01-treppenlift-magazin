@@ -1,0 +1,26 @@
+{
+ "query": "treppenlift einbauen vermieter",
+ "autocomplete": [
+  "treppenlift einbauen vermieter"
+ ],
+ "intent": "Informationssuche mit Rechts-, Genehmigungs- und Prozessbezug: Tischler und Schreiner wollen wissen, wie sie den Einbau eines Treppenlifts abwickeln, wenn ein Vermieter beteiligt ist. Teilweise transaktional, weil daraus ein Auftrag mit Vermieter als Drittem oder Genehmigungsgeber entstehen kann.",
+ "winkel": "Aus B2B-Sicht des Fachbetriebs: Der Vermieter wird als Genehmigungsgeber, Auftraggeber oder betroffene dritte Partei im Verkaufs- und Montageprozess behandelt. Der Artikel klärt Rollen, schriftliche Freigabe, Dokumentation, Rückbau und Kostentragung als Einzelfall. Keine Rechtsberatung, sondern praktische Prozess- und Dokumentationshilfe für Tischler und Schreiner. Rechtliche Fragen werden entschärft: 'in der Regel', 'kann', 'beim Vermieter oder Rechtsbeistand klären'.",
+ "kannibalisierung": "Nächster bestehender Artikel: 10-treppenlift-montage-vorschriften-wartung.html. Abgrenzung: Dort stehen Montage, Vorschriften, Wartung und Selbsteinbau im Vordergrund. Der neue Artikel fokussiert ausschließlich den Vermieterbezug bei Mietobjekten: Zustimmung, Auftraggeberrolle, Dokumentation, Rückbau und Kostentragung. 07-treppenlift-mieten.html behandelt die Miete eines Treppenlifts, nicht die Mietwohnung oder den Vermieter. 08-treppenlift-zuschuss-foerderung.html behandelt Förderung, nicht Genehmigung. 02-treppenlift-kosten.html behandelt Preise und Kalkulation; Kostenfragen zum Vermieter nur am Rande und ohne Preisliste. 09-treppenlift-treppenart-aufmass.html bleibt bei Treppenart, Mindestbreite und Aufmaß.",
+ "faq_fragen": [
+  "Treppenlift einbauen Vermieter: Wann muss der Vermieter einbezogen werden?",
+  "Treppenlift einbauen Vermieter: Muss der Vermieter dem Einbau zustimmen?",
+  "Treppenlift einbauen Vermieter: Wer ist Auftraggeber für den Tischler oder Schreiner?",
+  "Treppenlift einbauen Vermieter: Wie dokumentiert der Fachbetrieb die Freigabe?",
+  "Treppenlift einbauen Vermieter: Wer trägt die Kosten?",
+  "Treppenlift einbauen Vermieter: Was gilt beim Auszug und Rückbau?",
+  "Treppenlift einbauen Vermieter: Wie geht der Fachbetrieb bei fehlender Zustimmung vor?",
+  "Treppenlift einbauen Vermieter: Welche Rolle spielt die Hausverwaltung?"
+ ],
+ "verwandte_artikel": [
+  "10-treppenlift-montage-vorschriften-wartung.html",
+  "07-treppenlift-mieten.html",
+  "08-treppenlift-zuschuss-foerderung.html",
+  "02-treppenlift-kosten.html",
+  "09-treppenlift-treppenart-aufmass.html"
+ ]
+}

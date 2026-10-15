@@ -1,0 +1,63 @@
+{
+ "h1": "Treppenlift demontieren: Rückbau, Schiene und Sitz fachgerecht ausbauen",
+ "slug": "treppenlift-demontieren",
+ "kurzantwort_ziel": "Die Demontage eines Treppenlifts ist eine eigene Leistung, die Tischler und Schreiner nach Herstellerunterlagen und Herstellerfreigabe durchführen. Wichtig sind eine Bestandsaufnahme, die elektrische Trennung durch eine qualifizierte Person, der Schutz der Treppe, die dokumentierte Einlagerung oder Übergabe der Bauteile sowie eine klare Unterscheidung zu Montage und Wartung. Markenspezifische Angaben zu Acorn, Handicare, Hiro und Lifta gehören ausschließlich in die jeweiligen Herstellerunterlagen.",
+ "h2": [
+  "Wann Demontage und Rückbau für Tischler und Schreiner relevant werden",
+  "Bestandsaufnahme vor der Demontage: was vorab dokumentiert werden sollte",
+  "Rechtliche und herstellerspezifische Grundlagen: Freigabe, Anleitung, Herstellerservice",
+  "Elektrische Trennung: Aufgaben einer qualifizierten Person",
+  "Befestigungspunkte, Treppenschutz und Spuren an der Treppe",
+  "Treppenlift-Schiene demontieren: Reihenfolge und Handhabung",
+  "Treppenlift-Sitz und Treppenlift-Stuhl demontieren",
+  "Bauteile transportieren, lagern und dem Kunden übergeben",
+  "Wiederverwendung oder Entsorgung: zweiter Lebenszyklus statt Gebrauchtkauf-Beratung",
+  "Dokumentation für den Kunden: Übergabe, Fotoprotokoll, Hinweise zum Wiederaufbau",
+  "Markenspezifische Hinweise: Acorn, Handicare, Hiro, Lifta",
+  "Abgrenzung: Demontage ist nicht Montage und nicht Wartung",
+  "Kalkulation der Demontageleistung: Verweis statt eigener Preistabellen",
+  "Querverweise: Außenlift im Freien, gebrauchter Treppenlift, Kosten"
+ ],
+ "faq": [
+  "Was ist bei Acorn Treppenlift demontieren zu beachten?",
+  "Was ist bei Handicare Treppenlift demontieren zu beachten?",
+  "Was ist bei Hiro Treppenlift demontieren zu beachten?",
+  "Was ist bei Lifta Treppenlift demontieren zu beachten?",
+  "Treppenlift demontieren: Was ist für Tischler und Schreiner wichtig?",
+  "Gibt es eine Anleitung zum Treppenlift demontieren?",
+  "Wie wird eine Treppenlift-Schiene demontiert?",
+  "Wie werden Treppenlift-Sitz und Treppenlift-Stuhl demontiert?"
+ ],
+ "interne_links": [
+  {
+   "datei": "10-treppenlift-montage-vorschriften-wartung.html",
+   "anker": "Montage, Wartung und Selbsteinbau im Überblick"
+  },
+  {
+   "datei": "03-treppenlift-gebraucht.html",
+   "anker": "Wiederverwendung und zweiter Lebenszyklus"
+  },
+  {
+   "datei": "11-treppenlift-aussentreppe-montage.html",
+   "anker": "Rückbau von Liften an Außentreppen im Freien"
+  },
+  {
+   "datei": "02-treppenlift-kosten.html",
+   "anker": "Kalkulation von Montage- und Demontageleistungen"
+  }
+ ],
+ "recherchefragen": [
+  "Welche Herstellerunterlagen (Montage-, Demontage- oder Serviceanleitungen) sind für Acorn, Handicare, Hiro und Lifta öffentlich zugänglich und zitierfähig?",
+  "Wie beschreiben die genannten Hersteller formal die Voraussetzungen für eine Demontage durch Dritte (Freigabe, Fachbetrieb, Schulung)?",
+  "Welche einschlägigen Normen und Vorschriften sind für die elektrische Trennung ortsfester Treppenlifte in Deutschland übertragbar (z. B. DIN VDE 0100, DGUV Vorschrift 3, Betriebssicherheitsverordnung) und wie sind sie im Wortlaut zu zitieren?",
+  "Welche Vorgaben gelten für die Entsorgung von Batterien, Akkus, Elektronik und Metallbauteilen aus Treppenliften in Deutschland (ElektroG, BattG, kommunale Regelungen)?",
+  "Welche Anforderungen stellen Hersteller an die Einlagerung und Wiederverwendung ausgebauter Treppenlifte (Transportschutz, Steuerelektronik, Akkus)?",
+  "Wie dokumentieren Fachbetriebe die Demontage gegenüber dem Kunden üblicherweise (Übergabeprotokoll, Fotodokumentation) und gibt es hierzu verbandliche Muster (z. B. Innungen)?",
+  "Ist der Rückbau eines Treppenlifts bei Mietwohnungen oder denkmalgeschützten Treppen mit besonderen Zustimmungserfordernissen verbunden?",
+  "Enthalten die Wartungs- und Montagevorschriften der Hersteller Ausschlüsse, die eine Demontage durch Tischler ohne Herstellerschulung untersagen?",
+  "Welche Hinweise zur Freigabe gibt es speziell für Lifte im Freien (Witterung, Korrosion, elektrische Komponenten)?",
+  "Wie wird eine Treppenlift-Schiene üblicherweise am Treppenbauteil befestigt und welche Spuren bleiben nach dem Ausbau typischerweise zurück (Schraublöcher, Kleber, Unterleghölzer)?",
+  "Welche Rollen spielen Gewicht, Transportweg und Personaleinsatz beim Ausbau von Sitz, Stuhl und Schiene?",
+  "Welche Hersteller empfehlen die Rücksendung bzw. Rücknahme ausgebauter Bauteile und wie ist das verfahrensseitig geregelt?"
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "qa": {
+  "score": 85,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Eine qualifizierte juristische oder technische Fachprüfung ist damit nicht verbunden.",
+    "korrektur": "Für YMYL-Rechts- und Normaussagen eine benannte qualifizierte Fachprüfung ergänzen oder den Artikel auf eine reine, als solche gekennzeichnete Quellenzusammenfassung ohne eigene rechtliche Einordnung beschränken."
+   },
+   {
+    "zitat": "Stand: Oktober 2026",
+    "korrektur": "Sichtbaren nächsten Review-Termin, z. B. Nächste Prüfung: Oktober 2027, und Änderungslog/Korrekturhinweis ergänzen."
+   },
+   {
+    "zitat": "Medizinprodukte-Betreiberverordnung (MPBetreibV) – Volltext, abgerufen Oktober 2026",
+    "korrektur": "Fundstelle und Fassung der MPBetreibV verifizieren und die zitierten §§ 7 und 12 gegen die aktuelle amtliche Fassung abgleichen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Eine dokumentierte Wartung ist kein rechtlicher Freibrief, aber ein starkes Argument. Sie kann damit zur Haftungsabsicherung beitragen – unabhängig davon, ob eine gesetzliche Pflicht im konkreten Fall bestand.",
+    "korrektur": "entschärfen oder streichen: Im Dossier ist keine Aussage belegt, dass eine dokumentierte Wartung zur Haftungsabsicherung beiträgt. Besser: 'Eine dokumentierte Wartung kann im Einzelfall bei der Darlegung sorgfältigen Handelns helfen; eine rechtliche Bewertung ist nicht belegt.'"
+   },
+   {
+    "zitat": "Verpasste Termine oder unklare Leistungsbeschreibungen können für Ihren Betrieb Haftungsrisiken begründen.",
+    "korrektur": "entschärfen oder streichen: Haftungsfolgen bei verpassten Wartungsterminen sind im Dossier nicht belegt. Besser: 'Verpasste Termine oder unklare Leistungsbeschreibungen sind im Einzelfall rechtlich zu prüfen.'"
+   },
+   {
+    "zitat": "Ein kurzes Protokoll mit Datum, geprüften Punkten, Messwerten und Unterschrift reicht in der Regel aus.",
+    "korrektur": "entschärfen oder streichen: Für private Nutzer ist eine gesetzliche Aufzeichnungspflicht nicht belegt; der konkrete Mindestinhalt eines ausreichenden Protokolls ist im Dossier nicht belegt."
+   },
+   {
+    "zitat": "Trotzdem ist die Dokumentation sinnvoll – für den Kunden, für Ihre Gewährleistung und für etwaige Versicherungsfälle.",
+    "korrektur": "entschärfen oder streichen: Ein konkreter Nutzen für Gewährleistung oder Versicherung ist im Dossier nicht belegt. Besser: 'Eine Dokumentation kann im Einzelfall sinnvoll sein; ob und wie sie Gewährleistungs- oder Versicherungsfragen berührt, ist nicht belegt.'"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen bzw. durchführen zu lassen.",
+    "ersatz": "Soweit die MPBetreibV anwendbar ist und das Produkt zu den in Anlage 2 genannten Medizinprodukten gehört, sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik in der Regel mindestens alle zwei Jahre durchzuführen bzw. durchführen zu lassen. Die Anwendbarkeit ist im Einzelfall zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Die Aufzeichnung muss Art, Umfang und Ergebnis der Prüfung sowie Name und Unterschrift der befähigten Person enthalten.",
+    "ersatz": "Soweit die BetrSichV anwendbar ist, muss die Aufzeichnung mindestens Art, Umfang, Ergebnis und Datum der Prüfung sowie Name und Unterschrift der befähigten Person enthalten. Einzelfall prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach der BAuA sind für den Betrieb elektrischer Arbeitsmittel insbesondere TRBS 1111, TRBS 1201 und TRBS 1203 sowie DGUV Vorschrift 3 und VDE 0105-100 anzuwenden.",
+    "ersatz": "Nach Angaben der BAuA können für den Betrieb elektrischer Arbeitsmittel je nach Einzelfall insbesondere TRBS 1111, TRBS 1201, TRBS 1203, DGUV Vorschrift 3 und VDE 0105-100 heranzuziehen sein. Ob und in welchem Umfang sie anwendbar sind, ist einzelfallabhängig."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Nach § 7 Abs. 1 MPBetreibV hat der Betreiber Produkte instand zu halten oder instand halten zu lassen.",
+    "ersatz": "Nach § 7 Abs. 1 MPBetreibV hat der Betreiber Medizinprodukte instand zu halten oder instand halten zu lassen, soweit die Verordnung anwendbar ist."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Nach der BAuA sind für den Betrieb elektrischer Arbeitsmittel insbesondere TRBS 1111, TRBS 1201 und TRBS 1203 sowie DGUV Vorschrift 3 und VDE 0105-100 anzuwenden.",
+    "ersatz": "Die BAuA nennt für den Betrieb elektrischer Arbeitsmittel unter anderem TRBS 1111, TRBS 1201 und TRBS 1203 sowie DGUV Vorschrift 3 und VDE 0105-100 als relevante Regelwerke."
+   },
+   {
+    "zitat": "Solche Lifte sind wartungsintensiver als Innenanlagen, unabhängig davon, ob eine gesetzliche Pflicht besteht.",
+    "ersatz": "Solche Lifte sind in der Regel wartungsintensiver als Innenanlagen, unabhängig davon, ob eine gesetzliche Pflicht besteht."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: EN 81-40 und EN 81-41 widersprechen sich auf derselben Seite. Bitte eindeutige Norm je Modell bestätigen.",
+   "Omega: Highlight 'Traglast bis zu 300 kg' vs. technische Spezifikation '225 kg (optional 300 kg)'. Bitte einheitlich ausweisen.",
+   "Stratos NG/A: Highlight 'Traglast bis 350 kg' vs. technische Spezifikation '225 kg (optional 350 kg)'. Bitte einheitlich ausweisen.",
+   "Stratos NG/A: 'Plattformgrößen bis 900 × 1400 mm' vs. technische Liste bis 800 × 1000 mm. Bitte bestätigen, ob 900 × 1400 mm eine Option ist.",
+   "Sigma: 'bis 8 m' gilt laut FAQ nur für geschlossene Kabine/Schachtlift; offener Fahrkorb öffentlich bis 3 m, privat bis 4 m. Bitte in Headlines präzisieren.",
+   "Delta/Omega/Alpha: 'CE & TÜV zertifiziert nach den neusten Europäischen Richtlinien' ist unpräzise. Bitte konkrete Norm und Prüfstelle nennen.",
+   "Elevex, Liftboy 4, StepSaver: keine Normen genannt. Bitte ergänzen, falls vorhanden.",
+   "Wartung: Auf den Produktseiten fehlen Wartungsintervalle und Aussagen zur Wartungspflicht. Bitte klare Angaben für privat/gewerblich/vermietet ergänzen oder bestätigen, dass keine Herstellervorgabe besteht.",
+   "Außenbereich: In Produkttexten für Treppen im Freien den Fachbegriff 'Außenbereich' vermeiden und 'im Freien' verwenden.",
+   "Superlative: 'schmalste Plattform am Markt' (Omega), 'stärkster Motor seiner Klasse' (Stratos NG/A) bitte belegen oder entfernen.",
+   "Neo ist 'Coming soon'; nicht als lieferbar darstellen.",
+   "Partnerprofil nennt Tischler/Schreiner nicht. Magazin darf keine Partnerschaftszusage von Lehner an Tischler/Schreiner behaupten."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv%5F2025/__12.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv_2025/",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

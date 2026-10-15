@@ -1,0 +1,177 @@
+{
+ "qa": {
+  "score": 45,
+  "stop": [
+   "Stop-Kriterium 4: Norm-/Rechtsangaben stimmen nicht mit Primärquelle überein. § 20 Abs. 1 WEG wird mit 'einfacher Stimmenmehrheit' falsch wiedergegeben; erforderlich ist die qualifizierte Mehrheit von mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile, soweit keine andere Mehrheit vereinbart ist.",
+   "Stop-Kriterium 4: Sicherheitsrelevante Normabweichung bei MVV TB 2025/1 A 4.2-1. Die Mindestlaufbreite von 100 cm darf durch die Führungskonstruktion nach Norm nicht unterschritten werden; das einschränkende 'wesentlich' ist nicht belegt und entschärft eine Sicherheitsanforderung.",
+   "Stop-Kriterium 4: Mehrere Normzitate sind falsch oder ungenau (§ 20 Abs. 2 Satz 1 Nr. 1 WEG existiert so nicht; Kostentragung bei gestatteter baulicher Veränderung steht in § 21 Abs. 2 WEG, nicht § 21 Abs. 1 WEG)."
+  ],
+  "fehler": [
+   {
+    "zitat": "können nach § 20 Abs. 1 WEG mit einfacher Stimmenmehrheit beschlossen oder einem Wohnungseigentümer durch Beschluss gestattet werden",
+    "korrektur": "Nach § 20 Abs. 1 WEG bedarf der Beschluss über eine bauliche Veränderung einer Mehrheit von mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile, soweit keine andere Mehrheit vereinbart ist. 'Einfache Stimmenmehrheit' ist falsch und muss korrigiert oder gestrichen werden."
+   },
+   {
+    "zitat": "Die Mindestlaufbreite von 100 cm darf durch die Führungskonstruktion nicht wesentlich unterschritten werden.",
+    "korrektur": "Nach MVV TB 2025/1 A 4.2-1 darf die Mindestlaufbreite von 100 cm durch die Führungskonstruktion nicht unterschritten werden. Das Wort 'wesentlich' ist zu streichen und die exakte Normfassung zu zitieren."
+   },
+   {
+    "zitat": "Nach § 20 Abs. 2 Satz 1 Nr. 1 WEG kann ein Wohnungseigentümer angemessene bauliche Veränderungen verlangen",
+    "korrektur": "Die einschlägige Norm ist § 20 Abs. 2 Satz 1 WEG; dort gibt es keine Nr. 1. Das Zitat ist an den Gesetzestext anzupassen."
+   },
+   {
+    "zitat": "hat nach § 21 Abs. 1 WEG dieser Wohnungseigentümer zu tragen; nur ihm gebühren die Nutzungen",
+    "korrektur": "Die Kostentragung bei gestatteter oder auf Verlangen nach § 20 Abs. 2 WEG durchgeführter baulicher Veränderung regelt § 21 Abs. 2 WEG, nicht § 21 Abs. 1 WEG. 'Nur ihm gebühren die Nutzungen' ist ohne Fundstelle nicht belegt und sollte gestrichen oder mit Primärquelle belegt werden."
+   },
+   {
+    "zitat": "Dass Handlauf und Restlaufbreite in der Praxis auch gerichtlich geprüft werden, zeigt etwa ein Verfahren vor dem Landgericht München II (Beschluss vom 12.03.2025 – 36 S 12455/24 WEG)",
+    "korrektur": "Die Entscheidung wird nur über nulegal.eu als Sekundärquelle belegt. Für die QRG-Primärquellenpflicht amtliche Gerichtsquelle zitieren oder den Fall weglassen."
+   },
+   {
+    "zitat": "bei den Plattformtreppenliften Delta und Omega gibt der Hersteller beispielsweise eine Lautstärke von unter 60 dB an",
+    "korrektur": "Die Herstellerangabe ist mit konkretem Produktdatenblatt, Quelle und Abrufdatum zu belegen oder als unbelegte Zahl zu streichen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und nationale Normen zum Einbau im gemeinsamen Treppenhaus – weichen vom deutschen Recht ab und lassen sich nicht auf deutsche Projekte übertragen.",
+    "korrektur": "entschärfen oder streichen: Im Dossier findet sich keine belegte Quelle zu österreichischen Normen und wohnrechtlichen Bestimmungen. Besser rein offen formulieren, z. B.: \"Für Projekte in Österreich gelten eigene Vorschriften; diese sind im Einzelfall nach dem dort geltenden Recht zu klären.\" Keine Aussage über die Abweichung vom deutschen Recht als Tatsache."
+   },
+   {
+    "zitat": "In Nordrhein-Westfalen richten sich die bauordnungsrechtlichen Anforderungen nach der Landesbauordnung NRW und den dort eingeführten Technischen Baubestimmungen.",
+    "korrektur": "entschärfen oder streichen: Die Landesbauordnung NRW ist im Dossier unter \"nicht belegbar\" geführt (keine Fundstelle, kein Fassungsstand). Formulierung auf das allgemein Gesicherte reduzieren, z. B.: \"In Nordrhein-Westfalen gelten die bauordnungsrechtlichen Vorgaben des Landes; die im Bestand maßgeblichen Anforderungen sind im Einzelfall bei der örtlichen Bauaufsicht zu klären.\" Keine Aussage über konkrete Landesnormen ohne Beleg."
+   },
+   {
+    "zitat": "Für kurvige Anlagen über mehrere Geschosse im Mehrfamilienhaus fällt der Preis entsprechend höher aus und wird nach Aufmaß kalkuliert.",
+    "korrektur": "entschärfen: Das Dossier liefert keine belastbaren Kostenbänder (Punkt 15 \"nicht belegbar\"); belegt sind nur Kostenfaktoren. Besser: \"Anzahl Kurven und Stockwerke zählen zu den genannten Kostenfaktoren; der Preis wird nach Aufmaß kalkuliert.\" Ohne belegte Quelle keine Aussage über die Höhe des Preisaufschlags."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Der Einbau eines Treppenlifts ist keine Instandhaltung, sondern eine bauliche Veränderung gemäß § 20 Abs. 1 WEG.",
+    "ersatz": "Der Einbau eines Treppenlifts ist in der Regel als bauliche Veränderung nach § 20 Abs. 1 WEG einzuordnen; ob im Einzelfall etwas anderes gilt, klären Sie mit Verwaltung/WEG und Rechtsberatung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Maßnahmen, die über die ordnungsmäßige Erhaltung des gemeinschaftlichen Eigentums hinausgehen (bauliche Veränderungen), können nach § 20 Abs. 1 WEG mit einfacher Stimmenmehrheit beschlossen oder einem Wohnungseigentümer durch Beschluss gestattet werden.",
+    "ersatz": "Bauliche Veränderungen kann die WEG nach § 20 Abs. 1 WEG beschließen; die Gestattung an einen einzelnen Eigentümer richtet sich nach § 20 Abs. 2 oder Abs. 3 WEG. Die Einzelheiten sind mit Rechtsberatung zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Eine Kostenverteilung auf alle Eigentümer nach Anteilen greift nach § 21 Abs. 2 WEG nur, wenn die Maßnahme mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde (sofern keine unverhältnismäßigen Kosten entstehen) oder wenn sich die Kosten innerhalb eines angemessenen Zeitraums amortisieren.",
+    "ersatz": "Nach § 21 Abs. 2 WEG sind Kosten in bestimmten Fällen von allen Eigentümern nach Anteilen zu tragen: bei Beschluss mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile oder bei Maßnahmen, die sich innerhalb eines angemessenen Zeitraums amortisieren und mit der erforderlichen Mehrheit beschlossen wurden. Einzelheiten mit Verwaltung/Rechtsberatung klären."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Nach MVV TB 2025/1 darf bei einer notwendigen Treppe im bestehenden Gebäude mit 100 cm Mindestlaufbreite (nach DIN 18065:2020-08) durch einen nachträglichen zweiten Handlauf die nutzbare Mindestlaufbreite um höchstens 10 cm unterschritten werden.",
+    "ersatz": "Nach den am Standort eingeführten Technischen Baubestimmungen kann bei einer notwendigen Treppe im Bestand mit 100 cm Mindestlaufbreite durch einen nachträglichen zweiten Handlauf eine Unterschreitung um bis zu 10 cm vorgesehen sein; maßgeblich ist die örtliche Bauaufsicht."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "bei den Plattformtreppenliften Delta und Omega gibt der Hersteller beispielsweise eine Lautstärke von unter 60 dB an.",
+    "ersatz": "bei den Plattformtreppenliften Delta und Omega gibt der Hersteller laut Herstellerangaben einen Schallpegel an; Messbedingungen und Bezugspunkt sind beim Hersteller zu erfragen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Omega (für gerade und gewendelte Treppen, ab 950 mm Treppenbreite, auch für den öffentlichen Bereich genannt)",
+    "ersatz": "Omega (für gerade und gewendelte Treppen, ab 950 mm Treppenbreite; Eignung für öffentliche Bereiche beim Hersteller erfragen)"
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Eine Kostenverteilung auf alle Eigentümer nach Anteilen greift nach § 21 Abs. 2 WEG nur, wenn die Maßnahme mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde (sofern keine unverhältnismäßigen Kosten entstehen) oder wenn sich die Kosten innerhalb eines angemessenen Zeitraums amortisieren.",
+    "ersatz": "Eine Kostenverteilung auf alle Eigentümer nach Anteilen greift nach § 21 Abs. 2 WEG nur, wenn die Maßnahme mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde und keine unverhältnismäßigen Kosten entstehen. Eine Amortisationsklausel enthält die aktuelle Fassung nicht; klären Sie die Kostenverteilung im Einzelfall mit Rechtsberatung."
+   },
+   {
+    "zitat": "dem Gebrauch durch Menschen mit Behinderungen (Barrierereduzierung) dienen",
+    "ersatz": "dem Gebrauch durch Menschen mit Mobilitätseinschränkungen dienen (im Gesetz: Menschen mit Behinderungen)"
+   },
+   {
+    "zitat": "arbeitet mit 24 V DC über Batterie (Ladeanschluss 1 × 230 V)",
+    "ersatz": "arbeitet mit 24 V DC über Batterie; die Stromversorgung erfolgt laut Herstellerangaben über 1 × 230 V / 50–60 Hz (beim Hersteller bestätigen, ob dies ein Ladeanschluss ist)"
+   }
+  ],
+  "an_lehner_melden": [
+   "Stratos NG/A: In den Produktfakten widersprüchliche Plattformgröße (Highlight bis 900 × 1400 mm vs. technische Spezifikation 700 × 750, 750 × 850, 800 × 900, 800 × 1000 mm). Bitte konservativen Wert und Freigabe bestätigen.",
+   "Neo: Widersprüchliche Normangabe auf der Produktseite (EN 81-40 vs. EN 81-41). Bitte eindeutige Norm bestätigen; bis dahin nicht als Artikelangabe verwenden.",
+   "Omega und Stratos NG/A: Traglast in Highlight als „bis zu“ (300 kg bzw. 350 kg), in technischer Spezifikation als „225 kg (optional …)“. Bitte Darstellung vereinheitlichen und optionalen Wert bestätigen.",
+   "Alpha: Artikel nennt „Ladeanschluss 1 × 230 V“. Produktseite nennt nur Stromversorgung 1 × 230 V / 50–60 Hz. Bitte bestätigen, ob es sich um einen Ladeanschluss handelt.",
+   "Delta, Omega, Stratos NG/A: Einstiegspreis ab ca. € 9.000,– inkl. Lieferung und Einbau für einfache gerade Treppe. Bitte aktuellen Preisstand und Gültigkeit bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://izw.baw.de/publikationen/tr-w/0/A4.2-1_MVV-TB.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://recht.nulegal.eu/rechtsprechung/lg-muenchen-ii/2025-03-12/36-s-12455-24-weg",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppenlift-HI8762840.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppetreppenhaus-HI637237.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

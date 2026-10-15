@@ -1,0 +1,162 @@
+{
+ "qa": {
+  "score": 82,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Eine qualifizierte rechtliche Prüfung hat nicht stattgefunden.",
+    "korrektur": "Für Recht/Förderung als YMYL-Thema ist eine reale, benannte Fachprüfung nötig oder die rechtlichen Aussagen sind auf prozessuale Hinweise zu beschränken und konsequent an Rechtsbeistand zu verweisen."
+   },
+   {
+    "zitat": "Impressum und Kontakt: Die Angaben des Betreibers sind über die Website von Lehner Lifttechnik erreichbar.",
+    "korrektur": "Direkte Links zu Impressum, Kontakt, Datenschutz und Über-uns setzen oder E-Mail, Telefon und Anschrift im Footer/Artikel nennen."
+   },
+   {
+    "zitat": "AG Charlottenburg, Urteil vom 19.05.2023 – 220 C 54/22 (Sekundärquelle)",
+    "korrektur": "Sekundärquelle entfernen oder durch Primärquelle/gerichtliche Fundstelle ersetzen; nur ergänzend nutzen, wenn Primärquelle nicht verfügbar."
+   },
+   {
+    "zitat": "Gehen Sie mit gesundheitsbezogenen Angaben zurückhaltend um und klären Sie, welche Angaben für die Freigabe tatsächlich erforderlich sind.",
+    "korrektur": "Satz streichen oder in einen Gesundheits-/Pflegekontext verschieben; im Montageabschnitt ist er ohne Bezug und füllt."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [
+   {
+    "zitat": "BGH, Urteil vom 24.09.2024 – VIII ZR 234/23",
+    "korrektur": "Das Verfahren VIII ZR 234/23 betrifft eine Nichtzulassungsbeschwerde der Vermieter; die Entscheidung des BGH vom 24.09.2024 ist daher ein Beschluss, kein Urteil. Korrekt zitieren als: BGH, Beschluss vom 24.09.2024 – VIII ZR 234/23 (ECLI:DE:BGH:2024:240924BVIIIZR234.23.0)."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "§ 40 Abs. 4 SGB XI – Pflegekasse, Kann-Leistung, abgerufen Oktober 2026",
+    "korrektur": "entschärfen oder streichen: Der amtliche Wortlaut des § 40 Abs. 4 SGB XI lag im Recherchegang nicht vor; der Quelleneintrag mit URL und Abrufdatum ist damit nicht belegt. Die Kann-Leistung ohne Abruf-/Versionsangabe und ohne URL als gesetzliche Regelung nennen oder den Quelleneintrag streichen."
+   },
+   {
+    "zitat": "AG Charlottenburg, Urteil vom 19.05.2023 – 220 C 54/22 (Sekundärquelle)",
+    "korrektur": "entschärfen: Die Entscheidung liegt nur über eine Urteilsdatenbank vor, und die Entscheidungsform ist im Dossier widersprüchlich (Urteil/Beschluss). Bis zur Prüfung über eine amtliche oder freie Justizquelle neutral formulieren: „Entscheidung des AG Charlottenburg vom 19.05.2023 – 220 C 54/22 (nur sekundär belegt)“."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Sie dürfen den Ablauf beschreiben und einen Entwurf der Freigabe als Anlage mitliefern.",
+    "ersatz": "Sie können den Ablauf beschreiben und eine technische Checkliste als Anlage mitliefern; die rechtliche Formulierung der Freigabe überlassen Sie dem Vermieter, der Verwaltung oder einem Rechtsbeistand."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Verweisen Sie für die rechtliche Bewertung auf Vermieter, Hausverwaltung, Mieterverein oder Rechtsbeistand.",
+    "ersatz": "Verweisen Sie für die rechtliche Bewertung auf Rechtsbeistand oder Mieterverein; tatsächliche Auflagen klären Sie mit Vermieter oder Hausverwaltung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Rechtsfragen klären Sie ausschließlich mit Rechtsbeistand oder Vermieter.",
+    "ersatz": "Rechtsfragen klären Sie mit einem Rechtsbeistand; technische und vertragliche Fragen mit Vermieter oder Verwaltung."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Der Vermieter entscheidet in der Regel nicht über die Systemauswahl, kann aber Auflagen zu Befestigung, Anschluss und Rückbau machen.",
+    "ersatz": "Der Vermieter entscheidet nicht über die Systemauswahl im Detail, kann aber Auflagen zu Befestigung, Anschluss und Rückbau machen, die die Auswahl beeinflussen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin; Betreiber: Lehner Lifttechnik (KI-gestützt erstellt, automatisch geprüft; keine qualifizierte rechtliche Prüfung)."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min.",
+    "ersatz": "Stand: Oktober 2026 · Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min."
+   },
+   {
+    "zitat": "Der Vermieter entscheidet in der Regel nicht über die Systemauswahl, kann aber Auflagen zu Befestigung, Anschluss und Rückbau machen.",
+    "ersatz": "Ob der Vermieter über die Systemauswahl mitentscheidet, ist Einzelfall und mit Vermieter oder Rechtsbeistand zu klären. Auflagen zu Befestigung, Anschluss und Rückbau kann er machen."
+   },
+   {
+    "zitat": "bei Eingriffen in Vermietereigentum ist eine Freigabe in der Regel erforderlich.",
+    "ersatz": "bei Eingriffen in Vermietereigentum kann eine Freigabe erforderlich sein; Umfang und Grenzen klären Vermieter oder Rechtsbeistand."
+   },
+   {
+    "zitat": "BGH, Urteil vom 24.09.2024 – VIII ZR 234/23",
+    "ersatz": "Rechtsprechung nur im Einzelfall mit Rechtsbeistand prüfen; konkrete Entscheidungen nicht als allgemeine Regel zitieren."
+   },
+   {
+    "zitat": "AG Charlottenburg, Urteil vom 19.05.2023 – 220 C 54/22 (Sekundärquelle)",
+    "ersatz": "Rechtsprechung nur im Einzelfall mit Rechtsbeistand prüfen; konkrete Entscheidungen nicht als allgemeine Regel zitieren."
+   },
+   {
+    "zitat": "BGH-Pressemitteilung 2024 zu baulichen Veränderungen im WEG",
+    "ersatz": "Rechtsprechung nur im Einzelfall mit Rechtsbeistand prüfen; konkrete Entscheidungen nicht als allgemeine Regel zitieren."
+   }
+  ],
+  "an_lehner_melden": []
+ },
+ "links": [
+  {
+   "url": "https://recht.nulegal.eu/rechtsprechung/ag-charlottenburg/2023-05-19/220-c-54-22",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/sgb_11/__40.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

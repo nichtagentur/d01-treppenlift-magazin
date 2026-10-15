@@ -1,0 +1,169 @@
+{
+ "qa": {
+  "score": 72,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Eine qualifizierte rechtliche Prüfung hat nicht stattgefunden.",
+    "korrektur": "Für rechtliche YMYL-Aussagen eine qualifizierte Fachprüfung durch eine reale, benannte Person vorsehen oder den Artikel auf Prozesshinweise ohne rechtliche Bewertung begrenzen; Rechtsfragen ausschließlich an Rechtsbeistand verweisen."
+   },
+   {
+    "zitat": "§ 554 BGB – Bauliche Veränderungen",
+    "korrektur": "§ 554 BGB – Barrierefreie Umbaumaßnahmen; Quellenbezeichnung an den tatsächlichen Normtitel anpassen."
+   },
+   {
+    "zitat": "<a href=\"https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html\">§ 21 WEG – Kostenfolgen</a>",
+    "korrektur": "Direkt auf § 21 WEG verlinken, z. B. https://www.gesetze-im-internet.de/woeigg/__21.html, statt auf das gesamte WEG."
+   },
+   {
+    "zitat": "AG Charlottenburg, Urteil vom 19.05.2023 – 220 C 54/22 (Sekundärquelle)",
+    "korrektur": "Primärquelle verwenden oder die Einzelfallrechtsprechung aus der Quellenliste entfernen; Sekundärquelle nicht als allgemeinen Beleg führen."
+   },
+   {
+    "zitat": "Impressum und Kontakt: Die Angaben des Betreibers sind über die Website von Lehner Lifttechnik erreichbar.",
+    "korrektur": "Direkte Links zu Impressum, Datenschutz und Kontakt mit E-Mail, Telefon und Anschrift im Footer/Artikel ergänzen."
+   },
+   {
+    "zitat": "gehören in die Zustigkeit von Vermieter oder Rechtsbeistand",
+    "korrektur": "Schreibfehler korrigieren: \"Zuständigkeit\"."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "In Mehrparteienhäusern ist die Hausverwaltung meist der erste Ansprechpartner für Freigaben, Auflagen und Termine.",
+    "korrektur": "entschärfen oder streichen – im Dossier ist keine Quelle dazu belegt, dass die Hausverwaltung Freigaben erteilt. Sachlich zulässig wäre: \"Die Hausverwaltung ist häufig erster Ansprechpartner für Formulare, Auflagen und Terminfenster; die Freigabe erteilt die verfügungsberechtigte Person bzw. im WEG-Fall die Eigentümergemeinschaft.\" Die Formulierung ist im Beitrag dreifach enthalten (Textabschnitt \"Hausverwaltung und WEG\", Tabellenzeile \"Hausverwaltung\", FAQ-Antwort \"Welche Rolle spielt die Hausverwaltung?\") und dort jeweils anzupassen."
+   },
+   {
+    "zitat": "Der Vermieter entscheidet in der Regel nicht über die Systemauswahl, kann aber Auflagen zu Befestigung, Anschluss und Rückbau machen.",
+    "korrektur": "entschärfen oder streichen – zur betrieblichen Praxis und zur Rolle des Vermieters bei der Systemauswahl liegt im Dossier kein Beleg vor (Punkt 10 der Liste \"nicht belegbar\"). Zulässig wäre eine reine Handlungsempfehlung: \"Klären Sie die Systemauswahl mit dem Auftraggeber und stimmen Sie Befestigung, Anschluss und einen etwaigen Rückbau mit dem Vermieter ab.\""
+   },
+   {
+    "zitat": "§ 554 BGB – Bauliche Veränderungen (Quellenliste, Eintrag 1)",
+    "korrektur": "entschärfen oder streichen – im Dossier ist kein Normtitel zu § 554 BGB belegt; der abgerufene Text enthält keine Überschrift. Entweder nur \"§ 554 BGB\" ohne Titelzusatz zitieren oder ausdrücklich als Umschreibung kennzeichnen; die amtliche Überschrift vor Veröffentlichung gesondert prüfen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Sie dürfen den Ablauf beschreiben und einen Entwurf der Freigabe als Anlage mitliefern.",
+    "ersatz": "Sie können eine sachliche Aufstellung der technischen Maßnahmen und benötigten Unterlagen beifügen; die rechtliche Formulierung der Freigabe sollten Vermieter oder Rechtsbeistand übernehmen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Verweisen Sie für die rechtliche Bewertung auf Vermieter, Hausverwaltung, Mieterverein oder Rechtsbeistand.",
+    "ersatz": "Verweisen Sie für die rechtliche Bewertung auf Rechtsbeistand oder Mieterverein; technische und tatsächliche Freigabefragen klären Sie mit Vermieter oder Verwaltung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Das ist Einzelfall; bei Eingriffen in Vermietereigentum ist eine Freigabe in der Regel erforderlich.",
+    "ersatz": "Ob eine Freigabe erforderlich ist, hängt vom Einzelfall und den Umständen des Eingriffs ab; klären Sie das vorab mit Vermieter oder Rechtsbeistand."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Für Mietwohnungen sind die mietrechtlichen Regelungen zu baulichen Veränderungen und barrierefreiem Wohnen in § 554 BGB (abgerufen am 15.10.2026) geregelt.",
+    "ersatz": "Für Mietwohnungen können insbesondere § 554 BGB und weitere mietrechtliche Regelungen einschlägig sein; die Einzelheiten sind im Einzelfall zu klären."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Bei Wohnungseigentum sind § 20 WEG und § 21 WEG einschlägig.",
+    "ersatz": "Bei Wohnungseigentum können § 20 WEG und § 21 WEG einschlägig sein; die Einzelheiten sind im Einzelfall zu klären."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Nach Angabe des Betreibers kann der StepSaver bei geringen Höhenunterschieden bis 500 mm ohne bauliche Anpassungen installiert werden; Eignung, Stromanschluss und Aufstellung sind objekt- und systemabhängig zu prüfen.",
+    "ersatz": "Nach Angabe des Betreibers kann der StepSaver in bestimmten Einbausituationen ohne bauliche Anpassungen installiert werden; ob und unter welchen Voraussetzungen, ist im Einzelfall technisch und rechtlich zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Dazu gehört etwa der batteriebetriebene, ohne direkten Stromanschluss einsetzbare Liftboy 4 des Betreibers dieses Magazins; technische Voraussetzungen, Platzbedarf und Eignung sind im Einzelfall mit dem Hersteller (Betreiber dieses Magazins) zu prüfen.",
+    "ersatz": "Nach Angabe des Betreibers ist der Liftboy 4 batteriebetrieben und kann ohne direkten Stromanschluss eingesetzt werden; technische Voraussetzungen, Platzbedarf und Eignung sind im Einzelfall mit dem Hersteller zu prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Rechtsfragen klären Sie ausschließlich mit Rechtsbeistand oder Vermieter.",
+    "ersatz": "Rechtsfragen klären Sie mit Rechtsbeistand; Fragen zur Freigabe klären Sie mit Vermieter oder Verwaltung."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Umfang und Grenzen gehören in die Zustigkeit von Vermieter oder Rechtsbeistand",
+    "ersatz": "Umfang und Grenzen gehören in die Zuständigkeit von Vermieter oder Rechtsbeistand"
+   },
+   {
+    "zitat": "§ 554 BGB – Bauliche Veränderungen",
+    "ersatz": "§ 554 BGB – Barrierefreiheit"
+   },
+   {
+    "zitat": "Für Mietwohnungen sind die mietrechtlichen Regelungen zu baulichen Veränderungen und barrierefreiem Wohnen in § 554 BGB geregelt.",
+    "ersatz": "Für Mietwohnungen ist die Zustimmung zu Maßnahmen zur Barrierefreiheit in § 554 BGB geregelt. Allgemeine bauliche Veränderungen sind Einzelfall und mit Vermieter oder Rechtsbeistand zu klären."
+   }
+  ],
+  "an_lehner_melden": [
+   "§ 554 BGB im Quellenverzeichnis und im Text korrekt als 'Barrierefreiheit' bezeichnen; allgemeine bauliche Veränderungen nicht pauschal unter § 554 BGB fassen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://recht.nulegal.eu/rechtsprechung/ag-charlottenburg/2023-05-19/220-c-54-22",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_234-23.pdf?__blob=publicationFile&v=1",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

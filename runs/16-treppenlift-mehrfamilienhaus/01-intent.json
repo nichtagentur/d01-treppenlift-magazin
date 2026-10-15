@@ -1,0 +1,34 @@
+{
+ "query": "treppenlift mehrfamilienhaus",
+ "autocomplete": [
+  "einbau treppenlift mehrfamilienhaus",
+  "treppenlift im mehrfamilienhaus erlaubt",
+  "treppenlift mehrfamilienhaus",
+  "treppenlift mehrfamilienhaus brandschutz",
+  "treppenlift mehrfamilienhaus kosten",
+  "treppenlift mehrfamilienhaus rechtslage",
+  "treppenlift mehrfamilienhaus rechtslage nrw",
+  "treppenlift mehrfamilienhaus rechtslage österreich",
+  "treppenlift treppenhaus mehrfamilienhaus"
+ ],
+ "intent": "Informationsintention mit Entscheidungsvorbereitung und kommerzieller Nähe (YMYL): Nutzer klären, ob und wie ein Treppenlift im Mehrfamilienhaus/Treppenhaus erlaubt, brandschutztechnisch machbar, rechtlich zulässig und kostenrelevant ist. Für Tischler/Schreiner als Fachbetrieb, die Eigentümer, WEG/Verwaltung oder Mieter beraten und Angebote vorbereiten.",
+ "winkel": "Deutschland-Fokus, B2B für Tischler/Schreiner: MFH-spezifische Beratung und Umsetzung im Bestand. Nicht allgemeine Treppenlift-Grundlagen, sondern Schnittstellen im gemeinschaftlich genutzten Treppenhaus: Erlaubnis, Brandschutz/Rettungsweg, Abstimmung mit WEG/Verwaltung, Aufmaß, Dokumentation und Angebotsgrenzen. Recht, Genehmigung und Brandschutz nur als Orientierung; Einzelfall mit Bauaufsicht, WEG/Verwaltung und Hersteller klären. Österreich-Rechtslage nur als Abgrenzung. Produktverweise sachlich; Betreiber dieses Magazins ist Lehner Lifttechnik.",
+ "kannibalisierung": "Nahe bestehende Artikel: 02-treppenlift-kosten.html (allgemeine Kosten), 09-treppenlift-treppenart-aufmass.html (Treppenhaus, Mindestbreite, DIN, Aufmaß), 10-treppenlift-montage-vorschriften-wartung.html (Vorschriften, Brandschutz, Montage) und 01-treppenlift-leitfaden-tischler.html (breiter Leitfaden). Abgrenzung: Der neue Artikel behandelt ausschließlich den Mehrfamilienhaus-Fall im gemeinschaftlichen Treppenhaus: Erlaubnis, Brandschutz/Rettungsweg, Rechtslage Deutschland/NRW/Österreich, Kostenfaktoren im MFH und Abstimmung mit WEG/Verwaltung. Allgemeine Kostenformeln, Treppenarten, Montageabläufe und Wartung werden nicht wiederholt, sondern nur verlinkt. 04-plattformlift.html nur als alternative Lösung bei ungeeignetem Treppenhaus verlinken, nicht als Hauptthema.",
+ "faq_fragen": [
+  "Was ist beim Einbau eines Treppenlifts im Mehrfamilienhaus zu beachten?",
+  "Ist ein Treppenlift im Mehrfamilienhaus erlaubt?",
+  "Welche Brandschutz-Anforderungen gelten für einen Treppenlift im Mehrfamilienhaus?",
+  "Was kostet ein Treppenlift im Mehrfamilienhaus?",
+  "Wie ist die Rechtslage für einen Treppenlift im Mehrfamilienhaus?",
+  "Wie ist die Rechtslage für einen Treppenlift im Mehrfamilienhaus in NRW?",
+  "Wie ist die Rechtslage für einen Treppenlift im Mehrfamilienhaus in Österreich?",
+  "Was ist bei einem Treppenlift im Treppenhaus eines Mehrfamilienhauses zu beachten?"
+ ],
+ "verwandte_artikel": [
+  "01-treppenlift-leitfaden-tischler.html",
+  "02-treppenlift-kosten.html",
+  "04-plattformlift.html",
+  "09-treppenlift-treppenart-aufmass.html",
+  "10-treppenlift-montage-vorschriften-wartung.html"
+ ]
+}

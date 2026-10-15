@@ -1,0 +1,221 @@
+{
+ "qa": {
+  "score": 72,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "<h2>Häufige Fragen</h2> ... <h2 id=\"faq\">Häufige Fragen</h2>",
+    "korrektur": "Der FAQ-Block ist doppelt vorhanden. Einen der beiden Blöcke entfernen und die Inhalte zu einem einzigen FAQ-Abschnitt zusammenführen; Wiederholungen straffen."
+   },
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) ... automatisch geprüft",
+    "korrektur": "Für Recht/Brandschutz/Sicherheit fehlt eine benannte qualifizierte Fachprüfung. Entweder reale fachliche Prüfung mit Qualifikation angeben oder klar als reine Orientierung ohne fachliche Prüfung kennzeichnen; 'automatisch geprüft' nicht als fachliche Prüfung darstellen."
+   },
+   {
+    "zitat": "Herstellerangaben nennen unter 60 dB bei Plattformliften.",
+    "korrektur": "Quelle mit Hersteller und Abrufdatum ergänzen oder die Zahl streichen/entschärfen."
+   },
+   {
+    "zitat": "Bei mehrgeschossiger Führung gibt es je Geschoss ausreichend Wartefläche, wenn nicht mindestens 60 cm Restlaufbreite gesichert sind.",
+    "korrektur": "Mit dem MVV-TB-Wortlaut abgleichen und eindeutig formulieren, z. B.: 'Bei mehrgeschossiger Führung ist eine Restlaufbreite von mindestens 60 cm zu sichern; andernfalls ist je Geschoss eine ausreichende Wartefläche erforderlich.'"
+   },
+   {
+    "zitat": "Der Plattformtreppenlift Stratos NG/A ist laut Hersteller zusammengeklappt 299 mm breit, Delta und Omega nennen 300 mm ...",
+    "korrektur": "Bei eigenen Produkten von Lehner Lifttechnik kenntlich machen, dass Lehner Betreiber dieses Magazins ist, z. B. 'laut Hersteller und Betreiber dieses Magazins'. Die Kennzeichnung muss vor oder bei der ersten Produktnennung erfolgen."
+   },
+   {
+    "zitat": "MVV TB 2025/1, Abschnitt 4.2 ... <a href=\"https://izw.baw.de/publikationen/tr-w/0/A4.2-1_MVV-TB.pdf\">",
+    "korrektur": "Offizielle Primärquelle der MVV TB bzw. der eingeführten Landesfassung (DIBt/Bauministerkonferenz/zuständige Landesbehörde) mit Abrufdatum verlinken; fachfremde Mirror-Quelle ersetzen."
+   },
+   {
+    "zitat": "LG München II, Beschluss vom 12.03.2025 – 36 S 12455/24 WEG ... <a href=\"https://recht.nulegal.eu/...\">",
+    "korrektur": "Für die Gerichtsentscheidung eine offizielle Quelle (Gericht, Pressemitteilung, juristische Datenbank) verwenden oder die Entscheidung ohne Primärquelle nicht als Beleg anführen."
+   },
+   {
+    "zitat": "Die einschlägigen Paragrafen zu Rettungswegen ... ließen sich für diesen Beitrag nicht mit belastbaren Fundstellen belegen. Wir nennen deshalb keine Normnummern.",
+    "korrektur": "Den NRW-Abschnitt entweder mit belegten landesspezifischen Fundstellen füllen oder streichen; für die deutsche B2B-Zielgruppe genügt der Verweis auf die örtliche Bauaufsicht."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [
+   {
+    "zitat": "Delta und Omega nennen 300 mm",
+    "korrektur": "Nur Delta nennt 300 mm (Breite zusammengeklappt). Fuer Omega ist kein solcher Wert belegt; die Omega-Seite nennt lediglich Installation in engsten Treppenlaeufen ab 950 mm Breite."
+   }
+  ],
+  "unbelegt": [
+   {
+    "zitat": "Die Maschinenrichtlinie 2006/42/EG und die Normen EN 81-40 sowie EN 81-41 bilden den Rahmen fuer Treppenlifte.",
+    "korrektur": "entschaerfen oder streichen"
+   },
+   {
+    "zitat": "Die Mindestlaufbreite von 100 cm bezieht sich auf die Treppenlauflinie (DIN 18065:2020-08, Ziffer 3.6) und den Gehbereich (Ziffer 8).",
+    "korrektur": "entschaerfen oder streichen"
+   },
+   {
+    "zitat": "bei mehrgeschossiger Fuehrung ist eine Restlaufbreite von 60 cm zu sichern",
+    "korrektur": "entschaerfen oder streichen"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Bei mehrgeschossiger Führung gibt es je Geschoss ausreichend Wartefläche, wenn nicht mindestens 60 cm Restlaufbreite gesichert sind.",
+    "ersatz": "Bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn keine mindestens 60 cm Restlaufbreite gesichert sind."
+   },
+   {
+    "schwere": "hoch",
+    "zitat": "Sagen Sie zu, was Sie beeinflussen können: Lieferung, Montage, Inbetriebnahme, Übergabe der Herstellerunterlagen, Wartung nach Vorgabe. Klären Sie schriftlich aus, was nicht in Ihrer Verantwortung liegt: Einholen der WEG-Zustimmung, bauaufsichtliche Klärung, Statik des Bestands, Umlage von Betriebskosten, Zustimmung Dritter.",
+    "ersatz": "Klären Sie schriftlich, welche Leistungen Sie übernehmen. Beachten Sie, dass öffentlich-rechtliche Pflichten, insbesondere Bauordnungsrecht und Standsicherheit, nicht vollständig auf den Auftraggeber abgewälzt werden können; lassen Sie dies im Einzelfall rechtlich prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Die Produktseiten von Delta, Omega und Stratos NG/A nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,- inklusive Lieferung und Einbau für eine einfache gerade Treppe.",
+    "ersatz": "Die Produktseiten des Betreibers dieses Magazins (Lehner Lifttechnik) zu Delta, Omega und Stratos NG/A nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,- inklusive Lieferung und Einbau für eine einfache gerade Treppe. Sämtliche Produktnennungen (Stratos NG/A, Delta, Omega, Alpha, Sigma) sind als Produkte des Betreibers dieses Magazins (Lehner Lifttechnik) zu kennzeichnen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Bundesgerichtshof hat 2024 in einer Pressemitteilung klargestellt, dass die Rechtmäßigkeit eines Gestattungsbeschlusses nicht davon abhängt, ob die Anspruchsvoraussetzungen des § 20 Abs. 2 WEG im Einzelnen vorliegen. Maßgeblich sind zunächst die Grenzen des § 20 Abs. 4.",
+    "ersatz": "Der Bundesgerichtshof hat 2024 in einer Entscheidung Hinweise dazu gegeben, dass es für die Rechtmäßigkeit eines Gestattungsbeschlusses zunächst auf die Grenzen des § 20 Abs. 4 WEG ankommen kann. Ob und inwieweit dies im Einzelfall gilt, ist rechtlich zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Einbau ist eine bauliche Veränderung, nicht bloß Instandhaltung.",
+    "ersatz": "Der Einbau ist in der Regel eine bauliche Veränderung, nicht bloß Instandhaltung; die Einordnung im Einzelfall klären Sie mit Verwaltung und WEG."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "<p class=\"meta\">Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min.</p>",
+    "ersatz": "<p class=\"meta\">Stand: Oktober 2026 · Betreiber dieses Magazins: Lehner Lifttechnik (österreichischer Hersteller, Peuerbach) · KI-gestützt erstellt und geprüft · Lesezeit ca. 9 Min.</p>"
+   },
+   {
+    "zitat": "Der Einbau ist eine bauliche Veränderung, nicht bloß Instandhaltung.",
+    "ersatz": "In der Regel wird der Einbau als bauliche Veränderung eingeordnet, nicht als Instandhaltung. Die Einordnung im Einzelfall klären Sie mit Verwaltung/WEG und Rechtsberatung."
+   },
+   {
+    "zitat": "Der Bundesgerichtshof hat 2024 in einer Pressemitteilung klargestellt, dass die Rechtmäßigkeit eines Gestattungsbeschlusses nicht davon abhängt, ob die Anspruchsvoraussetzungen des § 20 Abs. 2 WEG im Einzelnen vorliegen. Maßgeblich sind zunächst die Grenzen des § 20 Abs. 4.",
+    "ersatz": "Die Rechtsprechung betont, dass für die Rechtmäßigkeit eines Gestattungsbeschlusses die Grenzen des § 20 Abs. 4 WEG maßgeblich sind. Konkrete Entscheidungen nur mit geprüfter Fundstelle nennen; im Einzelfall klärt die Verwaltung mit juristischer Beratung."
+   },
+   {
+    "zitat": "Die MVV TB 2025/1 führt dazu technische Kriterien ein. Zulässigkeit kommt danach in Betracht, wenn mehrere Voraussetzungen erfüllt sind:",
+    "ersatz": "Die technischen Anforderungen ergeben sich aus dem Bauordnungsrecht und den eingeführten Technischen Baubestimmungen. Ob und welche Kriterien im Einzelfall gelten, klären Sie mit der Bauaufsicht."
+   },
+   {
+    "zitat": "<li>Eine Mindestlaufbreite von 100 cm wird durch die Führungskonstruktion nicht wesentlich unterschritten.</li>",
+    "ersatz": "<li>Die Anforderungen an die Mindestlaufbreite im Treppenraum sind im Einzelfall mit der Bauaufsicht zu klären.</li>"
+   },
+   {
+    "zitat": "Das LG München II hat 2025 in einem Beschluss (36 S 12455/24 WEG) unter anderem die Restlaufbreite von 60 cm und die Nutzbarkeit des Handlaufs nach DIN 18065 behandelt.",
+    "ersatz": "Zur Restlaufbreite und Handlaufnutzung gibt es Rechtsprechung; konkrete Entscheidungen nur mit geprüfter Fundstelle nennen. Im Einzelfall klären Sie die Anforderungen mit der Bauaufsicht."
+   },
+   {
+    "zitat": "Die Mindestlaufbreite von 100 cm bezieht sich auf die Treppenlauflinie (DIN 18065:2020-08, Ziffer 3.6) und den Gehbereich (Ziffer 8).",
+    "ersatz": "Die Mindestlaufbreite bezieht sich in der Regel auf die Treppenlauflinie und den Gehbereich. Die konkreten Anforderungen prüft die Bauaufsicht."
+   },
+   {
+    "zitat": "Strom mit 1 × 230 V planen Sie vor der Montage ein.",
+    "ersatz": "Klären Sie die Stromversorgung modellabhängig. Delta, Alpha und Sigma nennen 1 × 230 V; Omega kann auch 3 × 400 V vorsehen. Maßgeblich ist die Herstellerangabe."
+   },
+   {
+    "zitat": "Der Plattformtreppenlift Stratos NG/A ist laut Hersteller zusammengeklappt 299 mm breit, Delta und Omega nennen 300 mm und Einbaubreiten ab 890 mm bzw. 950 mm Treppenbreite.",
+    "ersatz": "Der Plattformtreppenlift Stratos NG/A ist laut Hersteller zusammengeklappt 299 mm breit. Delta nennt 300 mm und Einbau ab 890 mm Treppenbreite; Omega nennt Einbau ab 950 mm Treppenbreite. Zu Omega liegt in den Produktfakten keine Angabe zu 300 mm vor – beim Hersteller bestätigen."
+   },
+   {
+    "zitat": "Herstellerangaben nennen unter 60 dB bei Plattformliften.",
+    "ersatz": "Für Delta und Omega nennen die Herstellerangaben unter 60 dB; für das konkrete Modell beim Hersteller bestätigen."
+   },
+   {
+    "zitat": "Die Maschinenrichtlinie 2006/42/EG und die Normen EN 81-40 sowie EN 81-41 bilden den Rahmen für Treppenlifte.",
+    "ersatz": "Je nach Produkt und Einbau gelten die Maschinenrichtlinie 2006/42/EG und Normen wie EN 81-40 oder EN 81-41. Die konkrete Norm für das angebotene Modell beim Hersteller bestätigen."
+   },
+   {
+    "zitat": "<h2>Häufige Fragen</h2>",
+    "ersatz": "Diesen Abschnitt nur einmal führen; die kürzere FAQ-Fassung entfernen oder mit der ausführlichen zusammenführen."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Im Artikel wird eine Breite von 300 mm genannt; in den Produktfakten ist für Omega keine 300-mm-Angabe enthalten. Bitte bestätigen oder korrigieren.",
+   "Stratos NG/A: Widerspruch zwischen Highlight/Produktvergleich 'bis 900 × 1400 mm' und technischer Spezifikation (700 × 750, 750 × 850, 800 × 900, 800 × 1000 mm). Bitte konservativen Wert bestätigen.",
+   "Neo: Auf der Produktseite widersprüchliche Normangabe EN 81-40 vs. EN 81-41 beim Fußbrett. Bitte korrigieren.",
+   "Omega und Stratos NG/A: Traglast wird als 'bis zu' (Highlight) und 'optional' (Spezifikation) unterschiedlich dargestellt. Bitte einheitliche Formulierung.",
+   "Lärmangabe 'unter 60 dB': In den Produktfakten nur für Delta und Omega belegt. Gilt sie auch für Stratos NG/A? Bitte bestätigen.",
+   "Stromversorgung: Omega kann laut Produktfakten 1 × 230 V oder 3 × 400 V vorsehen. Allgemeine Angabe '1 × 230 V' im Artikel bitte modellabhängig präzisieren.",
+   "Sigma: 'eigener Aufstellort' ist in den Produktfakten nicht explizit genannt. Bitte bestätigen, ob das für die Schachtlift-Variante so kommuniziert werden darf.",
+   "Recht/Brandschutz/WEG: In den bereitgestellten Produktfakten keine expliziten Angaben. Bitte prüfen, ob das Magazin diese Themen ohne Herstellerfreigabe so detailliert darstellen darf."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://izw.baw.de/publikationen/tr-w/0/A4.2-1_MVV-TB.pdf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://recht.nulegal.eu/rechtsprechung/lg-muenchen-ii/2025-03-12/36-s-12455-24-weg",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppenlift-HI8762840.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppetreppenhaus-HI637237.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

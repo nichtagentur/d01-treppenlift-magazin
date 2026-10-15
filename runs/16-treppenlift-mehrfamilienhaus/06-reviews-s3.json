@@ -1,0 +1,169 @@
+{
+ "qa": {
+  "score": 45,
+  "stop": [
+   "Stop-Kriterium 4: Normen (z. B. § 40 Abs. 4 SGB XI, §§ 5, 20, 21 WEG) sind nicht durchgehend mit Primärquelle und Abrufdatum belegt."
+  ],
+  "fehler": [
+   {
+    "zitat": "Zur Pflegekasse: § 40 Abs. 4 SGB XI ist eine Kann-Leistung; ein Rechtsanspruch besteht nicht.",
+    "korrektur": "Primärquelle verlinken (Gesetze-im-internet.de § 40 SGB XI, Abrufdatum) oder Normzitat entfernen und nur allgemein auf die Kann-Leistung der Pflegekasse hinweisen."
+   },
+   {
+    "zitat": "Rechtliche und normative Aussagen sind redaktionelle Orientierung ohne gesonderte rechtliche oder brandschutztechnische Fachprüfung",
+    "korrektur": "Für YMYL-Themen Recht/Brandschutz qualifizierte Fachprüfung einholen und benennen oder auf eigene Rechts-/Brandschutzauslegung verzichten und nur an Fachstellen verweisen."
+   },
+   {
+    "zitat": "Nach § 5 Abs. 2 WEG nimmt Gebäudeteile ... Nach § 20 Abs. 1 WEG ... Nach § 20 Abs. 2 WEG ... § 20 Abs. 4 WEG ... § 21 WEG",
+    "korrektur": "Gesetzestexte aus Primärquelle (Gesetze-im-internet.de) verlinken und Abrufdatum angeben; BGH-Pressemitteilung nur mit Aktenzeichen/Datum und Volltextbezug zitieren."
+   },
+   {
+    "zitat": "In der Regel sind deshalb die Wohnungseigentümergemeinschaft und die Verwaltung einzubeziehen; der einzelne Eigentümer allein kann nicht abschließend entscheiden.",
+    "korrektur": "Zuständigkeit präzisieren: Die WEG beschließt; die Verwaltung bereitet vor und führt aus. Die Verwaltung entscheidet nicht mit."
+   },
+   {
+    "zitat": "Belastbare Fundstellen für die konkreten Paragrafen zu Rettungswegen, notwendigen Treppenräumen und Einbauten liegen für diesen Beitrag nicht vor. Wir nennen deshalb keine Normnummern.",
+    "korrektur": "NRW-Abschnitt und NRW-FAQ streichen oder durch klaren Hinweis ersetzen, dass keine landesspezifische Aussage möglich ist und die örtliche Bauaufsicht zu klären ist."
+   },
+   {
+    "zitat": "Österreichische Vorgaben ... ließen sich in dieser Recherche nicht belegt finden.",
+    "korrektur": "Entweder belegte Quellen ergänzen oder Abschnitt/Frage entfernen. Sprachlich: „konnten nicht belegt werden“."
+   },
+   {
+    "zitat": "Vollständige Impressums- und Datenschutzangaben erreichen Sie über die Website des Betreibers: https://www.lehner-lifttechnik.com",
+    "korrektur": "Direkte Kontakt- und Impressumsangaben (E-Mail, Telefon, Anschrift) im Footer/Artikel verlinken, nicht nur die Startseite."
+   },
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft",
+    "korrektur": "Automatische Prüfung ersetzt keine menschliche/Fachprüfung; redaktionelle Verantwortung und ggf. Fachprüfung benennen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Bei Mietwohnungen sind Zustimmung des Vermieters und ein möglicher Rückbau im Einzelfall vorab mit Vermieter und Rechtsberatung zu klären.",
+    "korrektur": "entschärfen oder streichen: Für Vermieterzustimmung und Rückbauverpflichtung im Mietverhältnis liegt keine belegte Quelle vor. Nur als offene Einzelfallfrage ohne Regelannahme formulieren (z. B. „Ob eine Zustimmung des Vermieters erforderlich ist und ob eine Rückbaupflicht besteht, ist nicht pauschal zu beantworten; Einzelfall, mit Vermieter und Rechtsberatung klären.“)."
+   },
+   {
+    "zitat": "Zusätzlich muss der Rettungsweg im Treppenraum nutzbar bleiben.",
+    "korrektur": "entschärfen: „darf den ersten Rettungsweg nicht unzulässig beeinträchtigen; ob eine verbleibende Einschränkung hinnehmbar ist, im Einzelfall mit der Bauaufsicht klären“ – ein absolutes „muss nutzbar bleiben“ überschreibt die im Dossier belegten hinnehmbaren Einschränkungen (Lichtraumprofil, Restlaufbreite)."
+   },
+   {
+    "zitat": "Die technischen Anforderungen ergeben sich aus dem Bauordnungsrecht und den eingeführten Technischen Baubestimmungen.",
+    "korrektur": "Quelle ergänzen oder entschärfen: In der Quellenliste fehlt die einzige belegte Fundstelle zu den eingeführten Technischen Baubestimmungen (MVV TB 2025/1, izw.baw.de); sonst „können sich ergeben – im Einzelfall mit der Bauaufsicht klären“."
+   },
+   {
+    "zitat": "Bundesfachstelle Barrierefreiheit, Rechtssammlung zum WEG (u. a. §§ 5, 20, 21 WEG)",
+    "korrektur": "Quellenangabe präzisieren: Die Bundesfachstelle-Stelle belegt im Dossier nur § 20 Abs. 2 WEG; § 5 Abs. 2, § 20 Abs. 1/3/4 und § 21 WEG sind über gesetze-im-internet.de (WEG) belegt. Quelle entsprechend zuordnen oder gesetze-im-internet.de aufnehmen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "§ 5 Abs. 2 WEG nimmt Gebäudeteile, die dem gemeinschaftlichen Gebrauch dienen oder für den Bestand des Gebäudes erforderlich sind, vom Sondereigentum aus.",
+    "ersatz": "Gemeinschaftseigentum sind nach § 5 Abs. 2 WEG die Gebäudeteile, die nicht im Sondereigentum stehen und die für die Erhaltung, die Instandhaltung, die bauliche Veränderung oder die Sicherheit des Gebäudes erforderlich sind. Ob das Treppenhaus im Einzelfall Gemeinschaftseigentum ist, klären Sie mit Verwaltung und WEG."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Die Produktseiten des Betreibers dieses Magazins (Lehner Lifttechnik) zu Delta, Omega und Stratos NG/A nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,– inklusive Lieferung und Einbau für eine einfache gerade Treppe.",
+    "ersatz": "Pauschale Kostenbänder für Mehrfamilienhaus-Projekte lassen sich nicht belastbar benennen. Konkrete Preise sind projektabhängig; fordern Sie ein individuelles Angebot an. Die Produktseiten des Betreibers dieses Magazins (Lehner Lifttechnik) können als Orientierung dienen, ersetzen aber keine Projektkalkulation."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die Treppe erschließt nur Wohnungen oder vergleichbare Nutzungen.",
+    "ersatz": "Ob die Treppe nur Wohnungen oder vergleichbare Nutzungen erschließt, kann für die bauordnungsrechtliche Beurteilung relevant sein; klären Sie dies im Einzelfall mit der Bauaufsicht."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Vor der Bestellung sind Zustimmung von WEG, Verwaltung und ggf. Vermieter, die Einbausituation im Bestand sowie der nutzbare Rettungsweg zu klären.",
+    "ersatz": "Vor der Bestellung sind Zustimmung von Wohnungseigentümergemeinschaft (WEG), Verwaltung und ggf. Vermieter, die Einbausituation im Bestand sowie der nutzbare Rettungsweg zu klären."
+   },
+   {
+    "zitat": "Der Einbau ist in der Regel eine bauliche Veränderung, nicht bloß Instandhaltung; die Einordnung im Einzelfall klären Sie mit Verwaltung und WEG.",
+    "ersatz": "Der Einbau ist in der Regel eine bauliche Veränderung, nicht lediglich Instandhaltung; die Einordnung im Einzelfall klären Sie mit Verwaltung und WEG."
+   },
+   {
+    "zitat": "Eine verbleibende Einschränkung des Lichtraumprofils ist im Einzelfall mit der Bauaufsicht zu klären; pauschale Maße nennen wir hier nicht.",
+    "ersatz": "Eine verbleibende Einschränkung des Lichtraumprofils (lichte Höhe und Breite im Treppenraum) ist im Einzelfall mit der Bauaufsicht zu klären; pauschale Maße nennen wir hier nicht."
+   },
+   {
+    "zitat": "auf die Anspruchsvoraussetzungen des § 20 Abs. 2 WEG kommt es erst bei einem Negativbeschluss an.",
+    "ersatz": "auf die Anspruchsvoraussetzungen des § 20 Abs. 2 WEG kommt es erst bei einem ablehnenden Beschluss (Negativbeschluss) an."
+   },
+   {
+    "zitat": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegt finden.",
+    "ersatz": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegen."
+   },
+   {
+    "zitat": "Österreichische Vorgaben zu Normen und wohnrechtlichen Bestimmungen im gemeinsamen Treppenhaus ließen sich für diesen Beitrag nicht belegt finden und lassen sich nicht ohne weiteres auf deutsche Projekte übertragen.",
+    "ersatz": "Österreichische Vorgaben zu Normen und wohnrechtlichen Bestimmungen im gemeinsamen Treppenhaus ließen sich für diesen Beitrag nicht belegen und lassen sich nicht ohne weiteres auf deutsche Projekte übertragen."
+   },
+   {
+    "zitat": "Die Produktseiten des Betreibers dieses Magazins (Lehner Lifttechnik) nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,– inklusive Lieferung und Einbau für eine einfache gerade Treppe; das ist eine Orientierung, kein MFH-Preis.",
+    "ersatz": "Die Produktseiten des Betreibers dieses Magazins (Lehner Lifttechnik) nennen laut Herstellerangabe für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,– inklusive Lieferung und Einbau für eine einfache gerade Treppe; das ist eine Orientierung, kein MFH-Preis."
+   }
+  ],
+  "an_lehner_melden": [
+   "Stratos NG/A: Widerspruch bei der Plattformgröße – 'bis 900 × 1400 mm' im Highlight/Produktvergleich gegenüber technischen Spezifikationen '700 × 750, 750 × 850, 800 × 900, 800 × 1000 mm'. Bitte konservativen Wert bestätigen.",
+   "Neo: Widersprüchliche Normangabe für das Fußbrett – EN 81-40 im Sicherheitsbullet, EN 81-41 im Detailtext. Bitte korrigieren oder bestätigen.",
+   "Omega: Traglast-Darstellung – Highlight 'bis zu 300 kg' gegenüber technischer Spezifikation '225 kg (optional 300 kg)'. Bitte konservativen Wert bestätigen.",
+   "Stratos NG/A: Traglast-Darstellung – Highlight 'bis zu 350 kg' gegenüber technischer Spezifikation '225 kg (optional 350 kg)'. Bitte konservativen Wert bestätigen.",
+   "Kostenangaben: Delta/Omega/Stratos NG/A nennen ca. € 9.000,– als Einstieg; Elevex 'kostengünstig', StepSaver 'kosteneffizient' ohne Zahl. Bitte einheitliche Orientierung oder Bestätigung.",
+   "Sigma: Artikel nennt Sigma als mögliche Alternative bei ungeeignetem Treppenhaus; Produktfakten belegen diese Eignung nicht explizit. Bitte bestätigen, ob Sigma für solche Fälle vorgesehen ist."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppenlift-HI8762840.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "qa": {
+  "score": 65,
+  "stop": [
+   "Impressum und Kontakt sind im Artikel/Footer nicht verlinkt oder erreichbar (QRG 4.5.1/5.5); der Artikel nennt nur den Betreiber, aber keine Kontaktwege."
+  ],
+  "fehler": [
+   {
+    "zitat": "Betreiber dieses Magazins ist Lehner Lifttechnik, Peuerbach, Österreich.",
+    "korrektur": "Impressum und Kontakt (E-Mail, Telefon, Anschrift) im Footer/über Link erreichbar machen und im Artikel darauf verlinken."
+   },
+   {
+    "zitat": "Nach Angaben der Verbraucherzentrale kann die Pflegekasse sich an Einbaukosten beteiligen. Das ist eine Kann-Leistung, kein Anspruch.",
+    "korrektur": "Kann-Leistung nach § 40 Abs. 4 SGB XI mit Primärquelle (Gesetzestext oder Pflegekassen-Merkblatt) belegen; Verbraucherzentrale nur ergänzend nennen."
+   },
+   {
+    "zitat": "Der Artikel wurde mit KI-Unterstützung erstellt und automatisch geprüft, Stand Oktober 2026.",
+    "korrektur": "Bei Recht/Förderung zusätzlich qualifizierte fachliche Prüfung benennen oder klarstellen, dass keine Rechtsprüfung erfolgt ist und Rechtsfragen ausschließlich an Rechtsbeistand/Vermieter zu verweisen sind."
+   },
+   {
+    "zitat": "<a href=\"#checkliste\">Checkliste für das Erstgespräch</a>",
+    "korrektur": "TOC-Bezeichnung an den tatsächlichen Abschnittstitel anpassen, z. B. „Checkliste für Tischler und Schreiner“."
+   },
+   {
+    "zitat": "Für Mietwohnungen können mietrechtliche Regelungen zu baulichen Veränderungen und barrierefreiem Wohnen relevant sein.",
+    "korrektur": "Primärquelle (z. B. BGB/WEG) verlinken oder die Aussage als reine Prozessinformation ohne Rechtsbewertung kennzeichnen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": []
+ },
+ "legal": {
+  "punkte": []
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Sitzlift Alpha",
+    "ersatz": "Sitz-Treppenlift Alpha"
+   },
+   {
+    "zitat": "Fragen zu Förderung oder Mietmodell gehören getrennt besprochen – siehe",
+    "ersatz": "Fragen zu Förderung oder Mietmodell sollten getrennt besprochen werden – siehe"
+   },
+   {
+    "zitat": "Der Leitfaden für Betriebe mit Überblick über Systeme und Abläufe:",
+    "ersatz": "Der Leitfaden für Betriebe gibt einen Überblick über Systeme und Abläufe:"
+   },
+   {
+    "zitat": "Wer die Kosten trägt, ist Einzelfall und Verhandlungssache zwischen Mieter und Vermieter.",
+    "ersatz": "Wer die Kosten trägt, ist ein Einzelfall und Verhandlungssache zwischen Mieter und Vermieter."
+   },
+   {
+    "zitat": "Umfang und Grenzen gehören zu Vermieter oder Rechtsbeistand, nicht in die Auskunft des Fachbetriebs.",
+    "ersatz": "Umfang und Grenzen gehören in die Zuständigkeit von Vermieter oder Rechtsbeistand, nicht in die Auskunft des Fachbetriebs."
+   }
+  ],
+  "an_lehner_melden": [
+   "Omega: Traglast in Highlights 'bis zu 300 kg', in technischen Spezifikationen '225 kg (optional 300 kg)'. Bitte Serien- und Optionallast eindeutig bestätigen.",
+   "Stratos NG/A: Traglast in Highlights 'bis 350 kg', in technischen Spezifikationen '225 kg (optional 350 kg)'. Bitte Serien- und Optionallast eindeutig bestätigen.",
+   "Stratos NG/A: Plattformgrößen im Text 'bis 900 x 1400 mm', technische Liste enthält diese Größe nicht. Bitte prüfen und bestätigen.",
+   "Neo: Normangabe auf der Seite widersprüchlich (EN 81-40 vs. EN 81-41). Bitte zutreffende Norm bestätigen.",
+   "Sigma: Hubhöhe in technischen Spezifikationen max. 8000 mm; FAQ nennt 3 m öffentlich, 4 m privat, 8 m geschlossen/Schacht. Bitte Geltungsbereich der 8000 mm bestätigen.",
+   "StepSaver: Aufstellungsort 'Innen und außen' vs. 'Aufstellung optional auch im Außenbereich möglich'. Bitte klären, ob außen Standard oder Option ist.",
+   "Alpha: Produktname auf der Seite 'Alpha – Sitz-Treppenlift'; im Magazin wurde 'Sitzlift Alpha' verwendet und zu 'Sitz-Treppenlift Alpha' korrigiert. Bitte einheitliche Bezeichnung bestätigen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/liftboy-4/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/stepsaver/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/pflege-zu-hause/treppenlifte-das-muessen-sie-ueber-planung-und-umsetzung-wissen-10711",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

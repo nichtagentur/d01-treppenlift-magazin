@@ -1,0 +1,97 @@
+{
+ "qa": {
+  "score": 88,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "korrektur": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt; redaktionell geprüft, keine rechtliche/technische Fachprüfung) – oder 'geprüft' streichen, da im Artikel selbst keine rechtliche/technische Prüfung benannt wird."
+   },
+   {
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden.",
+    "korrektur": "ob und wie eine Gewährleistung für gebrauchte Lifte ausgeschlossen werden kann, ist eine Rechtsfrage und im Einzelfall mit Rechtsberatung zu klären."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden",
+    "korrektur": "entschärfen oder streichen"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min.",
+    "ersatz": "Stand: Oktober 2026 · Treppenlift-Magazin, Betreiber dieses Magazins: Lehner Lifttechnik. KI-gestützt erstellt; keine rechtliche oder technische Prüfung. Lesezeit ca. 8 Min."
+   },
+   {
+    "schwere": "hoch",
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden.",
+    "ersatz": "Ob und inwieweit eine Gewährleistung beim Wiederverkauf gebrauchter Lifte ausgeschlossen werden kann, hängt vom Einzelfall und davon ab, ob der Käufer Verbraucher oder Unternehmer ist; ziehen Sie dafür Rechtsberatung hinzu."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin, Betreiber: Lehner Lifttechnik (KI-gestützt erstellt; redaktionell geprüft, keine technische oder rechtliche Prüfung)"
+   },
+   {
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden.",
+    "ersatz": "ob und in welchem Umfang eine Gewährleistung für gebrauchte Lifte ausgeschlossen werden kann, ist im Einzelfall rechtlich zu prüfen."
+   },
+   {
+    "zitat": "Checkliste für den Tischler",
+    "ersatz": "Checkliste für Tischler und Schreiner"
+   },
+   {
+    "zitat": "Vor Wiederverkauf oder Wiederaufbau sollten Tischler Herstellerfreigabe, technische Prüfung, Dokumentation und Haftungsfragen klären",
+    "ersatz": "Vor Wiederverkauf oder Wiederaufbau sollten Tischler und Schreiner Herstellerfreigabe, technische Prüfung, Dokumentation und Haftungsfragen klären"
+   }
+  ],
+  "an_lehner_melden": [
+   "Meta-Angabe 'geprüft' an den Redaktionsprozess anpassen: keine technische oder rechtliche Prüfung suggerieren.",
+   "Rechtsaussage zur Gewährleistung nur als Einzelfallprüfung formulieren.",
+   "Zielgruppe im gesamten Beitrag einheitlich als Tischler und Schreiner ansprechen.",
+   "Der Beitrag zitiert mehrfach Wettbewerberquellen (Lifta, Acorn, Handicare, Hiro). Das ist sachlich, sollte für ein Lehner-Magazin aber markenseitig freigegeben sein."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://hiro.de/hiro-service/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/treppenlift-service/produkt-support/acorn-130",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "qa": {
+  "score": 42,
+  "stop": [
+   "Stop-Kriterium 4: Normangabe zur Musterbauordnung (§ 85 Abs. 5 MBO) ohne Primärquelle/Abrufdatum und ohne korrekte Einordnung, dass die MBO nicht unmittelbar geltendes Recht ist.",
+   "Stop-Kriterium 2: Impressum, Kontakt und Datenschutz sind im gelieferten Artikel nicht sichtbar/verlinkt; der Betreiber wird nur genannt."
+  ],
+  "fehler": [
+   {
+    "zitat": "Für einzelne Bundesländer ist in der Musterbauordnung (§ 85 Abs. 5 MBO) ein Ermächtigungsparagraf vorgesehen, über den per Rechtsverordnung Betreiberpflichten auch auf Aufzüge in rein privat genutzten Gebäuden erstreckt werden können.",
+    "korrektur": "MBO ist kein unmittelbar geltendes Recht. Entweder konkrete Landesbauordnung mit Primärquelle und Abrufdatum nennen oder den Satz streichen/entschärfen: „Ob und welche Betreiberpflichten für Aufzüge oder Treppenlifte in privat genutzten Gebäuden gelten, ist landesrechtlich unterschiedlich; im Einzelfall bei der Bauaufsicht klären.“"
+   },
+   {
+    "zitat": "Für elektrische Arbeitsmittel verweist die BAuA ergänzend auf TRBS 1111 (Gefährdungsbeurteilung), TRBS 1201 (Prüfungen) und TRBS 1203 (befähigte Personen) sowie auf die DGUV Vorschrift 3 und VDE 0105-100.",
+    "korrektur": "Primärquellen für TRBS, DGUV Vorschrift 3 und VDE 0105-100 mit Abrufdatum verlinken oder die Aussage ausdrücklich nur als Verweis auf die BAuA-Quelle kennzeichnen. Ohne Beleg keine eigenständigen Normaussagen."
+   },
+   {
+    "zitat": "KI-gestützt erstellt und geprüft",
+    "korrektur": "Bei Rechts-, Norm- und Sicherheitsinhalten qualifizierte Fachprüfung benennen oder transparent klarstellen, dass keine juristische/technische Fachprüfung erfolgt ist; auf Fachberatung verweisen."
+   },
+   {
+    "zitat": "Häufige Fragen zur Treppenlift-Wartungspflicht",
+    "korrektur": "Doppelte FAQ-Sektion mit dem späteren Abschnitt „Häufige Fragen“ entfernen; eine konsolidierte FAQ mit eindeutiger ID behalten."
+   },
+   {
+    "zitat": "Stand: Oktober 2026",
+    "korrektur": "Nächsten Review-Termin und Korrekturweg/Änderungslog ergänzen."
+   },
+   {
+    "zitat": "Für private Nutzer gibt es keine vergleichbare gesetzliche Aufzeichnungspflicht.",
+    "korrektur": "Unbelegte Rechtsaussage entschärfen: „Eine gesetzliche Aufzeichnungspflicht ist für private Nutzer nicht ersichtlich; im Einzelfall prüfen.“ Oder Primärquelle ergänzen."
+   },
+   {
+    "zitat": "Schindler – Betreiberpflichten in Privathäusern (Analogie zu Aufzügen, nicht Treppenliften)",
+    "korrektur": "Herstellerquelle nur als gekennzeichnete Analogie oder Praxisbeispiel nutzen. Für rechtliche Betreiberpflichten neutrale Primärquelle verwenden oder die Aussage streichen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Aus der reinen Verkehrssicherungspflicht (§ 823 BGB) lässt sich nach derzeit belegbarer Quellenlage keine pauschale Wartungsfrist ableiten.",
+    "korrektur": "entschärfen oder streichen: Verkehrssicherungspflicht und § 823 BGB sind im Dossier nicht belegt. Paragraphenangabe weglassen und nur auf die allgemeine Sorgfalt des Betreibers ohne Normbezug verweisen (Einzelfall, rechtliche Prüfung offen)."
+   },
+   {
+    "zitat": "Im Kern geht es um die Sorgfalt, die ein verständiger Betreiber einer technischen Anlage im Gebäude aufbringt: sachgerechte Nutzung, Beseitigung erkennbarer Mängel, angemessene Kontrolle.",
+    "korrektur": "entschärfen oder streichen: keine belegbare Quelle zu Verkehrssicherungspflicht oder Rechtsprechung zu technischen Anlagen im Gebäude. Als unbelegte Erwägung kennzeichnen und auf Einzelfallprüfung verweisen."
+   },
+   {
+    "zitat": "Die Gewerbeordnung greift hier nicht, das Arbeitsschutzrecht ebenfalls nicht",
+    "korrektur": "entschärfen: die Gewerbeordnung ist im Dossier nicht belegt; auch die pauschale Aussage zum Arbeitsschutzrecht ist nicht belegt. Belegbar ist nur die BAuA-Aussage, dass der private Bereich nicht unter die BetrSichV fällt – diese stehen lassen."
+   },
+   {
+    "zitat": "Grundsätzlich ist der Vermieter für die Instandhaltung des Mietobjekts verantwortlich.",
+    "korrektur": "entschärfen oder streichen: mietrechtliche Instandhaltungspflicht (§ 535 BGB) ist im Dossier nicht belegt. Formulieren als 'Einzelfall, im Mietvertrag prüfen' bzw. 'in der Regel, rechtlich nicht belegt'."
+   },
+   {
+    "zitat": "im Mietobjekt in der Regel der Vermieter im Rahmen seiner Instandhaltungspflichten",
+    "korrektur": "entschärfen: Instandhaltungspflichten des Vermieters sind im Dossier nicht belegt; auf den konkreten Mietvertrag und Einzelfallprüfung verweisen."
+   },
+   {
+    "zitat": "Für Treppenlifte in Betrieben legt der Arbeitgeber die Fristen nach § 3 Abs. 6 BetrSichV selbst fest.",
+    "korrektur": "entschärfen: ob die BetrSichV auf einen Treppenlift im Betrieb überhaupt anwendbar ist, ist im Dossier nicht belegt. Formulieren als 'soweit die BetrSichV greift – Einzelfall, bei Bauaufsicht/Hersteller klären'."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min.",
+    "ersatz": "Stand: Oktober 2026 · Betreiber dieses Magazins: Lehner Lifttechnik, Peuerbach. Redaktion Treppenlift-Magazin (KI-gestützt erstellt und geprüft) · Lesezeit ca. 9 Min."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für private Nutzer gibt es keine vergleichbare gesetzliche Aufzeichnungspflicht.",
+    "ersatz": "Soweit keine MPBetreibV- oder sonstige Betreiberpflicht greift, besteht für private Nutzer keine vergleichbare gesetzliche Aufzeichnungspflicht; das ist im Einzelfall mit Hersteller oder fachkundiger Stelle zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für den gewerblichen Rahmen gibt die BetrSichV eine klare Form vor: Ergebnisse von Prüfungen sind aufzuzeichnen und mindestens bis zur nächsten Prüfung aufzubewahren.",
+    "ersatz": "Soweit die BetrSichV auf den konkreten gewerblichen Einsatz anwendbar ist, gibt sie eine Form vor: Ergebnisse von Prüfungen sind aufzuzeichnen und mindestens bis zur nächsten Prüfung aufzubewahren. Ob sie anwendbar ist, ist Einzelfall."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen oder durchführen zu lassen.",
+    "ersatz": "Soweit die MPBetreibV anwendbar ist und das konkrete Produkt von den einschlägigen Regelungen erfasst wird, sieht § 12 MPBetreibV sicherheitstechnische Kontrollen spätestens alle zwei Jahre vor; die Einordnung ist Einzelfall."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Wer ist für Treppenlift Wartung Pflicht verantwortlich? Der Betreiber. Im Privathaushalt ist das der Eigentümer, im Betrieb der Arbeitgeber, im Mietobjekt der Vermieter im Rahmen seiner Instandhaltungspflichten.",
+    "ersatz": "Verantwortlich ist der Betreiber. Im Privathaushalt ist das in der Regel der Eigentümer, im Betrieb der Arbeitgeber. Im Mietobjekt ist der Betreiber im Einzelfall zu bestimmen: Maßgeblich sind Mietvertrag, Einbausituation und wer den Lift nutzt; regelmäßig kann den Vermieter die Instandhaltung treffen, wenn der Lift Teil des Mietobjekts ist."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Wartungsvertrag ist für Ihren Betrieb mehr als ein Zusatzgeschäft. Er bindet den Kunden an Ihren Service, sichert wiederkehrende Umsätze und schafft einen klaren Ansprechpartner für Störungen. Für B2B-Kunden mit gewerblicher Nutzung ist er zusätzlich ein Nachweis, dass der Betreiber seine Sorgfalt ernst nimmt.",
+    "ersatz": "Ein Wartungsvertrag kann Service und Nachweis sein, begründet aber eigene Pflichten. Definieren Sie Leistungsumfang, Intervalle und Reaktionszeiten klar und dokumentieren Sie die tatsächliche Durchführung; verpasste Termine oder unklare Leistungsbeschreibungen können für Ihren Betrieb Haftungsrisiken begründen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Instandhaltungsmaßnahmen dürfen nur von fachkundigen, beauftragten und unterwiesenen Beschäftigten oder von geeigneten Auftragnehmern mit vergleichbarer Qualifikation durchgeführt werden – die Betriebsanleitung des Herstellers ist zu berücksichtigen.",
+    "ersatz": "Soweit die BetrSichV anwendbar ist, dürfen Instandhaltungsmaßnahmen nur von fachkundigen, beauftragten und unterwiesenen Beschäftigten oder von geeigneten Auftragnehmern mit vergleichbarer Qualifikation durchgeführt werden; die Betriebsanleitung des Herstellers ist zu berücksichtigen. Tischler sollten vor Übernahme prüfen, ob sie diese Anforderung erfüllen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Achten Sie bei Außenanlagen besonders auf Korrosion, Wasser in Gehäusen, feste Schienen und die Funktion von Notablass und Notstromversorgung.",
+    "ersatz": "Achten Sie bei Anlagen im Freien besonders auf Korrosion, Wasser in Gehäusen, feste Schienen und die Funktion von Notablass und Notstromversorgung."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Treppenlift Wartung Pflicht? Einordnung für private, gewerbliche und vermietete Nutzung",
+    "ersatz": "Treppenlift-Wartung: Pflicht? Einordnung für private, gewerbliche und vermietete Nutzung"
+   },
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Treppenlift-Magazin · Betreiber: Lehner Lifttechnik · KI-gestützt erstellt und geprüft"
+   },
+   {
+    "zitat": "Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) stellt ausdrücklich klar, dass der private Bereich nicht unter die Betriebssicherheitsverordnung (BetrSichV) fällt.",
+    "ersatz": "Nach den vorliegenden Informationen der BAuA fällt der private Bereich nicht unter die Betriebssicherheitsverordnung (BetrSichV); im Einzelfall prüfen."
+   },
+   {
+    "zitat": "Für einzelne Bundesländer ist in der Musterbauordnung (§ 85 Abs. 5 MBO) ein Ermächtigungsparagraf vorgesehen, über den per Rechtsverordnung Betreiberpflichten auch auf Aufzüge in rein privat genutzten Gebäuden erstreckt werden können.",
+    "ersatz": "Nach den Bauordnungen der Länder können für bestimmte Anlagen Betreiberpflichten bestehen. Ob und wie das für privat genutzte Treppenlifte gilt, klären Sie im Einzelfall bei der zuständigen Bauaufsicht."
+   },
+   {
+    "zitat": "Für elektrische Arbeitsmittel verweist die BAuA ergänzend auf TRBS 1111 (Gefährdungsbeurteilung), TRBS 1201 (Prüfungen) und TRBS 1203 (befähigte Personen) sowie auf die DGUV Vorschrift 3 und VDE 0105-100.",
+    "ersatz": "Für elektrische Arbeitsmittel sind die einschlägigen Arbeitsschutzregeln zu beachten; konkrete Fundstellen klären Sie im Einzelfall mit der BAuA oder einer fachkundigen Stelle."
+   },
+   {
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen oder durchführen zu lassen.",
+    "ersatz": "Nach § 12 MPBetreibV können sicherheitstechnische Kontrollen in bestimmten Anwendungsfällen spätestens alle zwei Jahre erforderlich sein; ob das für den Treppenlift gilt, ist ein Einzelfall."
+   },
+   {
+    "zitat": "In den Herstellerunterlagen der Lehner Lifttechnik – dem Betreiber dieses Magazins – stehen derzeit keine allgemeinen Wartungsintervalle.",
+    "ersatz": "In den uns vorliegenden Produktbeschreibungen der Lehner Lifttechnik – dem Betreiber dieses Magazins – sind keine allgemeinen Wartungsintervalle genannt. Bestätigen Sie den Stand beim Hersteller."
+   },
+   {
+    "zitat": "<h2 id=\"faq\">Häufige Fragen zur Treppenlift-Wartungspflicht</h2> ... <h2 id=\"faq\">Häufige Fragen</h2>",
+    "ersatz": "FAQ-Block nur einmal führen; doppelten Abschnitt mit id=\"faq\" entfernen oder beide unter einer Überschrift zusammenführen."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: Widerspruch EN 81-40 vs. EN 81-41 im Text – zutreffende Norm bestätigen lassen.",
+   "Omega: Highlight „Traglast bis zu 300 kg“ vs. technische Spezifikation „225 kg (optional 300 kg)“ – konservativer Wert 225 kg, Option 300 kg beim Hersteller bestätigen.",
+   "Stratos NG/A: Highlight „Traglast bis 350 kg“ vs. technische Spezifikation „225 kg (optional 350 kg)“ – konservativer Wert 225 kg, Option 350 kg beim Hersteller bestätigen.",
+   "Stratos NG/A: Plattformgrößen „bis 900 × 1400 mm“ vs. technische Liste 700×750 bis 800×1000 mm – Sonder-/Optionsgrößen beim Hersteller bestätigen.",
+   "Sigma: „bis 8 m“ vs. FAQ offener Fahrkorb öffentlich bis 3 m, privat bis 4 m, geschlossen bis 8 m – konservativ nur geschlossene Variante bis 8 m nennen und beim Hersteller bestätigen.",
+   "Zertifizierungen: Delta/Omega/Alpha „CE & TÜV zertifiziert nach den neusten Europäischen Richtlinien“ vs. Stratos EN 81-40:2020, Sigma Maschinenrichtlinie/EN 81-41, Neo widersprüchlich – konkrete Normen je Produkt bestätigen lassen.",
+   "Wartung: Keine Seite nennt Wartungspflicht, Intervalle oder Unterschiede für private, gewerbliche oder vermietete Nutzung – Betriebsanleitung und Wartungsintervalle beim Hersteller bestätigen lassen.",
+   "Außeneignung: Prüfen, welche Modelle tatsächlich für Montage im Freien freigegeben sind; im Text „im Freien“ statt „Außenbereich“ für Treppen draußen verwenden."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/betrsichv_2015/anhang_2.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv%5F2025/__12.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv_2025/MPBetreibV.pdf",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.schindler.de/de/ratgeber/betreiberpflichten-privathaeuser.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

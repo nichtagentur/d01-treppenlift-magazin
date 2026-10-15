@@ -1,0 +1,7 @@
+# Gegencheck google/gemini-4-argon
+
+Score 95
+
+1. „Zur Entsorgung nennt Lifta in einem Produktdokument eine Materialtrennung nach Metallschrott, Elektroschrott, Aluminium, ABS-Kunststoffen und Sondermüll.“ -> Das Dossier belegt zudem konkret für den Lifta Esprit 4500, dass Batterien und Motoren dem Sondermüll zugeführt werden und die verwendete Pulverbeschichtung blei- und cadmiumfrei ist. -> Diese belegten Details aus der Primärquelle zur Schärfung des fachlichen Nutzens ergänzt.
+2. „Nach Angaben von Lifta ist die Prüfung kostenlos und unverbindlich; der Rücknahmeprozess läuft in fünf Schritten.“ -> Die 5 Schritte sind im Dossier explizit benannt (Kontakt zum Rücknahmeteam, Prüfung/Bewertung, individuelles Angebot, Auftragserteilung, Organisation von Abbau und Abholung), fehlen aber im Text. -> Die 5 Schritte zur Konkretisierung ergänzt.
+3. „Die Angaben von Lifta zu geschultem Personal, Schienen, Bohrlöchern, Kosten und Rückkaufalter finden Sie im Abschnitt ‚Wiederverwendung, Entsorgung, markenspezifische Hinweise‘.“ -> Unpräziser Querverweis in den FAQ: Die Angaben zu geschultem Personal, Schienen, Bohrlöchern und Kosten stehen in den früheren Abschnitten („Bestandsaufnahme“, „Befestigungspunkte“, „Schiene, Sitz und Stuhl“, „Transport“), nicht im Abschnitt „Wiederverwendung“. -> FAQ-Antwort präzisiert und die Kernfakten direkt zusammengefasst.

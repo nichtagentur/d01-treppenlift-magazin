@@ -1,0 +1,204 @@
+{
+ "qa": {
+  "score": 80,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "korrektur": "KI-Transparenz ist vorhanden. Für Recht/Brandschutz zusätzlich eine reale, belegbare Fachprüfung benennen oder die Aussagen klar auf redaktionelle Orientierung ohne Fachprüfung beschränken."
+   },
+   {
+    "zitat": "Impressum/Kontakt: Lehner Lifttechnik, Peuerbach, Österreich; Kontakt über https://www.lehner-lifttechnik.com",
+    "korrektur": "Vollständiges Impressum mit Anschrift, E-Mail/Telefon und Datenschutz verlinken und im Footer jeder Seite erreichbar machen."
+   },
+   {
+    "zitat": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn die verbleibende Laufbreite im Einzelfall nicht ausreicht",
+    "korrektur": "Pauschale Warteflächen-Aussage streichen oder mit Primärquelle/Norm belegen; bis dahin nur auf Einzelfallklärung mit Bauaufsicht/Hersteller verweisen."
+   },
+   {
+    "zitat": "z. B. „XX dB(A) in Y m Entfernung“",
+    "korrektur": "Platzhalter entfernen; entweder belegten Messwert einsetzen oder nur 'mit Messabstand und Bezug' ohne Beispielzahl schreiben."
+   },
+   {
+    "zitat": "Ein generelles Verbot gibt es nicht; ob der Einbau zulässig ist, ist eine Frage des Einzelfalls.",
+    "korrektur": "Entschärfen: 'Ein pauschales Verbot ist nicht bekannt; die Zulässigkeit ist im Einzelfall zu klären.'"
+   },
+   {
+    "zitat": "Für die Einbausituation ist das jeweilige Landesbauordnungsrecht maßgeblich; die Bundesländer setzen eigene Regelungen um.",
+    "korrektur": "Bauordnungsrecht ist Landesrecht; Formulierung so ändern, dass keine Bundesvorgabe suggeriert wird."
+   },
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "korrektur": "Nächsten Review-Termin und Änderungslog/Korrekturweg sichtbar ergänzen; bei Recht/Brandschutz kurzen Prüfzyklus ausweisen."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Nach der Pressemitteilung des Bundesgerichtshofs 2024/026 kommt es für die Rechtmäßigkeit eines Gestattungsbeschlusses zunächst auf die Grenzen des § 20 Abs. 4 WEG an",
+    "korrektur": "entschärfen oder streichen: Ein konkretes Aktenzeichen/Nummer der Pressemitteilung ist im Dossier nicht belegt (nur die Fundstelle bundesgerichtshof.de/…/2024026.html). Besser offen formulieren: \"Nach einer Pressemitteilung des Bundesgerichtshofs aus dem Jahr 2024 …\""
+   },
+   {
+    "zitat": "Bundesgerichtshof, Pressemitteilung 2024/026 zu § 20 WEG",
+    "korrektur": "entschärfen oder streichen: Die Nummer der Pressemitteilung ist nicht belegt; ohne Nummer als \"Bundesgerichtshof, Pressemitteilung (2024)\" aufführen."
+   },
+   {
+    "zitat": "Beachten Sie, dass öffentlich-rechtliche Pflichten, insbesondere Bauordnungsrecht und Standsicherheit, nicht vollständig auf den Auftraggeber abgewälzt werden können",
+    "korrektur": "entschärfen oder streichen: Diese Haftungsaussage ist im Dossier nicht belegt; als Einzelfall offen halten (\"im Einzelfall rechtlich prüfen lassen\") oder weglassen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn die verbleibende Laufbreite im Einzelfall nicht ausreicht.",
+    "ersatz": "Ob und wo Warteflächen erforderlich sind, klären Sie im Einzelfall mit der Bauaufsicht. Pauschale Vorgaben zu Warteflächen nennen wir nicht."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Ein Lift darf ihn nicht beeinträchtigen.",
+    "ersatz": "Ein Lift darf den ersten Rettungsweg nicht unzulässig beeinträchtigen; ob eine Beeinträchtigung hinnehmbar ist, klären Sie im Einzelfall mit der Bauaufsicht."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der nicht benutzte Lift parkt in einer Position, die den Treppenlauf nicht einschränkt.",
+    "ersatz": "Der nicht benutzte Lift sollte nach Möglichkeit so parken, dass der Treppenlauf nicht zusätzlich eingeengt wird; Einzelheiten klären Sie mit Bauaufsicht und Hersteller."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin · Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft)"
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Nach § 20 Abs. 2 Satz 1 WEG kann ein Wohnungseigentümer bestimmte bauliche Veränderungen verlangen, die dem barrierefreien Umbau dienen.",
+    "ersatz": "Nach § 20 Abs. 2 WEG kann ein Wohnungseigentümer verlangen, dass ihm eine bauliche Veränderung gestattet wird, die dem barrierefreien Umbau dient. Ob die Voraussetzungen im Einzelfall vorliegen, klären Sie mit Rechtsberatung."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Zur Pflegekasse: § 40 Abs. 4 SGB XI ist eine Kann-Leistung; ein Anspruch besteht nicht.",
+    "ersatz": "Zur Pflegekasse: § 40 Abs. 4 SGB XI ist eine Kann-Leistung; ein Rechtsanspruch besteht nicht. Ob und in welcher Höhe die Pflegekasse zahlt, ist eine Einzelfallentscheidung."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Ein Treppenlift im gemeinschaftlichen Treppenhaus ist machbar, aber kein reines Produktgeschäft.",
+    "ersatz": "Ein Treppenlift im gemeinschaftlichen Treppenhaus ist möglich, aber kein reines Produktgeschäft."
+   },
+   {
+    "zitat": "§ 5 Abs. 2 WEG nimmt Gebäudeteile, die dem gemeinschaftlichen Gebrauch dienen oder für Bestand und Sicherheit erforderlich sind, vom Sondereigentum aus.",
+    "ersatz": "§ 5 Abs. 2 WEG nimmt Gebäudeteile, die dem gemeinschaftlichen Gebrauch dienen oder für den Bestand des Gebäudes erforderlich sind, vom Sondereigentum aus."
+   },
+   {
+    "zitat": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegbar finden.",
+    "ersatz": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegt finden."
+   },
+   {
+    "zitat": "Machen Sie zur Geräuschentwicklung nur Angaben mit Messabstand und Bezug (z. B. „XX dB(A) in Y m Entfernung“); andernfalls verweisen Sie auf den Hersteller oder lassen die Angabe weg.",
+    "ersatz": "Machen Sie zur Geräuschentwicklung nur Angaben mit Messabstand und Bezug; andernfalls verweisen Sie auf den Hersteller oder lassen Sie die Angabe weg."
+   },
+   {
+    "zitat": "Ist der Rettungsweg nicht schützbar oder die verbleibende Laufbreite zu gering, kann ein Plattformlift eine Alternative sein.",
+    "ersatz": "Ist der Rettungsweg nicht schützbar oder die verbleibende Laufbreite zu gering, kann ein vertikaler Plattformlift eine Alternative sein."
+   },
+   {
+    "zitat": "Fördermöglichkeiten im MFH sind Einzelfall – einen Überblick gibt",
+    "ersatz": "Fördermöglichkeiten im MFH sind eine Einzelfallfrage – einen Überblick gibt"
+   },
+   {
+    "zitat": "nennen für Plattformtreppenlifte einen Einstieg ab ca. 9.000 € inklusive Lieferung und Einbau für eine einfache gerade Treppe.",
+    "ersatz": "nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,– inklusive Lieferung und Einbau für eine einfache gerade Treppe."
+   },
+   {
+    "zitat": "nennen für Plattformtreppenlifte einen Einstieg ab ca. 9.000 € inklusive Lieferung und Einbau für eine einfache gerade Treppe; das ist eine Orientierung, kein MFH-Preis.",
+    "ersatz": "nennen für Plattformtreppenlifte einen Einstieg ab ca. € 9.000,– inklusive Lieferung und Einbau für eine einfache gerade Treppe; das ist eine Orientierung, kein MFH-Preis."
+   },
+   {
+    "zitat": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn die verbleibende Laufbreite im Einzelfall nicht ausreicht.",
+    "ersatz": "ob und in welchem Umfang bei mehrgeschossiger Führung Warteflächen erforderlich sind, klären Sie mit der Bauaufsicht."
+   }
+  ],
+  "an_lehner_melden": [
+   "Stratos NG/A: Widerspruch bei Plattformgröße (Highlight bis 900 × 1400 mm vs. technische Spezifikationen bis 800 × 1000 mm) bitte klären.",
+   "Neo: Widersprüchliche Normangabe beim Fußbrett (EN 81-40 vs. EN 81-41) bitte korrigieren.",
+   "Omega: Traglastdarstellung „bis zu 300 kg“ vs. „225 kg (optional 300 kg)“ präzisieren.",
+   "Stratos NG/A: Traglastdarstellung „bis zu 350 kg“ vs. „225 kg (optional 350 kg)“ präzisieren.",
+   "Delta: FAQ fragt nach Wand- oder Pfostenbefestigung, beantwortet sie aber nicht. Bitte ergänzen.",
+   "Kosten: Einheitliche Euro-Schreibweise (€ 9.000,–) und ggf. konkrete Angaben zu Elevex/StepSaver („kostengünstig“/„kosteneffizient“) prüfen.",
+   "Fehlende Angaben zu Brandschutz, Erlaubnis und WEG/Verwaltung in den Produkttexten: Für Magazinartikel relevante Einzelfallhinweise bitte bereitstellen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/sgb_11/__40.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__21.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/woeigg/__5.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppenlift-HI8762840.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

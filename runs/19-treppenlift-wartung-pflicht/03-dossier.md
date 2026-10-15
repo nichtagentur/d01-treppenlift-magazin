@@ -1,0 +1,44 @@
+# Rechercheergebnis: „Treppenlift Wartung Pflicht?"
+
+**Wichtiger Hinweis vorab:** Die vorliegenden Websuchen enthalten **keine** Treffer, die einen Treppenlift ausdrücklich als Medizinprodukt einordnen, die MDR-Risikoklasse nennen oder DIN EN 81-40 inhaltlich wiedergeben. Die unten stehenden belegbaren Aussagen betreffen daher überwiegend den **rechtlichen Rahmen** (MPBetreibV, BetrSichV, BAuA) sowie einen **Analogiehinweis zu Aufzügen** (Schindler). Alles, was nicht belegbar ist, ist am Ende gelistet.
+
+| Aussage | Quelle (gefundene URL) | primär/sekundär |
+|---|---|---|
+| Der Betreiber hat Produkte sowie mit Produkten verbundene Gegenstände instand zu halten oder instand halten zu lassen (§ 7 Abs. 1 MPBetreibV). | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/mpbetreibv_2025/MPBetreibV.pdf) | primär |
+| Der Betreiber einer Gesundheitseinrichtung muss eine Funktions-E-Mail-Adresse des Beauftragten für Medizinproduktesicherheit bekannt machen (§ 6 MPBetreibV). | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/mpbetreibv_2025/MPBetreibV.pdf) | primär |
+| Sicherheitstechnische Kontrollen sind nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen bzw. durchführen zu lassen (§ 12 MPBetreibV). | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/mpbetreibv%5F2025/__12.html) | primär |
+| Die MPBetreibV gliedert u. a. § 7 „Instandhaltung von Produkten", § 8 „Aufbereitung von Produkten", § 9 „Aufbereitung und Weiterverwendung von Einmalprodukten", § 10 „Qualitätssicherungssystem für medizinische Laboratorien". | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/mpbetreibv_2025/) | primär |
+| BetrSichV-Definitionen: „Instandhaltung" = Gesamtheit aller Maßnahmen zur Erhaltung/Rückführung des sicheren Zustands, umfasst Inspektion, Wartung, Instandsetzung; „Prüfung" = Ermittlung des Istzustands, Vergleich mit Sollzustand und Bewertung der Abweichung. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| „Zur Prüfung befähigte Person" ist eine Person mit entsprechender Berufsausbildung, Berufserfahrung und zeitnaher beruflicher Tätigkeit; Anhänge 2 und 3 können weitergehende Anforderungen enthalten. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| Der Arbeitgeber hat Art und Umfang erforderlicher Prüfungen sowie Fristen wiederkehrender Prüfungen selbst zu ermitteln und festzulegen, soweit die BetrSichV keine Vorgaben enthält; Fristen sind so zu wählen, dass eine sichere Verwendung bis zur nächsten Prüfung möglich ist (§ 3 Abs. 6 BetrSichV). | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| Instandhaltungsmaßnahmen dürfen nur von fachkundigen, beauftragten und unterwiesenen Beschäftigten oder von geeigneten Auftragnehmern mit vergleichbarer Qualifikation durchgeführt werden; die Betriebsanleitung des Herstellers ist zu berücksichtigen. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| Ergebnisse von Prüfungen sind aufzuzeichnen und mindestens bis zur nächsten Prüfung aufzubewahren; die Aufzeichnung muss Art, Umfang, Ergebnis der Prüfung sowie Name und Unterschrift (bzw. elektronische Signatur) der befähigten Person enthalten. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| Zum Betreiberkreis nach BetrSichV zählt auch, wer – ohne Arbeitgeber zu sein – zu gewerblichen oder wirtschaftlichen Zwecken eine überwachungsbedürftige Anlage verwendet. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html) | primär |
+| Anhang 2 der BetrSichV (zu §§ 15, 16) enthält Prüfvorschriften für überwachungsbedürftige Anlagen; Anhang 2 Abschnitt 2 Nr. 4.1/4.3, Abschnitt 3 Nr. 5.1–5.3 und Abschnitt 4 Nr. 5.8 (i. V. m. Tabelle 1) nennen Höchstfristen. | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrsichv_2015/anhang_2.html) | primär |
+| Die Anforderungen an Benutzung und Erhalt elektrischer Produkte am Arbeitsplatz sind in der BetrSichV geregelt; der **private Bereich unterliegt nicht der BetrSichV**, dort ist die Betriebsanleitung die wichtigste Informationsquelle. | [baua.de](https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand) | primär (Behörde) |
+| „Benutzung" umfasst nach § 2 Abs. 3 BetrSichV u. a. Erprobung, Ingangsetzen, Stillsetzen, Gebrauch, Instandsetzung, Wartung, Prüfung, Sicherheitsmaßnahmen bei Betriebsstörungen, Um-/Abbau und Transport. | [baua.de](https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand) | primär (Behörde) |
+| Für Betrieb elektrischer Arbeitsmittel sind insbesondere TRBS 1111 (Gefährdungsbeurteilung), TRBS 1201 (Prüfungen) und TRBS 1203 (befähigte Personen) anzuwenden; zusätzlich DGUV Vorschrift 3 und VDE 0105-100. | [baua.de](https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand) | primär (Behörde) |
+| Beschäftigte, die Instandsetzungs-, Wartungs- und Umbauarbeiten durchführen, benötigen spezielle Unterweisungen (§ 9 BetrSichV). | [baua.de](https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand) | primär (Behörde) |
+| Die Musterbauordnung (MBO) enthält in § 85 Abs. 5 einen Ermächtigungsparagraphen, der es Bundesländern erlaubt, per Rechtsverordnung festzulegen, ob Aufzüge in rein privat genutzten Gebäuden unter ProdSG und BetrSichV fallen – auch ohne Arbeitnehmer/gewerbliche Zwecke; Umsetzung je nach Land in LBO oder Durchführungsverordnung. | [schindler.de](https://www.schindler.de/de/ratgeber/betreiberpflichten-privathaeuser.html) | sekundär (Hersteller) |
+| In Ländern mit geltenden Betreiberpflichten sind regelmäßige Prüfungen durch eine Zugelassene Überwachungsstelle (ZÜS), Instandhaltung und eine funktionierende Zwei-Wege-Kommunikation zur ständig besetzten Notrufstelle verpflichtend – auch im Einfamilienhaus. | [schindler.de](https://www.schindler.de/de/ratgeber/betreiberpflichten-privathaeuser.html) | sekundär (Hersteller) |
+| Bei Abwicklung über Garantie sind Kostenbeteiligungen möglich; der Nacherfüllungsanspruch aus einem Werkvertrag kann die Reparatur kostenfrei stellen – Garantievereinbarung prüfen. | [verbraucherzentrale.de](https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf) | sekundär |
+
+---
+
+## Nicht belegbar (in den vorliegenden Suchergebnissen nicht enthalten)
+
+Folgende Recherchefragen konnten mit dem vorliegenden Material **nicht** belegt werden – hier wäre eine gezielte Nachrecherche nötig:
+
+- **Treppenlift als Medizinprodukt / MDR-Risikoklasse:** Keine Quelle ordnet einen Treppenlift ausdrücklich als Medizinprodukt ein oder nennt eine Klassifizierung nach MDR (z. B. Klasse I/IIa).
+- **Anwendbarkeit der MPBetreibV auf private Treppenlifte:** Die §§ 6, 7, 12 MPBetreibV wurden gefunden, eine Aussage zur Anwendbarkeit auf private Treppenlifte fehlt.
+- **Gewerblicher Treppenlift unter BetrSichV / Prüfung durch befähigte Person:** Der BetrSichV-Rahmen (inkl. gewerblicher Nutzer) ist belegt, die konkrete Subsumtion eines Treppenlifts fehlt.
+- **DGUV Vorschrift 3 – konkrete Prüffristen:** Nur als anzuwendende Regel genannt (BAuA), keine Fristen oder Qualifikationsdetails im Detail.
+- **DGUV Vorschrift 1 / ArbSchG – Arbeitgeberpflichten konkret zum Treppenlift:** Keine Fundstelle.
+- **Verkehrssicherungspflicht (§ 823 BGB), Rechtsprechung zu technischen Anlagen im Gebäude:** Keine Fundstelle.
+- **§ 535 BGB – Instandhaltungspflichten Vermieter und Umlagefähigkeit von Wartungskosten:** Keine Fundstelle.
+- **Lehner Lifttechnik – Wartungsintervalle, technische Unterlagen, Wartungsverträge:** Keine Fundstelle.
+- **Versichererauflagen (Gebäude-, Haftpflicht-, Betriebsversicherung) und Folgen fehlender Wartung für Versicherungsschutz:** Keine Fundstelle.
+- **Produkthaftung / Gewährleistung bei unterlassener Wartung – einschlägige Rechtsprechung:** Nur allgemeiner Garantie-/Werkvertragshinweis der Verbraucherzentrale, keine Rechtsprechung.
+- **DIN EN 81-40 – Anforderungen und Wartungsintervalle:** Keine Normquelle gefunden.
+- **Aktuelle DGUV-Informationen speziell zu Treppenliften/Plattformliften (DE/AT):** Keine Fundstelle.
+- **Analogie Aufzug → Treppenlift:** Die Schindler-Quelle betrifft ausdrücklich **Aufzüge**, nicht Treppenlifte; eine Übertragung ist rechtlich nicht belegt und sollte im Artikel ausdrücklich als Analogie gekennzeichnet werden.

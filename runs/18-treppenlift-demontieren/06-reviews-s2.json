@@ -1,0 +1,119 @@
+{
+ "qa": {
+  "score": 74,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft, Stand: Oktober 2026.",
+    "korrektur": "Für Sicherheits-, Elektro- und Rechtshinweise ist eine qualifizierte menschliche Fachprüfung zu benennen oder der Artikel auf eine reine, klar gekennzeichnete Herstellerzusammenfassung ohne eigene Handlungsanweisungen zu beschränken; 'automatisch geprüft' ersetzt keine Fachexpertise."
+   },
+   {
+    "zitat": "DGUV Information 208-029 – Fahrtreppen und Fahrsteige (nicht Treppenlifte; Aussagen nur analog übertragbar)",
+    "korrektur": "Unpassende Quelle entfernen; für Treppenlift-Sicherheit nur einschlägige Herstellerunterlagen, Normen oder berufsgenossenschaftliche Quellen zu Treppenliften verwenden."
+   },
+   {
+    "zitat": "Allgemein gilt als Orientierung – ausdrücklich nicht als Treppenlift-Norm –, dass Montage, Demontage und Instandhaltung nur geeignete und fachkundige Personen ausführen sollten.",
+    "korrektur": "Aussage mit konkreter Quelle belegen oder als allgemeine, unbelegte Sicherheitserwartung streichen; keine Quasi-Norm ohne Quelle."
+   },
+   {
+    "zitat": "Die dort verwendete Pulverbeschichtung sei blei- und cadmiumfrei.",
+    "korrektur": "Streichen; für Demontage und Rückbau nicht relevant und ohne unabhängige Quelle nicht als Umwelt- oder Gesundheitsaussage führen."
+   },
+   {
+    "zitat": "Bei Lifta ist der Rückbau ein eigener Serviceweg: Nach Angaben von Lifta werden ausschließlich gebrauchte Lifta-Treppenlifte aus eigenem Hause angekauft; Fremdfabrikate werden nicht angekauft.",
+    "korrektur": "Wiederholung im FAQ kürzen und auf den bereits genannten Abschnitt verweisen; FAQ sollen die Antwort verdichten, nicht denselben Text erneut ausrollen."
+   },
+   {
+    "zitat": "Hiro bewirbt den Rückbau als Service. Eine Wiederherstellung der Treppe im Ursprungszustand kann nicht zugesagt werden; Spuren und verbleibende Bohrlöcher sind vorab zu dokumentieren.",
+    "korrektur": "Den zweiten Satz nicht direkt an Hiro anschließen; als allgemeine Einzelfallaussage kennzeichnen oder eine Hiro-spezifische Quelle nennen. Sonst entsteht der Eindruck, Hiro sage dies zu."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Für die Entsorgung von Batterien und Elektrobauteilen bestehen Rücknahmeregelungen; deren konkrete Ausgestaltung und die örtliche Annahme sind mit dem Entsorger zu klären.",
+    "korrektur": "entschärfen oder streichen: ElektroG, BattG und kommunale Annahmeregeln sind im Dossier ausdrücklich nicht belegbar. Zulässig wäre nur: \"Ob und über welchen Weg Akkus und Elektrobauteile zurückgenommen oder entsorgt werden, klären Sie im Einzelfall mit Hersteller oder Entsorger.\""
+   },
+   {
+    "zitat": "Typische Befestigungsvarianten und ihre Spuren – vor dem Ausbau prüfen (Tabelle: u. a. \"Schraubenlänge, Unterleghölzer, Treppenstufenmaterial\", \"Anpressdruck, Oberflächenschutz, Klemmbereich\", \"Druckstellen, ggf. Lackabtrag\", \"Dübellöcher, ggf. Fliesenarbeiten\")",
+    "korrektur": "entschärfen oder streichen: Eine technische Befestigungsdokumentation liegt nicht vor; belegt ist nur der allgemeine Lifta-Hinweis auf mögliche Bohrlöcher. Die Tabellenangaben zu Prüfpunkten und Spuren (Unterleghölzer, Anpressdruck, Dübel-/Fliesenarbeiten) sind unbelegt und sollten als allgemeine, systemabhängige Hinweise formuliert oder entfernt werden."
+   },
+   {
+    "zitat": "Für Lifte im Freien gelten zusätzliche Punkte: Witterung, Korrosion und Feuchtigkeit an elektrischen Komponenten.",
+    "korrektur": "entschärfen: Konkrete Witterungs-/Korrosionsvorgaben liegen nicht vor. Formulieren als \"Bei Liften im Freien können Witterung, Korrosion und Feuchtigkeit an elektrischen Komponenten den Rückbau beeinflussen; klären Sie dies im Einzelfall mit dem Hersteller.\""
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "klein",
+    "zitat": "eine generelle gesetzliche Freigabepflicht ist uns nicht bekannt",
+    "ersatz": "Ob eine gesetzliche Freigabe-, Anzeige- oder Genehmigungspflicht besteht, ist im Einzelfall mit Hersteller, Bauaufsicht oder zuständiger Stelle zu klären; eine pauschale Negativaussage sollte unterbleiben."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach Angaben von Lifta ist die Demontage durch geschultes Personal notwendig, um Funktion und sichere Wiederverwendung zu gewährleisten",
+    "ersatz": "Nach Angaben von Lifta ist für die Demontage geschultes Personal vorgesehen; ob ein konkretes Gerät sicher wiederverwendet werden kann, ist im Einzelfall mit Hersteller oder Service zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Wiederverwendung ist möglich, aber nicht selbstverständlich.",
+    "ersatz": "Wiederverwendung ist möglich, aber nicht selbstverständlich. Vor Wiederverkauf oder Wiederaufbau sollten Tischler Herstellerfreigabe, technische Prüfung, Dokumentation und Haftungsfragen klären; eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die dort verwendete Pulverbeschichtung sei blei- und cadmiumfrei.",
+    "ersatz": "Angaben zu Materialien und Beschichtungen entnehmen Sie den Herstellerunterlagen; eigene Prüfungen ersetzen diese nicht."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft",
+    "ersatz": "Der Beitrag wurde mit KI-Unterstützung erstellt; eine rechtliche oder technische Prüfung ist damit nicht verbunden."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [],
+  "an_lehner_melden": []
+ },
+ "links": [
+  {
+   "url": "https://hiro.de/hiro-service/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://publikationen.dguv.de/widgets/pdf/download/article/232",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/treppenlift-service/produkt-support/acorn-130",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

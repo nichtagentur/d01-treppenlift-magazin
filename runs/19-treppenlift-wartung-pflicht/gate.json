@@ -1,0 +1,18 @@
+{
+ "qa_score": 85,
+ "qa_stop": [],
+ "fakten_falsch": 0,
+ "legal_mittel_hoch": 3,
+ "links_tot": [],
+ "gegencheck_score": 94,
+ "ok_vor_gegencheck": false,
+ "bestanden": false,
+ "query": "treppenlift wartung pflicht",
+ "slug": "19-treppenlift-wartung-pflicht",
+ "h1": "Treppenlift Wartung Pflicht? Einordnung für private, gewerbliche und vermietete Nutzung",
+ "kosten_usd": 0.4571,
+ "llm_calls": 30,
+ "modell": "deepseek/deepseek-v4.1-flash",
+ "gegencheck_modell": "google/gemini-4-argon",
+ "datum": "2026-10-15"
+}

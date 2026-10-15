@@ -1,0 +1,247 @@
+{
+ "qa": {
+  "score": 70,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Die Demontage eines Treppenlifts ist eine eigene Leistung, die nach Herstellerunterlagen und mit Herstellerfreigabe erfolgt.",
+    "korrektur": "Als Regelfall/Herstellervorgabe kennzeichnen: 'sollte nach Herstellerunterlagen und nach Rücksprache mit Hersteller/Service erfolgen; eine generelle gesetzliche Freigabepflicht besteht nicht.'"
+   },
+   {
+    "zitat": "Treppenlifte sind ortsfeste elektrische Betriebsmittel. Die Trennung vom Netz ist nicht Aufgabe des Tischlers, sondern einer qualifizierten Person, in der Regel einer Elektrofachkraft oder einer elektrotechnisch unterwiesenen Person im Rahmen der Herstellervorgaben.",
+    "korrektur": "Einordnung und Zuständigkeit mit Quelle belegen und entschärfen: 'Die elektrische Trennung darf nur durch eine dafür qualifizierte Person erfolgen; ein Tischler nur mit entsprechender Qualifikation und Herstellerfreigabe.'"
+   },
+   {
+    "zitat": "Markenspezifische Angaben zu Acorn, Handicare, Hiro und Lifta gehören ausschließlich in die jeweiligen Herstellerunterlagen.",
+    "korrektur": "Formulierung an den Artikel anpassen: 'Konkrete, freigegebene Demontageschritte gehören in die Herstellerunterlagen; öffentliche Hinweise im Artikel sind nur Orientierung.'"
+   },
+   {
+    "zitat": "Zu Acorn, Handicare und Hiro liegen öffentlich nur Service-, Support- und Bedienungsunterlagen vor, keine Demontageanleitungen.",
+    "korrektur": "Entschärfen: 'Nach unserer Recherche lagen keine vollständigen öffentlichen Demontageanleitungen vor; Handicare-Handbuch enthält einzelne Schritte. Im Einzelfall beim Hersteller prüfen.'"
+   },
+   {
+    "zitat": "Handicare 1100 – Handbuch (ManualsLib)",
+    "korrektur": "Für Sicherheitsangaben Hersteller-Primärquelle verlinken oder ausdrücklich als Drittanbieter-Kopie kennzeichnen."
+   },
+   {
+    "zitat": "Lehner Lifttechnik – Sitzlift Neo (Betreiber dieses Magazins)",
+    "korrektur": "Nur tatsächlich im Text verwendete eigene Produkte als Quelle verlinken; nicht verwendete Produktlinks (Neo, Delta, Omega, Stratos NG/A) entfernen oder separat als Produktübersicht kennzeichnen."
+   },
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt und automatisch geprüft.",
+    "korrektur": "Für Sicherheits-/Elektroaussagen qualifizierte Fachprüfung benennen oder auf unabhängige Fachberatung verweisen; 'automatisch geprüft' ist keine fachliche Prüfung."
+   },
+   {
+    "zitat": "Rückbau begegnet Ihnen in der Praxis in mehreren Situationen: Ein Mieter zieht aus und der Lift soll mit.",
+    "korrektur": "Im ersten Absatz den Länderbezug klarstellen: Fokus Deutschland bzw. AT/DE/CH; Normen, Mietrecht und Entsorgung sind länderabhängig."
+   },
+   {
+    "zitat": "Stand: Oktober 2026",
+    "korrektur": "Nächsten Review-Termin und Korrekturweg/Änderungslog ergänzen, besonders bei Sicherheits- und Normbezug."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Die Demontage eines Treppenlifts ist eine eigene Leistung, die nach Herstellerunterlagen und mit Herstellerfreigabe erfolgt.",
+    "korrektur": "entschärfen oder streichen: Eine generelle Pflicht zur Herstellerfreigabe ist im Dossier nicht belegt (eine Demontage durch Tischler/Schreiner wird von den Herstellern nicht ausdrücklich ausgeschlossen). Formulieren als Erwartung: \"... die in der Regel nach Herstellerunterlagen und nach Rücksprache mit dem Hersteller erfolgt.\""
+   },
+   {
+    "zitat": "Treppenlifte sind ortsfeste elektrische Betriebsmittel. Die Trennung vom Netz ist nicht Aufgabe des Tischlers, sondern einer qualifizierten Person, in der Regel einer Elektrofachkraft oder einer elektrotechnisch unterwiesenen Person im Rahmen der Herstellervorgaben.",
+    "korrektur": "entschärfen oder streichen: Für die Zuordnung der elektrischen Trennung liegen im Dossier keine Primärquellen vor (BetrSichV, DGUV Vorschrift 3, DIN VDE 0100/0105 ausdrücklich \"nicht belegbar\"). Als Empfehlung formulieren: \"Klären Sie im Einzelfall mit dem Hersteller bzw. seinem Service und einer Elektrofachkraft, wer die elektrische Trennung übernimmt.\""
+   },
+   {
+    "zitat": "Für die Schiene gilt grundsätzlich: Zuerst die beweglichen Teile, dann die Schienenverbindungen, dann die Befestigung am Baukörper.",
+    "korrektur": "entschärfen: Das Dossier enthält keine Demontagereihenfolge; der Artikel selbst schreibt, es gebe keine allgemeingültige Reihenfolge. Als unverbindliche Orientierung kennzeichnen (\"eine häufige Vorgehensweise ist\") oder streichen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "die Treppe anschließend wieder im Ursprungszustand ist. Das ist die Zielmarke.",
+    "ersatz": "Hiro bewirbt den Rückbau als Service. Ob die Treppe danach wieder im Ursprungszustand ist, hängt vom Einzelfall ab und darf nicht zugesagt werden; Spuren und verbleibende Bohrlöcher sind vorab zu dokumentieren."
+   },
+   {
+    "schwere": "hoch",
+    "zitat": "Die Trennung vom Netz ist nicht Aufgabe des Tischlers, sondern einer qualifizierten Person, in der Regel einer Elektrofachkraft oder einer elektrotechnisch unterwiesenen Person im Rahmen der Herstellervorgaben.",
+    "ersatz": "Die Trennung vom Netz darf nur durch eine für diese Tätigkeit qualifizierte Person erfolgen. Ob der Tischler dafür qualifiziert ist, ist anhand von Herstellervorgaben, Ausbildung und Gefährdungsbeurteilung im Einzelfall zu klären."
+   },
+   {
+    "schwere": "hoch",
+    "zitat": "Die Demontage eines Treppenlifts ist eine eigene Leistung, die nach Herstellerunterlagen und mit Herstellerfreigabe erfolgt.",
+    "ersatz": "Die Demontage ist eine eigenständige Leistung. Sie sollte nach den Herstellerunterlagen erfolgen; ob und in welcher Form eine Herstellerfreigabe erforderlich ist, ist im Einzelfall mit dem Hersteller zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Für die Schiene gilt grundsätzlich: Zuerst die beweglichen Teile, dann die Schienenverbindungen, dann die Befestigung am Baukörper.",
+    "ersatz": "Für die Schiene kann als Orientierung gelten: zuerst bewegliche Teile, dann Schienenverbindungen, dann die Befestigung am Baukörper. Maßgeblich ist die Herstelleranleitung des konkreten Modells."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Demontage ist weder Montage noch Wartung.",
+    "ersatz": "Demontage sollte als eigenständige Leistung kalkuliert und beauftragt werden; ob sie vertraglich Montage oder Wartung zuzuordnen ist, ist im Einzelfall zu prüfen."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Batterien und Motoren werden dem Sondermüll zugeführt.",
+    "ersatz": "Zur Entsorgung von Batterien und Elektrobauteilen gelten die gesetzlichen Rücknahmeregelungen; die konkrete Annahme ist mit dem örtlichen Entsorger zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Lifta etwa weist auf seiner Rückbau-Seite darauf hin, dass die Demontage durch geschultes Personal erfolgen soll, damit die Funktion des Geräts erhalten bleibt und eine sichere Wiederverwendung möglich ist.",
+    "ersatz": "Lifta empfiehlt für die Demontage geschultes Personal. Eine Wiederverwendung setzt eine Prüfung des konkreten Geräts voraus; eine sichere Funktion ist nicht allein durch die Demontage garantiert."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Lifta kauft ausschließlich gebrauchte Lifta-Treppenlifte aus eigenem Hause an; Fremdfabrikate werden nicht angekauft.",
+    "ersatz": "Nach Angaben von Lifta werden ausschließlich gebrauchte Lifta-Treppenlifte aus eigenem Hause angekauft; Fremdfabrikate werden nicht angekauft. Aktuelle Bedingungen beim Anbieter prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die Prüfung ist kostenlos und unverbindlich. Der Rücknahmeprozess läuft in fünf Schritten: Kontakt, Prüfung, Angebot, Auftrag, Abbau und Abholung.",
+    "ersatz": "Nach Angaben von Lifta ist die Prüfung kostenlos und unverbindlich; der Rücknahmeprozess läuft in fünf Schritten. Aktuelle Bedingungen beim Anbieter prüfen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Liegen keine freigegebenen Demontageunterlagen vor, ist der Herstellerservice der richtige Weg.",
+    "ersatz": "Liegen keine freigegebenen Demontageunterlagen vor, ist in der Regel der Herstellerservice der erste Ansprechpartner; im Einzelfall können auch andere qualifizierte Stellen geeignet sein."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Zu Acorn, Handicare und Hiro liegen öffentlich nur Service-, Support- und Bedienungsunterlagen vor, keine Demontageanleitungen.",
+    "ersatz": "Uns lagen zu Acorn, Handicare und Hiro öffentlich keine Demontageanleitungen vor, sondern nur Service-, Support- und Bedienungsunterlagen."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Betreiber dieses Magazins: Lehner Lifttechnik. KI-gestützt erstellt und geprüft."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min.",
+    "ersatz": "Stand: Oktober 2026 · Treppenlift-Magazin (Betreiber dieses Magazins: Lehner Lifttechnik) · Lesezeit ca. 8 Min."
+   },
+   {
+    "zitat": "Beim Sitzlift Alpha des Magazinbetreibers Lehner Lifttechnik sind laut Produktseite mehrere Varianten vorgesehen:",
+    "ersatz": "Beim Sitzlift Alpha von Lehner Lifttechnik (Betreiber dieses Magazins) sind laut Produktseite mehrere Varianten vorgesehen:"
+   },
+   {
+    "zitat": "Treppenlifte sind ortsfeste elektrische Betriebsmittel.",
+    "ersatz": "Treppenlifte sind in der Regel ortsfeste elektrische Betriebsmittel."
+   },
+   {
+    "zitat": "Für die Schiene gilt grundsätzlich: Zuerst die beweglichen Teile, dann die Schienenverbindungen, dann die Befestigung am Baukörper.",
+    "ersatz": "Als Orientierung aus öffentlich zugänglichen Handbüchern gilt häufig: zuerst die beweglichen Teile, dann die Schienenverbindungen, dann die Befestigung am Baukörper. Verbindlich ist die Herstelleranleitung."
+   },
+   {
+    "zitat": "Lifta kauft ausschließlich gebrauchte Lifta-Treppenlifte aus eigenem Hause an; Fremdfabrikate werden nicht angekauft.",
+    "ersatz": "Nach eigenen Angaben kauft Lifta ausschließlich gebrauchte Lifta-Treppenlifte an; Fremdfabrikate werden nicht angekauft."
+   },
+   {
+    "zitat": "Die Prüfung ist kostenlos und unverbindlich. Der Rücknahmeprozess läuft in fünf Schritten: Kontakt, Prüfung, Angebot, Auftrag, Abbau und Abholung.",
+    "ersatz": "Nach Anbieterangaben ist die Prüfung kostenlos und unverbindlich. Der Rücknahmeprozess läuft in fünf Schritten: Kontakt, Prüfung, Angebot, Auftrag, Abbau und Abholung."
+   },
+   {
+    "zitat": "Zu Acorn, Handicare und Hiro liegen öffentlich nur Service-, Support- und Bedienungsunterlagen vor, keine Demontageanleitungen.",
+    "ersatz": "Uns lagen für Acorn, Handicare und Hiro öffentlich nur Service-, Support- und Bedienungsunterlagen vor; Demontageanleitungen waren nicht darunter."
+   },
+   {
+    "zitat": "Für Acorn liegen öffentlich nur Support- und Bedienungsunterlagen vor, keine Demontageanleitung.",
+    "ersatz": "Für Acorn lagen uns öffentlich nur Support- und Bedienungsunterlagen vor; eine Demontageanleitung war nicht darunter."
+   },
+   {
+    "zitat": "Konkrete Demontageschritte, eine Fachbetriebspflicht oder technische Vorgaben sind dort öffentlich nicht genannt.",
+    "ersatz": "Uns lagen dazu keine öffentlichen Angaben zu konkreten Demontageschritten, einer Fachbetriebspflicht oder technischen Vorgaben vor."
+   },
+   {
+    "zitat": "Der Hersteller Hiro beschreibt den Rückbau auf seiner Service-Seite so, dass ein Lift „sauber und zuverlässig zurückgebaut\" werden kann",
+    "ersatz": "Der Hersteller Hiro beschreibt den Rückbau auf seiner Service-Seite so, dass ein Lift „sauber und zuverlässig zurückgebaut“ werden kann"
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: EN 81-40 und EN 81-41 werden für dasselbe Fußbrett genannt. Bitte vereinheitlichen.",
+   "Neo: Seitenkopf „Coming soon“ widerspricht Text „nun endlich marktreif“. Bitte Status klären.",
+   "Stratos NG/A: Maximale Plattformgröße 900 × 1400 mm wird genannt, fehlt aber in der technischen Liste (700×750, 750×850, 800×900, 800×1000 mm). Bitte prüfen.",
+   "Delta, Omega, Stratos NG/A: Traglastangaben mischen Basiswert 225 kg und optionale Werte (300/350 kg). Bitte Basis und Option klar ausweisen.",
+   "Sigma: Hubhöhe 8000 mm gilt nur für geschlossenen Fahrkorb/Schachtlift. Bitte Kontext in technischen Daten ergänzen.",
+   "Stratos NG/A: Zertifizierung nach EN 81-40:2020 und EU-Maschinenrichtlinie – unklar, ob kumulativ. Bitte präzisieren.",
+   "Alle Produktseiten: Keine expliziten Demontage-/Rückbauhinweise. Für Fachbetriebe wichtig, bitte ergänzen.",
+   "Produktseiten verwenden „Außenbereich“ für Treppenlifte im Freien. Im Baurecht ist „Außenbereich“ ein Fachbegriff; bitte auf „im Freien“ umstellen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://hiro.de/hiro-service/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://publikationen.dguv.de/widgets/pdf/download/article/232",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/neo/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.manualslib.de/guide/1503385/handicare-1100-handbuch.html",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.manualslib.de/manual/937868/Lifta-Basic-500-Serie.html?page=23",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/treppenlift-service/produkt-support/acorn-130",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

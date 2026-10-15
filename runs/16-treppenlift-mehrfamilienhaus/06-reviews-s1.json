@@ -1,0 +1,177 @@
+{
+ "qa": {
+  "score": 30,
+  "stop": [
+   "Stop 2: Impressum/Kontakt nicht im Artikel sichtbar; nur Betreibernennung in Meta und Über diesen Artikel.",
+   "Stop 4: Norm-/Sicherheitszahl 60 cm Restlaufbreite und Aussage zu nichtbrennbaren Materialien ohne Primärquelle; Widerspruch zu 'pauschale Maße nennen wir nicht'."
+  ],
+  "fehler": [
+   {
+    "zitat": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn keine mindestens 60 cm Restlaufbreite gesichert sind",
+    "korrektur": "60 cm nicht ohne Primärquelle (z. B. EN 81-40/Technische Baubestimmungen) als Normzahl nennen; entschärfen zu 'ausreichende Restlaufbreite im Einzelfall mit Bauaufsicht/Hersteller klären' oder Quelle ergänzen."
+   },
+   {
+    "zitat": "Nach den eingeführten Technischen Baubestimmungen kann gefordert sein, dass der Lift aus nichtbrennbaren Materialien besteht, soweit dies technisch möglich ist.",
+    "korrektur": "Quelle für diese Brandschutzanforderung benennen oder Aussage weglassen/entschärfen."
+   },
+   {
+    "zitat": "Die Mindestlaufbreite bezieht sich in der Regel auf die Treppenlauflinie und den Gehbereich.",
+    "korrektur": "Fachlich prüfen und korrigieren: maßgeblich ist die lichte/nutzbare Breite zwischen den engsten Bauteilen; ohne Beleg nicht so stehen lassen."
+   },
+   {
+    "zitat": "Erfahrungsgemäß hilft ein kompakter Projektordner.",
+    "korrektur": "Unbelegte Erfahrungsaussage entschärfen, z. B. 'Hilfreich kann ein kompakter Projektordner sein', oder eigene Erfahrung belegen."
+   },
+   {
+    "zitat": "Die Produktseiten des Betreibers dieses Magazins zu Delta und Omega nennen unter 60 dB",
+    "korrektur": "dB(A), Messbedingungen und Quelle präzisieren; nicht pauschal 'unter 60 dB' nennen."
+   },
+   {
+    "zitat": "§ 40 Abs. 4 SGB XI ist eine Kann-Leistung der Pflegekasse, kein Anspruch.",
+    "korrektur": "Primärquelle (gesetze-im-internet.de) verlinken; Aussage ist inhaltlich korrekt, aber unbelegt."
+   },
+   {
+    "zitat": "„Antrag vor Auftrag“ ist eine Empfehlung der Verbraucherzentrale, nicht gesetzlich vorgeschrieben.",
+    "korrektur": "Quelle der Verbraucherzentrale verlinken oder als unbelegte Empfehlung entfernen."
+   },
+   {
+    "zitat": "keine fachliche Rechts-/Brandschutzprüfung",
+    "korrektur": "Für YMYL-Recht/Brandschutz qualifizierte Fachprüfung benennen oder rechtliche/normative Aussagen auf allgemeine, unbelegte Orientierung beschränken."
+   },
+   {
+    "zitat": "https://www.haufe.de/id/beitrag/treppetreppenhaus-HI637237.html",
+    "korrektur": "URL prüfen; 'treppetreppenhaus' wirkt wie Tippfehler, korrekt vermutlich 'treppenhaus'."
+   },
+   {
+    "zitat": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+    "korrektur": "Direkte, funktionierende Primärquelle verlinken."
+   }
+  ]
+ },
+ "fakten": {
+  "type": "json_object",
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "Für Mietwohnungen brauchen Sie in der Regel die Zustimmung des Vermieters. Ob und in welchem Umfang beim Auszug ein Rückbau verlangt wird, ist eine Frage des Einzelfalls.",
+    "korrektur": "entschärfen: Zum Mietverhältnis (Vermieterzustimmung, Rückbau) liegt im Dossier keine Fundstelle vor. Formulierung als offener Einzelfall: Zustimmung und Rückbau vorab mit Vermieter und Rechtsberatung klären; keine Regelaussage zur Zustimmung treffen."
+   },
+   {
+    "zitat": "Die Mindestlaufbreite bezieht sich in der Regel auf die Treppenlauflinie und den Gehbereich.",
+    "korrektur": "entschärfen oder streichen: Im Dossier sind Treppenlauflinie und Gehbereich nur im Zusammenhang mit dem Lichtraumprofil belegt. Den Bezug zur Mindestlaufbreite offen lassen (im Einzelfall mit der Bauaufsicht klären) oder den Satz streichen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "Bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn keine mindestens 60 cm Restlaufbreite gesichert sind.",
+    "ersatz": "Die erforderliche Restlaufbreite und Wartefläche sind im Einzelfall mit der Bauaufsicht zu klären; pauschale Maße nennen wir nicht. Prüfen Sie die konkreten Anforderungen vor Ort und dokumentieren Sie die Abstimmung."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Der Bundesgerichtshof hat 2024 in einer Entscheidung Hinweise dazu gegeben, dass es für die Rechtmäßigkeit eines Gestattungsbeschlusses zunächst auf die Grenzen des § 20 Abs. 4 WEG ankommen kann.",
+    "ersatz": "Die Rechtmäßigkeit eines Gestattungsbeschlusses ist an den Grenzen des § 20 Abs. 4 WEG zu messen. Ohne konkrete Fundstelle (Aktenzeichen) sollte die BGH-Berufung präzisiert oder entfernt werden."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "https://www.haufe.de/id/beitrag/treppetreppenhaus-HI637237.html",
+    "ersatz": "Quelle prüfen und korrigieren oder entfernen; die URL wirkt fehlerhaft („treppetreppenhaus“)."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die Produktseiten des Betreibers dieses Magazins zu Delta und Omega nennen unter 60 dB; für das konkrete Modell beim Hersteller bestätigen lassen.",
+    "ersatz": "Geräuschentwicklung nur mit Messabstand und Bezug angeben (z. B. „XX dB(A) in Y m Entfernung“); andernfalls weglassen und beim Hersteller erfragen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn keine mindestens 60 cm Restlaufbreite gesichert sind.",
+    "ersatz": "Bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn die verbleibende Laufbreite im Einzelfall nicht ausreicht; die konkreten Anforderungen klären Sie mit der Bauaufsicht."
+   },
+   {
+    "zitat": "Restlaufbreite 60 cm an der Schienenführung prüfen",
+    "ersatz": "Verbleibende Laufbreite an der Schienenführung prüfen und mit der Bauaufsicht abstimmen"
+   },
+   {
+    "zitat": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn keine mindestens 60 cm Restlaufbreite gesichert sind",
+    "ersatz": "bei mehrgeschossiger Führung ist je Geschoss eine ausreichende Wartefläche vorzusehen, wenn die verbleibende Laufbreite im Einzelfall nicht ausreicht; die konkreten Anforderungen klären Sie mit der Bauaufsicht"
+   },
+   {
+    "zitat": "Restlaufbreite von 60 cm an der Schienenführung",
+    "ersatz": "verbleibende Laufbreite an der Schienenführung"
+   },
+   {
+    "zitat": "Nach den eingeführten Technischen Baubestimmungen kann gefordert sein, dass der Lift aus nichtbrennbaren Materialien besteht, soweit dies technisch möglich ist.",
+    "ersatz": "Ob im Einzelfall nichtbrennbare Materialien gefordert werden, klären Sie mit der Bauaufsicht."
+   },
+   {
+    "zitat": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegbar finden. Sie sind für deutsche Betriebe nicht übertragbar.",
+    "ersatz": "Österreichische Vorgaben – etwa wohnrechtliche Bestimmungen und Normen zum Einbau im gemeinsamen Treppenhaus – ließen sich in dieser Recherche nicht belegbar finden. Sie lassen sich nicht ohne weiteres auf deutsche Projekte übertragen."
+   },
+   {
+    "zitat": "Zuständig sind deshalb die Wohnungseigentümergemeinschaft und die Verwaltung – nicht der einzelne Eigentümer allein.",
+    "ersatz": "In der Regel sind deshalb die Wohnungseigentümergemeinschaft und die Verwaltung einzubeziehen; der einzelne Eigentümer allein kann nicht abschließend entscheiden."
+   }
+  ],
+  "an_lehner_melden": [
+   "Stratos NG/A: Widerspruch bei der maximalen Plattformgröße – Highlight/Produktvergleich nennt bis 900 × 1400 mm, technische Spezifikationen listen max. 800 × 1000 mm. Bitte beim Hersteller bestätigen.",
+   "Neo: widersprüchliche Normangabe zum Fußbrett – Sicherheitsbullet nennt EN 81-40, Detailtext EN 81-41. Bitte beim Hersteller klären.",
+   "Omega: Traglast-Darstellung uneinheitlich – Highlight „bis zu 300 kg“ vs. technische Spezifikation „225 kg (optional 300 kg)“. Bitte beim Hersteller bestätigen.",
+   "Stratos NG/A: Traglast-Darstellung uneinheitlich – Highlight „bis zu 350 kg“ vs. technische Spezifikation „225 kg (optional 350 kg)“. Bitte beim Hersteller bestätigen.",
+   "Produktseiten enthalten keine Angaben zu Erlaubnis/Genehmigung, Brandschutz und WEG/Verwaltung. Für künftige Artikel offizielle Herstellerunterlagen anfragen oder Lücke kennzeichnen.",
+   "Delta: FAQ fragt nach Befestigung an Wand oder freistehenden Pfosten, beantwortet die Frage im Text aber nicht. Bitte ergänzen oder beim Hersteller klären.",
+   "Produktseiten verwenden „Außenbereich“ für Treppen im Freien. Im Magazin schreiben wir „im Freien“. Bitte prüfen, ob die Produktseiten angepasst werden."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.bundesfachstelle-barrierefreiheit.de/SharedDocs/Rechtssammlung/WEG",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024026.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppenlift-HI8762840.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.haufe.de/id/beitrag/treppetreppenhaus-HI637237.html",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/omega/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/sigma/",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

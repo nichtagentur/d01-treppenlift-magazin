@@ -1,0 +1,20 @@
+{
+ "qa_score": 45,
+ "qa_stop": [
+  "Stop-Kriterium 4: Normen (z. B. § 40 Abs. 4 SGB XI, §§ 5, 20, 21 WEG) sind nicht durchgehend mit Primärquelle und Abrufdatum belegt."
+ ],
+ "fakten_falsch": 0,
+ "legal_mittel_hoch": 2,
+ "links_tot": [],
+ "gegencheck_score": 94,
+ "ok_vor_gegencheck": false,
+ "bestanden": false,
+ "query": "treppenlift mehrfamilienhaus",
+ "slug": "16-treppenlift-mehrfamilienhaus",
+ "h1": "Treppenlift im Mehrfamilienhaus: Erlaubnis, Brandschutz, Kosten und Abstimmung mit WEG und Verwaltung",
+ "kosten_usd": 0.4935,
+ "llm_calls": 30,
+ "modell": "deepseek/deepseek-v4.1-flash",
+ "gegencheck_modell": "google/gemini-4-argon",
+ "datum": "2026-10-15"
+}

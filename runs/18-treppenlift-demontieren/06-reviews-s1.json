@@ -1,0 +1,145 @@
+{
+ "qa": {
+  "score": 45,
+  "stop": [
+   "Impressum/Kontakt nicht im Artikel/Footer sichtbar verlinkt (QRG 2.5.3, 4.5.1, 5.5)",
+   "Unbelegte Rechtsaussage zur generellen gesetzlichen Freigabepflicht (QRG 3.2/4.4, YMYL Recht)"
+  ],
+  "fehler": [
+   {
+    "zitat": "eine generelle gesetzliche Freigabepflicht besteht nicht",
+    "korrektur": "Rechtsaussage unbelegt. Entweder Primärquelle nennen oder entschärfen: 'Uns ist keine generelle gesetzliche Freigabepflicht bekannt; klären Sie den Einzelfall mit Hersteller, Bauaufsicht oder Rechtsberatung.'"
+   },
+   {
+    "zitat": "für Sicherheits- und Elektroaussagen liegt keine qualifizierte Fachprüfung vor",
+    "korrektur": "Vor Veröffentlichung qualifizierte Fachprüfung (z. B. Elektrofachkraft) einholen und mit Name/Qualifikation ausweisen; bis dahin sicherheitsrelevante Aussagen nur als Verweis auf Hersteller/EFK belassen."
+   },
+   {
+    "zitat": "Betreiber dieses Magazins: Lehner Lifttechnik",
+    "korrektur": "Zusätzlich Impressum, Kontakt (E-Mail, Telefon, Anschrift) und Datenschutz im Footer jeder Seite verlinken; Betreiberangabe allein erfüllt das QRG-Transparenzkriterium nicht."
+   },
+   {
+    "zitat": "Für Handicare 1100 enthielt ein öffentlich zugängliches Handbuch einzelne modellspezifische Hinweise; eine dauerhaft verlinkbare Primärquelle lag uns nicht vor.",
+    "korrektur": "Ohne verlinkbare Primärquelle die Inhaltsbehauptung streichen: 'Zu Handicare 1100 lag uns keine dauerhaft verlinkbare Primärquelle vor; fordern Sie die Herstellerunterlage beim Service an.'"
+   },
+   {
+    "zitat": "Acorn stellt Anleitungen, Hilfe-Videos und Fehlercodes über seinen Vertrieb bereit.",
+    "korrektur": "Quelle ist ein Vertriebspartner, nicht Acorn direkt. Formulierung: 'Acorn-Unterlagen sind über den Vertrieb/Partner erhältlich' und nach Möglichkeit offizielle Acorn-Quelle verlinken."
+   },
+   {
+    "zitat": "Für Elektro- und Batteriegesetz sowie kommunale Regelungen lagen uns keine Primärquellen vor",
+    "korrektur": "ElektroG und BattG sind öffentliche Primärquellen. Verlinken oder Satz streichen; kommunale Annahme beim örtlichen Entsorger klären."
+   },
+   {
+    "zitat": "Nach unserer Recherche lagen zu Acorn, Handicare und Hiro keine vollständigen öffentlichen Demontageanleitungen vor.",
+    "korrektur": "Als Redaktionswissen kennzeichnen: 'Uns lagen keine vollständigen öffentlichen Demontageanleitungen vor.' Keine objektive Aussage über alle öffentlichen Quellen treffen."
+   },
+   {
+    "zitat": "Demontage sollte als eigenständige Leistung kalkuliert und beauftragt werden; ob sie vertraglich Montage oder Wartung zuzuordnen ist, ist im Einzelfall zu prüfen.",
+    "korrektur": "Wiederholung straffen; einmal im Artikel nennen, nicht in Einleitung, Abgrenzung und FAQ wiederholen."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "eine generelle gesetzliche Freigabepflicht besteht nicht",
+    "korrektur": "entschärfen oder streichen – Rechtsaussage ohne belastbare Primärquelle. Besser: \"Eine generelle gesetzliche Freigabepflicht ist uns nicht bekannt; klären Sie den Einzelfall mit Hersteller, Service und ggf. der zuständigen Stelle.\" (Kommt im Artikel zweimal vor: Kurz-gesagt-Box und Abschnitt \"Bestandsaufnahme und Herstellerunterlagen\".)"
+   },
+   {
+    "zitat": "Zur Entsorgung von Batterien und Elektrobauteilen gelten die gesetzlichen Rücknahmeregelungen; die konkrete Annahme ist mit dem örtlichen Entsorger zu klären.",
+    "korrektur": "entschärfen oder streichen – ElektroG und BattG sind laut Dossier nicht belegbar: \"Für die Entsorgung von Batterien und Elektrobauteilen bestehen Rücknahmeregelungen; deren konkrete Ausgestaltung und die örtliche Annahme sind mit dem Entsorger zu klären.\""
+   },
+   {
+    "zitat": "Eine Wiederverwendung setzt eine Prüfung des konkreten Geräts voraus; eine sichere Funktion ist nicht allein durch die Demontage garantiert.",
+    "korrektur": "entschärfen oder streichen – keine Quelle für diese Anforderung; nur Lifta-Aussage zur Demontage durch geschultes Personal belegt. Besser: \"Nach Angaben von Lifta ist die Demontage durch geschultes Personal notwendig, um Funktion und sichere Wiederverwendung zu gewährleisten; ob ein konkretes Gerät wiederverwendbar ist, ist im Einzelfall mit Hersteller oder Service zu klären.\""
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "eine generelle gesetzliche Freigabepflicht besteht nicht.",
+    "ersatz": "Eine generelle gesetzliche Freigabepflicht ist uns nicht bekannt; ob im Einzelfall eine Freigabe, Anzeige oder Genehmigung erforderlich ist, klären Sie mit Hersteller, Bauaufsicht oder zuständiger Stelle."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "verbandliche Muster sind uns nicht bekannt, ein eigenes Formular genügt.",
+    "ersatz": "Verbandliche Muster sind uns nicht bekannt; ein eigenes Formular kann ausreichen. Entscheidend sind vollständige Dokumentation und Beweissicherung im Einzelfall."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die Demontage ist eine eigenständige Leistung.",
+    "ersatz": "Die Demontage sollte als eigenständige Leistung behandelt und kalkuliert werden; die vertragliche Einordnung ist im Einzelfall zu prüfen."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "eine generelle gesetzliche Freigabepflicht besteht nicht",
+    "ersatz": "eine generelle gesetzliche Freigabepflicht ist uns nicht bekannt; klären Sie den Einzelfall mit Hersteller oder Service"
+   },
+   {
+    "zitat": "Die Demontage sollte in der Regel nach Herstellerunterlagen und nach Rücksprache mit Hersteller oder Service erfolgen; eine generelle gesetzliche Freigabepflicht besteht nicht.",
+    "ersatz": "Die Demontage sollte in der Regel nach Herstellerunterlagen und nach Rücksprache mit Hersteller oder Service erfolgen; eine generelle gesetzliche Freigabepflicht ist uns nicht bekannt. Klären Sie den Einzelfall mit Hersteller oder Service."
+   },
+   {
+    "zitat": "Die DGUV Information 208-029 zu Fahrtreppen und Fahrsteigen – ausdrücklich nicht zu Treppenliften, Aussagen also nur analog übertragbar – benennt den Grundsatz, dass mit Montage, Demontage und Instandhaltung nur geeignete und fachkundige Personen beauftragt werden dürfen. Als fachkundig gilt dort, wer eine Ausbildung vorzugsweise in Elektrotechnik oder Maschinenbau, eine produktspezifische Schulung oder mehrjährige Erfahrung sowie eine Unterweisung vorweisen kann.",
+    "ersatz": "Allgemein gilt: Montage, Demontage und Instandhaltung sollten nur geeignete und fachkundige Personen ausführen. Ob Ihr Betrieb dafür fachkundig ist, klären Sie anhand von Herstellervorgaben, Ausbildung und Gefährdungsbeurteilung im Einzelfall."
+   },
+   {
+    "zitat": "Acorn stellt Anleitungen, Hilfe-Videos und Fehlercodes über seinen Vertrieb bereit.",
+    "ersatz": "Für Acorn 130 stellt ein Fachhändler Support mit Bedienungsanleitungen, Hilfe-Videos und Fehlercodes bereit; für Acorn 180 ist eine Bedienungsanleitung öffentlich."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: Fußbrett wird auf der Produktseite einmal nach EN 81-40, einmal nach EN 81-41 genannt; konservativ EN 81-40 verwenden, beim Hersteller bestätigen.",
+   "Neo: Seitenkopf 'Coming soon' widerspricht Text 'marktreif'; Verfügbarkeit beim Hersteller bestätigen.",
+   "Stratos NG/A: Maximale Plattformgröße 900 × 1400 mm steht gegen technische Liste 700×750, 750×850, 800×900, 800×1000 mm; konservativ technische Liste, beim Hersteller bestätigen.",
+   "Delta, Omega, Stratos NG/A: Traglast Basis 225 kg, optional bis 300 bzw. 350 kg; Basis- und Optionalwert immer getrennt ausweisen und beim Hersteller bestätigen.",
+   "Sigma: Hubhöhe 8000 mm gilt nur für geschlossenen Fahrkorb/Schachtlift; Kontext in technischen Angaben ergänzen.",
+   "Stratos NG/A: Zertifizierungen EN 81-40:2020 und EU-Maschinenrichtlinie werden parallel genannt; klären, ob beides kumulativ gilt.",
+   "Für Lehner-Produkte, insbesondere Alpha, liegen keine öffentlichen Demontage-/Rückbauangaben vor; freigegebene Unterlagen für das Magazin beim Hersteller anfragen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://hiro.de/hiro-service/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://publikationen.dguv.de/widgets/pdf/download/article/232",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/treppenlift-service/produkt-support/acorn-130",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

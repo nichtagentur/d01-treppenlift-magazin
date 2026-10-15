@@ -1,0 +1,67 @@
+{
+ "h1": "Treppenlift Wartung Pflicht? Einordnung für private, gewerbliche und vermietete Nutzung",
+ "slug": "treppenlift-wartung-pflicht",
+ "kurzantwort_ziel": "Der Kurzantwort-Block (3–5 Sätze, direkt unter der H1) soll eine pauschale Ja/Nein-Antwort vermeiden: Es gibt keine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft. Faktisch verbindlich kann Wartung jedoch werden – durch Herstellervorgaben, Wartungsverträge, Versicherungsauflagen und, je nach Einzelfall, durch Betreiberpflichten aus Verkehrssicherung, Arbeitsschutz oder Medizinprodukterecht. Der Block endet mit der klaren Handlungsempfehlung für Tischler und Schreiner: Nutzungsart, Herstellerunterlagen, Vertrag und Versicherung prüfen, Ergebnis schriftlich dokumentieren und den Kunden beraten – statt Fristen oder Normen zu nennen, die nicht belegt sind. Hinweis am Blockende: Stand Oktober 2026.",
+ "h2": [
+  "Warum es keine pauschale Antwort auf „Wartung Pflicht?“ gibt",
+  "Private Nutzung im Eigenheim: Wann Betreiberpflichten überhaupt greifen",
+  "Gewerbliche Nutzung: Arbeitsschutz und Prüfpflichten nur im Einzelfall benennen",
+  "Vermietete Immobilie und Mietobjekt: Wer trägt Wartung, Kosten und Nachweis?",
+  "Medizinprodukterecht: Betreiberpflichten prüfen, nicht behaupten",
+  "Herstellervorgaben und Wartungsvertrag: Was in den Unterlagen tatsächlich steht",
+  "Verkehrssicherung und Haftung: Was im Schadensfall zählt",
+  "Nachweispflichten: Wartungsnachweis, Prüfprotokoll und Übergabedokumentation",
+  "Der Wartungsvertrag als Serviceleistung und Haftungsabsicherung für Ihren Betrieb",
+  "Was passiert, wenn Wartung nicht erfolgt? Garantie, Gewährleistung, Versicherung",
+  "Treppenlift im Freien: zusätzliche Prüfpunkte und Witterung im Einzelfall",
+  "Beratungsgespräch und Checkliste für Tischler und Schreiner",
+  "Häufige Fragen zur Treppenlift-Wartungspflicht",
+  "Abgrenzung zu verwandten Artikeln und weiterführende Inhalte"
+ ],
+ "faq": [
+  "Ist Treppenlift Wartung Pflicht oder freiwillig?",
+  "Für wen gilt Treppenlift Wartung Pflicht – privat, gewerblich oder im Mietobjekt?",
+  "Wann beginnt Treppenlift Wartung Pflicht nach Herstellervorgabe oder Vertrag?",
+  "Was umfasst Treppenlift Wartung Pflicht im Alltag?",
+  "Wie oft ist Treppenlift Wartung Pflicht?",
+  "Wer ist für Treppenlift Wartung Pflicht verantwortlich?",
+  "Was passiert, wenn Treppenlift Wartung Pflicht nicht erfüllt wird?",
+  "Gilt Treppenlift Wartung Pflicht auch für Treppenlifte im Freien?"
+ ],
+ "interne_links": [
+  {
+   "datei": "10-treppenlift-montage-vorschriften-wartung.html",
+   "anker": "Montagevorschriften und allgemeine Wartungsabläufe im Überblick"
+  },
+  {
+   "datei": "02-treppenlift-kosten.html",
+   "anker": "Wartungs- und Folgekosten in der Angebotskalkulation"
+  },
+  {
+   "datei": "07-treppenlift-mieten.html",
+   "anker": "Treppenlift mieten: Verträge und Verantwortlichkeiten"
+  },
+  {
+   "datei": "01-treppenlift-leitfaden-tischler.html",
+   "anker": "Leitfaden für Tischler und Schreiner"
+  },
+  {
+   "datei": "06-treppenlift-aussen.html",
+   "anker": "Treppenlift im Freien: Anforderungen und Systeme"
+  }
+ ],
+ "recherchefragen": [
+  "Ist ein Treppenlift nach aktueller Rechtslage ein Medizinprodukt, und welcher Risikoklasse wird er zugeordnet? Welche Betreiberpflichten folgen daraus konkret (MPBetreibV, MDR)?",
+  "Welche Vorschriften der Medizinprodukte-Betreiberverordnung regeln Instandhaltung, Prüfung und Dokumentation, und sind sie auf private Treppenlifte anwendbar?",
+  "Fällt ein gewerblich genutzter Treppenlift unter die Betriebssicherheitsverordnung, und welche Prüfpflichten ergeben sich daraus (Anwendungsbereich, Prüfung durch befähigte Person)?",
+  "Welche Prüffristen und Qualifikationsanforderungen nennt die DGUV Vorschrift 3 für elektrische Betriebsmittel, und gilt sie für Treppenlifte in Betrieben?",
+  "Welche Pflichten aus dem Arbeitsschutzgesetz und der DGUV Vorschrift 1 treffen Arbeitgeber beim Betrieb eines Treppenlifts für Beschäftigte oder Besucher?",
+  "Wie ist die Verkehrssicherungspflicht bei Treppenliften rechtlich eingeordnet (§ 823 BGB, relevante Rechtsprechung zu technischen Anlagen im Gebäude)?",
+  "Welche Pflichten zur Instandhaltung treffen Vermieter nach § 535 BGB, und unter welchen Voraussetzungen sind Wartungskosten auf Mieter umlegbar?",
+  "Welche Wartungsintervalle und Instandhaltungsvorgaben nennt der Hersteller (Lehner Lifttechnik) in seinen technischen Unterlagen und Wartungsverträgen?",
+  "Welche Auflagen machen Gebäude-, Haftpflicht- und Betriebsversicherer für Treppenlifte, und wie wirkt sich fehlende Wartung auf den Versicherungsschutz aus?",
+  "Wie wirkt sich eine nicht durchgeführte Wartung auf Garantie, Gewährleistung und Produkthaftung aus? Gibt es dazu einschlägige Rechtsprechung?",
+  "Welche Anforderungen und Wartungshinweise enthält DIN EN 81-40 für Treppenlifte, und werden dort Wartungsintervalle genannt?",
+  "Gibt es aktuelle DGUV-Informationen oder Branchenhinweise speziell zu Treppenliften und Plattformliften in Deutschland und Österreich?"
+ ]
+}

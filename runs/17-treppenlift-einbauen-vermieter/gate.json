@@ -1,0 +1,18 @@
+{
+ "qa_score": 82,
+ "qa_stop": [],
+ "fakten_falsch": 1,
+ "legal_mittel_hoch": 3,
+ "links_tot": [],
+ "gegencheck_score": 96,
+ "ok_vor_gegencheck": false,
+ "bestanden": false,
+ "query": "treppenlift einbauen vermieter",
+ "slug": "17-treppenlift-einbauen-vermieter",
+ "h1": "Treppenlift einbauen mit Vermieter: Zustimmung, Auftraggeber, Dokumentation und Rückbau",
+ "kosten_usd": 0.439,
+ "llm_calls": 30,
+ "modell": "deepseek/deepseek-v4.1-flash",
+ "gegencheck_modell": "google/gemini-4-argon",
+ "datum": "2026-10-15"
+}

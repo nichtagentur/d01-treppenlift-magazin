@@ -1,0 +1,112 @@
+{
+ "qa": {
+  "score": 85,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "korrektur": "Transparenz präzisieren: \"KI-gestützt erstellt und redaktionell geprüft; keine technische oder rechtliche Fachprüfung\"."
+   },
+   {
+    "zitat": "Der Beitrag wurde mit KI-Unterstützung erstellt; eine rechtliche oder technische Prüfung ist damit nicht verbunden.",
+    "korrektur": "Bei YMYL-Aussagen zu Sicherheit, Elektro und Recht eine qualifizierte Fachprüfung benennen oder die Aussagen strikt als Quellenwiedergabe mit Verweis auf Hersteller, Elektrofachkraft und Bauaufsicht kennzeichnen."
+   },
+   {
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden",
+    "korrektur": "Rechtsberatung vermeiden und entschärfen: \"Gewährleistungs- und Haftungsfragen sind im Einzelfall mit Rechtsberatung oder Hersteller zu klären; keine pauschale Empfehlung zum Ausschluss.\""
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden",
+    "korrektur": "entschärfen oder streichen; zu Gewährleistungsfragen bei gebrauchten Liften liegt im Dossier keine Quelle vor – im Einzelfall rechtlich klären lassen (keine pauschale Ausschlussempfehlung)"
+   },
+   {
+    "zitat": "Angekauft werden laut Anbieter ausschließlich gebrauchte Lifta-Geräte aus eigenem Hause (in der Regel nicht älter als zehn Jahre).",
+    "korrektur": "entschärfen oder streichen; belegt ist nur: Lifte, die älter als zehn Jahre sind, kommen laut Anbieter in der Regel nicht mehr für einen Rückkauf infrage"
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "hoch",
+    "zitat": "eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden",
+    "ersatz": "Haftungs- und Gewährleistungsfragen sind vor Wiederverkauf oder Wiederaufbau im Einzelfall rechtlich zu prüfen; Sicherheits- und Verkehrssicherungspflichten bleiben unberührt."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft)",
+    "ersatz": "Redaktion Treppenlift-Magazin, Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt; keine Rechts- oder Technikprüfung)"
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach Angaben von Lifta ist für die Demontage geschultes Personal vorgesehen, um die Funktionalität des Geräts zu erhalten und eine sichere Wiederverwendung zu gewährleisten",
+    "ersatz": "Nach Angaben von Lifta ist für die Demontage geschultes Personal vorgesehen; eine sichere Wiederverwendung ist im Einzelfall mit Hersteller oder Service zu klären und nicht garantiert."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min.",
+    "ersatz": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin, Betreiber dieses Magazins: Lehner Lifttechnik (KI-gestützt erstellt und geprüft) · Lesezeit ca. 8 Min."
+   },
+   {
+    "zitat": "<h3>Checkliste für den Tischler</h3>",
+    "ersatz": "<h3>Checkliste für Tischler und Schreiner</h3>"
+   },
+   {
+    "zitat": "Vor Wiederverkauf oder Wiederaufbau sollten Tischler Herstellerfreigabe, technische Prüfung, Dokumentation und Haftungsfragen klären; eine Gewährleistung für gebrauchte Lifte sollte, soweit rechtlich zulässig, ausgeschlossen werden.",
+    "ersatz": "Vor Wiederverkauf oder Wiederaufbau sollten Tischler und Schreiner Herstellerfreigabe, technische Prüfung, Dokumentation und Haftungsfragen klären; ob und wie eine Gewährleistung ausgeschlossen werden kann, ist im Einzelfall rechtlich zu prüfen."
+   }
+  ],
+  "an_lehner_melden": [
+   "Produktseiten enthalten keine freigegebenen Demontage-/Rückbauanleitungen für Alpha, Neo, Stratos NG/A, Sigma etc. Bitte prüfen, ob eine eigene Lehner-Rückbau-Richtlinie oder Service-Anweisung veröffentlicht werden kann.",
+   "Alpha: Befestigungsvarianten stimmen mit Produktfakten überein; für Demontage fehlen jedoch herstellerseitige Angaben zu Reihenfolge, Werkzeug, Drehmomenten und Spuren.",
+   "Neo: Widerspruch EN 81-40 vs. EN 81-41 beim Fußbrett auf der Produktseite; konservativ nur eine Norm nennen und beim Hersteller bestätigen lassen.",
+   "Neo: Widerspruch 'Coming soon' vs. 'marktreif'; Verfügbarkeit klären und auf Produktseite eindeutig angeben.",
+   "Stratos NG/A: Plattformgrößen max. 900 × 1400 mm vs. technische Liste 700×750, 750×850, 800×900, 800×1000 mm; Widerspruch klären.",
+   "Stratos NG/A: Traglast 'bis 350 kg' nur optional; Basis 225 kg. Kommunikation in Artikel/Produktseite konservativ trennen.",
+   "Sigma: Hubhöhe max. 8000 mm gilt nur für geschlossenen Fahrkorb/Schachtlift; Kontext ergänzen.",
+   "Stratos NG/A: Zertifizierungen EN 81-40:2020 und EU-Maschinenrichtlinie unklar kumulativ; bitte bestätigen.",
+   "Der Artikel stützt zentrale Rückbau-Aussagen auf Wettbewerber Lifta. Für ein Lehner-Magazin wäre eine eigene, freigegebene Lehner-Position zu Rückbau/Rückkauf wünschenswert.",
+   "Zielgruppe Tischler/Schreiner wird im Artikel angesprochen; Lehner-Partnerprofil nennt diese Berufe nicht. Keine Partnerschaftszusage ableiten, ggf. redaktionelle Trennung klarstellen."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://hiro.de/hiro-service/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://magazine.lifta.de/document/download/65212941/de3bf-3376d-23336-9231f-5ac38-89522-fb6e5-66134",
+   "status": "OK",
+   "code": "202"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/sitz-treppenlifte/alpha/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lifta.de/service/rueckbau-rueckkauf",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/treppenlift-service/produkt-support/acorn-130",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.pflanz-homelift.de/wp-content/uploads/2024/02/Acorn-180-Bedienungsanleitung.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

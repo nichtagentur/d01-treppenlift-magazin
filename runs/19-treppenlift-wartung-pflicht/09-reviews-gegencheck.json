@@ -1,0 +1,131 @@
+{
+ "qa": {
+  "score": 85,
+  "stop": [],
+  "fehler": [
+   {
+    "zitat": "Eine qualifizierte juristische oder technische Fachprüfung ist damit nicht verbunden.",
+    "korrektur": "Für YMYL-Recht/Sicherheit fehlt die nach QRG 3.4.1/5.5 erforderliche qualifizierte Fachprüfung. Entweder eine reale, belegbare Fachprüfung mit Qualifikation benennen oder im Meta nicht 'geprüft' suggerieren und den Artikel klar auf allgemeine, unverbindliche Hinweise mit Verweis auf Fachberatung beschränken."
+   },
+   {
+    "zitat": "Herstellervorgabe, freiwilliger Wartungsvertrag, Versicherungsbedingungen",
+    "korrektur": "Herstellervorgaben sind nicht automatisch gesetzlich verbindlich; sie binden nur, wenn sie wirksam in Vertrag oder Betreiberpflichten einbezogen sind. Tabellenspalte präzisieren, z. B. 'Herstellervorgabe (nur wenn einbezogen)'."
+   }
+  ]
+ },
+ "fakten": {
+  "falsch": [],
+  "unbelegt": [
+   {
+    "zitat": "örtliche oder einzelfallbezogene Betreiberpflichten bleiben zu prüfen",
+    "korrektur": "entschärfen: Örtliche (kommunale) Betreiberpflichten für Treppenlifte sind im Dossier nicht belegt; belegt ist lediglich eine landesrechtliche Regelungsmöglichkeit für Aufzüge (MBO § 85 Abs. 5, sekundär). Besser: \"behördliche oder landesrechtliche Vorgaben im Einzelfall bei der zuständigen Stelle klären\"."
+   },
+   {
+    "zitat": "Verbindlich werden kann Wartung im Einzelfall über Herstellerunterlagen, Wartungsvertrag, Betreiberpflichten oder Versicherungsbedingungen.",
+    "korrektur": "entschärfen: Versichererauflagen sind im Dossier nicht belegt. Versicherungsbedingungen streichen oder ausdrücklich als im Einzelfall beim Versicherer zu klärenden Punkt kennzeichnen."
+   },
+   {
+    "zitat": "Feuchtigkeit, Frost, Laub und UV-Licht setzen Dichtungen, Schienen, Elektrik und Oberflächen zu. Solche Lifte sind wartungsintensiver als Innenanlagen, unabhängig davon, ob eine gesetzliche Pflicht besteht.",
+    "korrektur": "entschärfen: im Dossier nicht belegt. Als praktische Erfahrung kennzeichnen und abschwächen (\"in der Regel wartungsintensiver\") oder streichen."
+   }
+  ]
+ },
+ "legal": {
+  "punkte": [
+   {
+    "schwere": "mittel",
+    "zitat": "Nach der BAuA sind für den Betrieb elektrischer Arbeitsmittel insbesondere TRBS 1111, TRBS 1201 und TRBS 1203 sowie DGUV Vorschrift 3 und VDE 0105-100 anzuwenden.",
+    "ersatz": "Nach der BAuA können für den Betrieb elektrischer Arbeitsmittel je nach Einzelfall insbesondere TRBS 1111, TRBS 1201 und TRBS 1203, DGUV Vorschrift 3 und VDE 0105-100 einschlägig sein. Konkrete Prüffristen speziell für Treppenlifte lassen sich daraus nicht ableiten; der Betreiber bleibt in der Ermittlungspflicht."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen bzw. durchführen zu lassen.",
+    "ersatz": "Soweit § 12 MPBetreibV auf das konkrete Produkt anwendbar ist, sieht er für die dort erfassten Produkte sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre vor. Ob Treppenlifte erfasst sind, ist im Einzelfall zu klären."
+   },
+   {
+    "schwere": "mittel",
+    "zitat": "Klären Sie mit dem Hersteller, ob das konkrete Modell für die Montage im Freien freigegeben ist – wie es in den Produktdaten der Lehner Lifttechnik (Betreiber dieses Magazins) beispielsweise für die Modelle Delta, Stratos NG/A und Elevex ausgewiesen ist.",
+    "ersatz": "Klären Sie mit dem Hersteller, ob das konkrete Modell für die Montage im Freien freigegeben ist; maßgeblich ist die bestätigte technische Spezifikation des gelieferten Modells. Eine pauschale Eignung einzelner Modelle sollte nicht zugesichert werden."
+   },
+   {
+    "schwere": "klein",
+    "zitat": "Die verlässlichste Quelle für Wartungsintervalle ist die Dokumentation des konkreten Produkts.",
+    "ersatz": "Eine zentrale Quelle für Wartungsintervalle ist die Dokumentation des konkreten Produkts; verbindlich können daneben Vertrag, Betreiberpflichten und Versicherungsbedingungen sein."
+   }
+  ]
+ },
+ "marke": {
+  "fehler": [
+   {
+    "zitat": "Nach den vorliegenden Quellen besteht keine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft; örtliche oder einzelfallbezogene Betreiberpflichten bleiben zu prüfen.",
+    "ersatz": "Eine allgemeine gesetzliche Wartungspflicht, die jeden Treppenlift in Deutschland gleichermaßen trifft, lässt sich aus den vorliegenden Quellen nicht ableiten; örtliche oder einzelfallbezogene Betreiberpflichten bleiben zu prüfen."
+   },
+   {
+    "zitat": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin (Betreiber: Lehner Lifttechnik) · KI-gestützt erstellt und geprüft · Lesezeit ca. 8 Min.",
+    "ersatz": "Stand: Oktober 2026 · Redaktion Treppenlift-Magazin (Betreiber dieses Magazins: Lehner Lifttechnik) · KI-gestützt erstellt und geprüft · Lesezeit ca. 8 Min."
+   },
+   {
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen bzw. durchführen zu lassen.",
+    "ersatz": "Die MPBetreibV kann bei Anwendbarkeit sicherheitstechnische Kontrollen vorsehen; ob und in welcher Frist sie Treppenlifte erfasst, ist im Einzelfall zu klären. Eine pauschale Frist für Treppenlifte lässt sich daraus nicht ableiten."
+   },
+   {
+    "zitat": "Nach § 12 MPBetreibV sind sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik spätestens alle zwei Jahre durchzuführen, wenn die MPBetreibV anwendbar ist.",
+    "ersatz": "Die MPBetreibV kann bei Anwendbarkeit sicherheitstechnische Kontrollen vorsehen; ob und in welcher Frist sie Treppenlifte erfasst, ist im Einzelfall zu klären. Eine pauschale Frist für Treppenlifte lässt sich daraus nicht ableiten."
+   }
+  ],
+  "an_lehner_melden": [
+   "Neo: Auf derselben Produktseite steht EN 81-40 im Highlight und EN 81-41 im Punkt 1. Bitte eindeutige Norm bestätigen.",
+   "Omega: Highlight „Traglast bis zu 300 kg“ vs. technische Spezifikation „225 kg (optional 300 kg)“. Bitte konservativen Wert und Option bestätigen.",
+   "Stratos NG/A: Highlight „Traglast bis 350 kg“ vs. technische Spezifikation „225 kg (optional 350 kg)“; Plattformgrößen „bis 900 × 1400 mm“ vs. technische Liste bis 800 × 1000 mm. Bitte Standard- und Optionswerte bestätigen.",
+   "Sigma: „bis 8 m“ gilt laut FAQ nur für geschlossene Variante/Schachtlift; offener Fahrkorb öffentlich bis 3 m, privat bis 4 m. Bitte Kommunikation präzisieren.",
+   "Wartung: In den vorliegenden Produkttexten sind keine Wartungsintervalle, keine Wartungspflicht und keine Unterscheidung privat/gewerblich/vermietet genannt. Bitte Herstellerangaben zu Wartung und Intervallen je Nutzungsart bereitstellen.",
+   "Normen: Delta, Omega und Alpha nennen nur „CE & TÜV zertifiziert nach den neusten Europäischen Richtlinien“; Elevex, Liftboy 4 und StepSaver nennen keine Normen. Bitte konkrete Normen und Zertifikate bestätigen.",
+   "Montage im Freien: Delta, Stratos NG/A und Elevex sind laut Produktseiten für außen/im Freien ausgewiesen. Bitte Freigaben je Modell und Witterungseignung bestätigen.",
+   "Zielgruppe: Lehner nennt Tischler/Schreiner nicht im Partnerprofil. Das Magazin richtet sich an Tischler/Schreiner. Bitte abstimmen, dass daraus keine Partnerschaftszusage abgeleitet wird.",
+   "Firmensitz: Peuerbach seit 2025, zuvor Neukirchen am Walde. Bitte aktuellen Stand für Magazin bestätigen.",
+   "Wartungsintervalle: Bitte in Betriebsanleitung und Produktseiten ergänzen, damit das Magazin keine pauschalen Fristen ableiten muss."
+  ]
+ },
+ "links": [
+  {
+   "url": "https://www.baua.de/DE/Themen/Arbeitsgestaltung/Sichere-Produkte/Elektrische-Produkte/Zustand",
+   "status": "PRUEFEN",
+   "code": "403"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv%5F2025/__12.html",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.gesetze-im-internet.de/mpbetreibv_2025/",
+   "status": "PRUEFEN",
+   "code": "URLError"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/delta/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/plattform-treppenlifte/stratos-ng/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.lehner-lifttechnik.com/lifte/vertikale-plattformlifte/elevex/",
+   "status": "OK",
+   "code": "200"
+  },
+  {
+   "url": "https://www.verbraucherzentrale.de/sites/default/files/2024-09/entscheidungshilfe-fur-den-erwerb-von-treppenlifte.pdf",
+   "status": "OK",
+   "code": "200"
+  }
+ ]
+}

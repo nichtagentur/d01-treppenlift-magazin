@@ -1,0 +1,26 @@
+{
+ "query": "treppenlift wartung pflicht",
+ "autocomplete": [
+  "treppenlift wartung pflicht"
+ ],
+ "intent": "Informationsintention mit Rechts-, Sicherheits- und Haftungskomponente: Betreiber und Fachbetriebe wollen klären, ob und wann eine Treppenlift-Wartung verpflichtend ist, wen die Pflicht trifft und welche Nachweise nötig sind.",
+ "winkel": "Nicht pauschal mit Ja oder Nein antworten. Für Tischler und Schreiner als Beratungs- und Dokumentationsthema aufbereiten: Unterscheidung zwischen privater, gewerblicher und vermieteter Nutzung; mögliche Betreiberpflichten aus Verkehrssicherung, Arbeitsschutz und Medizinprodukterecht nur im Einzelfall benennen; Herstellervorgaben, Wartungsvertrag und Versicherungsauflagen prüfen lassen. Wartungsvertrag als Serviceleistung und Haftungsabsicherung erklären, ohne konkrete Fristen oder Normen zu erfinden. Stand Oktober 2026.",
+ "kannibalisierung": "Nah ist 10-treppenlift-montage-vorschriften-wartung.html, weil dort Vorschriften und Wartung allgemein behandelt werden. Abgrenzung: Der neue Artikel fokussiert ausschließlich die Frage „Wartung Pflicht?“ mit rechtlicher Einordnung, Zuständigkeiten, Nachweispflichten und Haftungsrisiken. Allgemeine Wartungsabläufe, Prüfschritte und Selbsteinbau bleiben in Artikel 10; Wartungsfolgekosten in 02; Miete und Sonderkonstellationen in 07.",
+ "faq_fragen": [
+  "Ist Treppenlift Wartung Pflicht oder freiwillig?",
+  "Für wen gilt Treppenlift Wartung Pflicht – privat, gewerblich oder im Mietobjekt?",
+  "Wann beginnt Treppenlift Wartung Pflicht nach Herstellervorgabe oder Vertrag?",
+  "Was umfasst Treppenlift Wartung Pflicht im Alltag?",
+  "Wie oft ist Treppenlift Wartung Pflicht?",
+  "Wer ist für Treppenlift Wartung Pflicht verantwortlich?",
+  "Was passiert, wenn Treppenlift Wartung Pflicht nicht erfüllt wird?",
+  "Gilt Treppenlift Wartung Pflicht auch für Treppenlifte im Freien?"
+ ],
+ "verwandte_artikel": [
+  "10-treppenlift-montage-vorschriften-wartung.html",
+  "02-treppenlift-kosten.html",
+  "07-treppenlift-mieten.html",
+  "01-treppenlift-leitfaden-tischler.html",
+  "06-treppenlift-aussen.html"
+ ]
+}
