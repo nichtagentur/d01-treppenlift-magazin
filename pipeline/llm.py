@@ -15,7 +15,10 @@ def chat(prompt, model=None, web=False, as_json=False):
     keys = [k for k in (os.environ.get("OPENROUTER_API_KEY"), os.environ.get("OPENROUTER_BACKUP_API_KEY")) if k]
     for i in range(4):
         try:
-            r = _post(body, keys[0]); break
+            r = _post(body, keys[0])
+            txt = r["choices"][0]["message"]["content"] or ""
+            out = parse_json(txt) if as_json else strip_fence(txt)
+            break
         except urllib.error.HTTPError as e:
             if e.code in (401, 402) and len(keys) > 1: keys.pop(0); continue
             if i == 3: raise
@@ -23,8 +26,7 @@ def chat(prompt, model=None, web=False, as_json=False):
             if i == 3: raise
         time.sleep(5 * (i + 1))
     COST["usd"] += (r.get("usage") or {}).get("cost") or 0; COST["calls"] += 1
-    txt = r["choices"][0]["message"]["content"] or ""
-    return parse_json(txt) if as_json else strip_fence(txt)
+    return out
 
 def strip_fence(t):
     t = t.strip()

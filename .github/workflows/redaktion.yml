@@ -10,6 +10,9 @@ on:
       anzahl:
         description: "Anzahl Artikel"
         default: "4"
+      nur_bilder:
+        description: "Gesetzt (z. B. ja): nur fehlende Bilder fuer Live-Artikel erzeugen und neu deployen"
+        default: ""
 concurrency:
   group: redaktion
   cancel-in-progress: false
@@ -20,6 +23,7 @@ env:
   GEGENCHECK_MODEL: google/gemini-4-argon
 jobs:
   plan:
+    if: inputs.nur_bilder == ''
     runs-on: ubuntu-latest
     outputs:
       topics: ${{ steps.p.outputs.topics }}
@@ -32,7 +36,7 @@ jobs:
         run: python3 pipeline/plan.py "$TOPICS" "$ANZAHL" | tee -a "$GITHUB_OUTPUT"
   artikel:
     needs: plan
-    if: needs.plan.outputs.topics != '[]'
+    if: inputs.nur_bilder == '' && needs.plan.outputs.topics != '[]'
     runs-on: ubuntu-latest
     timeout-minutes: 40
     strategy:
@@ -54,11 +58,12 @@ jobs:
           path: |
             runs/${{ matrix.t.nn }}-*
             articles/${{ matrix.t.nn }}-*
+            articles/img/${{ matrix.t.nn }}-*
             articles-zurueckgestellt/${{ matrix.t.nn }}-*
           if-no-files-found: ignore
   publish:
     needs: [plan, artikel]
-    if: always() && needs.plan.outputs.topics != '[]'
+    if: always() && inputs.nur_bilder == '' && needs.plan.outputs.topics != '[]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -77,6 +82,32 @@ jobs:
         run: |
           git config user.name "redaktion-bot"
           git config user.email "redaktion-bot@users.noreply.github.com"
-          git add -A runs articles articles-zurueckgestellt redaktion
+          git add -A runs articles articles/img articles-zurueckgestellt redaktion
           git commit -m "Redaktionslauf $(date -u +%F-%H%M)" || exit 0
+          git pull --rebase && git push
+  bilder:
+    if: inputs.nur_bilder != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bilder fuer Live-Artikel ohne Bild
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          for s in $(cat redaktion/live.txt); do
+            if ! ls articles/img/$s.* >/dev/null 2>&1; then python3 pipeline/image.py "$s" || echo "Bild fehlgeschlagen: $s"; fi
+          done
+      - run: python3 pipeline/publish.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx -y wrangler@4 deploy --name d01-treppenlift-magazin --assets dist --compatibility-date 2026-10-01
+      - run: sleep 5 && python3 pipeline/publish.py --check https://d01-treppenlift-magazin.nichtagentur.workers.dev
+      - if: always()
+        run: |
+          git config user.name "redaktion-bot"
+          git config user.email "redaktion-bot@users.noreply.github.com"
+          git add -A runs articles articles/img redaktion
+          git commit -m "Bilder $(date -u +%F-%H%M)" || exit 0
           git pull --rebase && git push

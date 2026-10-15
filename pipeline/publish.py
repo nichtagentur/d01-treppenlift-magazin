@@ -29,6 +29,9 @@ for s in live:
     t = re.sub(r'<a href="(\d\d-[^"#/]+)\.html(#[^"]*)?">(.*?)</a>', lambda m: m.group(0) if m.group(1) in live else m.group(3), t, flags=re.S)
     open(f"{tmp}/articles/{s}.html", "w", encoding="utf-8").write(t)
 shutil.copy(f"{P}/build.py", tmp); subprocess.run([sys.executable, f"{tmp}/build.py"], check=True)
+for s in live:
+    for b in glob.glob(f"{P}/articles/img/{s}.*"):
+        os.makedirs(f"{tmp}/site/img", exist_ok=True); shutil.copy(b, f"{tmp}/site/img/")
 if os.path.exists(f"{P}/dist"): shutil.rmtree(f"{P}/dist")
 shutil.copytree(f"{tmp}/site", f"{P}/dist")
 os.makedirs(f"{P}/redaktion/laeufe", exist_ok=True)

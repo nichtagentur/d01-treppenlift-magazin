@@ -1,0 +1,18 @@
+{
+ "slug": "11-treppenlift-aussentreppe-montage",
+ "bild": "11-treppenlift-aussentreppe-montage.jpg",
+ "versuche": [
+  {
+   "versuch": 1,
+   "prompt": "Flat editorial vector illustration, clean geometric shapes, soft gradients, bright daylight mood, calm premium B2B magazine look, palette of deep navy #204267, teal blue #15779b, blue-grey #b1bdca, off-white #f0f2f4 with warm walnut wood #8a5a3c and terracotta #c0502f accents, generous white space, no text, no letters, no logos, no photorealism, no close-up faces. Hero illustration, 16:9: two carpenters in stylized silhouette (backs/profiles, no facial details) reviewing a schematic floor plan and checklist at a workbench in a bright workshop, with carpentry tools, measuring tape, pencil, and a house facade model on the table, symbolizing outdoor installation planning and collaboration. no stairs, no steps, no staircase, no railing, no handrail, no stairlift, no lift, no rail, no diagonal pole along a wall, no machine, no text, no logo. Illustration only.",
+   "alt": "Illustration: Zwei Tischler planen am Werktisch mit Plan und Werkzeug die Montage.",
+   "qa": {
+    "ok": true,
+    "gruende": []
+   }
+  }
+ ],
+ "bildmodell": "google/gemini-3.1-flash-lite-image",
+ "vision_modell": "google/gemini-3.8-flash",
+ "kosten_usd": 0.0433
+}

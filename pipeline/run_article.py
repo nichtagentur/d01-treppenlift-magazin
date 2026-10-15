@@ -88,6 +88,14 @@ JSON: {"fehler": [{"zitat": "...", "ersatz": "..."}], "an_lehner_melden": ["..."
     r["links"] = [{"url": u, "status": s, "code": str(c)} for u, s, c in links.result()]
     return r
 
+def ersetze(art, r):
+    """Konkrete Ersatzformulierungen der Prüfer wörtlich übernehmen (zitat -> ersatz/korrektur), bevor das Modell überarbeitet."""
+    n = 0
+    for f in r["legal"].get("punkte", []) + r["marke"].get("fehler", []) + r["fakten"].get("falsch", []) + r["qa"].get("fehler", []):
+        z, e = (f.get("zitat") or "").strip(), (f.get("ersatz") or f.get("korrektur") or "").strip()
+        if len(z) > 15 and e and z in art and "<" not in e: art = art.replace(z, e, 1); n += 1
+    return art, n
+
 def gate_status(r, gegen_score=None):
     g = {"qa_score": r["qa"].get("score", 0), "qa_stop": r["qa"].get("stop", []),
          "fakten_falsch": len(r["fakten"].get("falsch", [])),
@@ -139,10 +147,11 @@ Format je Frage: <h3>Frage?</h3><p>Antwort</p>. Erster Satz beantwortet direkt, 
 {REGELN}\n--- DOSSIER ---\n{dos}\n--- ARTIKEL ---\n{art}""")
     art = art.replace("<h2>Quellen</h2>", faq + "\n<h2>Quellen</h2>", 1) if "<h2>Quellen</h2>" in art else art + "\n" + faq
     w("05-draft.html", art); log("6 FAQ eingefügt")
-    # 7 Reviews + 8 Schleife (max 2)
+    # 7 Reviews + 8 Schleife (max 3)
     r = reviews(art, dos, prod); g = gate_status(r)
     w("06-reviews.json", r); log(f"7 Reviews: QA {g['qa_score']}, falsch {g['fakten_falsch']}, Legal mittel/hoch {g['legal_mittel_hoch']}, tote Links {len(g['links_tot'])}")
-    for schleife in (1, 2):
+    for schleife in (1, 2, 3):
+        art, n = ersetze(art, r); log(f"8 Schleife {schleife}: {n} Ersatzformulierungen wörtlich übernommen")
         art = chat(f"""Du bist Chefredaktion und Autor. Arbeite ALLE Korrekturen der Reviews in den Artikel ein (Priorität: Stop-Kriterien, falsche Fakten/Recht, Produkt, Ton/Struktur).
 Unbelegtes entschärfen oder streichen, nie raten. Tote Links entfernen (Quelle streichen oder Aussage entschärfen). Struktur und Format beibehalten. Gib den kompletten korrigierten Artikel aus.
 {REGELN}\n{FORMAT}\n--- REVIEWS ---\n{json.dumps(r, ensure_ascii=False)}\n--- DOSSIER ---\n{dos}\n--- ARTIKEL ---\n{art}""")
@@ -182,6 +191,14 @@ Antwortformat genau so:
     ziel = "articles" if g["bestanden"] else "articles-zurueckgestellt"
     os.makedirs(os.path.join(P, ziel), exist_ok=True)
     open(os.path.join(P, ziel, slug + ".html"), "w", encoding="utf-8").write(art)
+    if g["bestanden"]:
+        try:
+            from image import illustrate
+            art2, bild = illustrate(slug, art)
+            if bild: art = art2; open(os.path.join(P, "articles", slug + ".html"), "w", encoding="utf-8").write(art); log(f"11 Bild: {bild}")
+            else: log("11 Bild: keines (QA nicht bestanden), Artikel bleibt ohne Bild")
+        except Exception as e:
+            log(f"11 Bild-Fehler (Artikel unberuehrt): {e}")
     g.update({"query": QUERY, "slug": slug, "h1": brief.get("h1"), "kosten_usd": round(COST["usd"], 4), "llm_calls": COST["calls"], "modell": MODEL, "gegencheck_modell": GEGEN, "datum": str(HEUTE)})
     w("gate.json", g); log(f"10 Gate: {'BESTANDEN' if g['bestanden'] else 'ZURUECKGESTELLT'} -> {ziel}/{slug}.html, Kosten {g['kosten_usd']} USD")
     w("log.md", f"# Lauf {slug}\n\n" + "\n".join(LOG) + "\n")

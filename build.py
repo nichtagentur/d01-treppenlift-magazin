@@ -6,7 +6,8 @@ CSS = """body{font-family:system-ui,sans-serif;max-width:820px;margin:0 auto;pad
 h1{font-size:1.8em;line-height:1.25}h2{margin-top:1.6em}article{border-top:4px solid #c00;margin-top:3em;padding-top:1em}
 table{border-collapse:collapse;width:100%;font-size:.95em}td,th{border:1px solid #ccc;padding:6px;text-align:left;vertical-align:top}
 .meta{color:#666;font-size:.9em}.box{background:#f4f4f4;padding:12px 16px;border-left:4px solid #c00}nav li{margin:4px 0}
-.top{font-size:.85em}"""
+.top{font-size:.85em}
+figure.hero{margin:0 0 1em}figure.hero img{width:100%;height:auto;border-radius:4px}figcaption{font-size:.8em;color:#666}"""
 def page(title, body):
     return f'<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>{CSS}</style></head><body>{body}</body></html>'
 files = sorted(glob.glob(f"{P}/articles/[0-9][0-9]-*.html"))
